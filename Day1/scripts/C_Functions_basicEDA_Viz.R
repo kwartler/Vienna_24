@@ -96,7 +96,7 @@ ggplot(screenTime,
   theme_gdocs() + #add a default "theme"
   theme(legend.position="none") # turn off the need for a legend
 ggsave("~/Desktop/Vienna_July24/personalFiles/character_scenes.pdf")
-ggsave("~/Desktop/Vienna_July24/personalFilescharacter_scenes.png")
+ggsave("~/Desktop/Vienna_July24/personalFiles/character_scenes.png")
 ggsave("~/Desktop/Vienna_July24/personalFiles/character_scenes.jpg")
 
 # End
