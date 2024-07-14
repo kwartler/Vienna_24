@@ -3,7 +3,7 @@
 #' Purpose: Build predictive models that can predict which booking is going to be canceled & choose the most accurate one
 #' Source: https://www.kaggle.com/datasets/mariyamalshatta/inn-hotels-group
 
-# library & options - ggplot, ggthemes, rpart, randomForest, caret (if you want to try other models), MLmetrics, vtreat
+# library & options - ggplot, ggthemes, rpart, randomForest, caret (if you want to try other models as an advanced student), MLmetrics, vtreat
 library(_)
 library(_)
 library(_)
@@ -14,7 +14,7 @@ library(_)
 options(scipen = 999)
 
 # SAMPLE
-hotelData <- read.csv('https://raw.githubusercontent.com/kwartler/Harvard_DataMining_Business_Student/master/Lessons/F_Tree_RF/challenge!/INNHotelsGroup.csv')
+hotelData <- read.csv('https://raw.githubusercontent.com/kwartler/teaching-datasets/main/INNHotelsGroup.csv')
 
 # Let's take 10% for vtreat & split 80/20 for the remaining
 variableTreatmentIdx <- sample(1:nrow(hotelData), nrow(hotelData)*.1)
@@ -50,7 +50,7 @@ treatedValitation$booking_status  <- ifelse(____________$booking_status=='Not_Ca
 treatedTrain      <- treatedTrain[,!grepl('_cat', names(treatedTrain)) ]
 treatedValitation <- treatedValitation[,!grepl('_cat', names(treatedValitation)) ]
 
-# MODEL - logistic regression, rpart and rf
+# MODEL - logistic regression, rpart and rf; ignore if you're just doing basic track work for now
 logFit   <- ___(______________~., __________, family = '________')
 rpartFit <- _____(as.factor(booking_status)~., 
                   _____________,
@@ -97,11 +97,11 @@ Accuracy(y_pred = ________, y_true = trainingPredDF$_______)
 
 ### Now redo using the validation set and compare.  Look for consistency between training and validation AND select the most accurate.
 
-
+####BETA STILL TESTING#####
 ################# Not really part of the lesson!! ###################
 ### For those that are interested here is a quick way to get a web form of the logistic model
 # Get custom function
-devtools::source_url('https://raw.githubusercontent.com/kwartler/Harvard_DataMining_Business_Student/master/Lessons/F_Tree_RF/A_logisticRegression_catchUP/ZZ_betaForms/beta_renderLogisticForm_with_aesthetics.R')
+devtools::source_url('https://raw.githubusercontent.com/kwartler/Vienna_July24/main/Day2/Z_beta_scripts/beta_renderLogisticForm_with_aesthetics.R')
 
 # Get the coefficients and betas
 # Organize the df object
@@ -121,7 +121,7 @@ renderLogisticForm(df,
                    submitButtonColor     = 'blue', 
                    submitButtonFontColor = 'orange', 
                    font                  = 'arial', 
-                   fileName = '~/Desktop/Harvard_DataMining_Business_Student/personalFiles/challengeLogistic.html')
+                   fileName = '~/Desktop/Vienna_July24/personalFiles/challengeLogistic.html')
 
 # You can test this form by having 4 adults, in the year 2020 with 2 special requests.  It should give you a non 0/1 probability.
 
