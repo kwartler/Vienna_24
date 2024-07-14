@@ -1,13 +1,13 @@
-#' @param df dataframe with the following characteristics column one name is "x" consisting of string variable names. Column 2 name is "beta" with corresponding beta coefficient values.  Column 3 is called "type" denoting each variable type as "intercept", "Boolean", "numeric", "character", "dummy".  Finally the data.frame paramater "stringsAsFactors" must be set to FALSE.   See example for clarification.
+#' @param df dataframe with the following characteristics column one name is "x" consisting of string variable names. Column 2 name is "beta" with corresponding beta coefficient values.  Column 3 is called "type" denoting each variable type as "intercept", "Boolean", "numeric", "character", "dummy".  Finally the data.frame parameter "stringsAsFactors" must be set to FALSE.   See example for clarification.
 #' @param fileName character string ending in .html ie. "myForm.html"; NULL will create a default name.
 
 #' @example
 #' # Example DF data
-df <- data.frame(x =c('\\(Intercept\\)','balance','duration',
-                      'poutcome_lev_x_success','month_lev_x_nov'),
-                 beta = c(-3.95,0.000018,0.005675,2.4766581,-1.2201),
-                 type = c('intercept','numeric','numeric','dummy', 'dummy'))
-renderLogisticForm(df)
+#df <- data.frame(x =c('\\(Intercept\\)','balance','duration',
+#                      'poutcome_lev_x_success','month_lev_x_nov'),
+#                 beta = c(-3.95,0.000018,0.005675,2.4766581,-1.2201),
+#                 type = c('intercept','numeric','numeric','dummy', 'dummy'))
+#renderLogisticForm(df)
 
 renderLogisticForm <- function(df, fileName = NULL) {
   df$x <- gsub("\\W", "", df$x) # Remove non-alphanumeric symbols to create valid JavaScript variable names
