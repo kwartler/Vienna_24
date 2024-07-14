@@ -8,7 +8,7 @@ library(MLmetrics)
 options(scipen = 999)
 
 # Data
-houses <-read.csv('https://raw.githubusercontent.com/kwartler/Harvard_DataMining_Business_Student/master/Lessons/E_Regressions/data/BostonHousing.csv')
+houses <-read.csv('https://raw.githubusercontent.com/kwartler/teaching-datasets/main/BostonHousing.csv')
 houses <- houses[order(houses$MEDV), ]
 houses$realValue <- houses$MEDV*10000
 houses$MEDV <- NULL #original variable

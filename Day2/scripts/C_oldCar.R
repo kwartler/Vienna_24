@@ -12,7 +12,7 @@ library(MLmetrics)
 options(scipen=999)
 
 # Dat
-cars <- read.csv('https://raw.githubusercontent.com/kwartler/Harvard_DataMining_Business_Student/master/Lessons/E_Regressions/data/oldCar.csv')
+cars <- read.csv('https://raw.githubusercontent.com/kwartler/teaching-datasets/main/oldCar.csv')
 
 # Partitioning 20% test set
 splitPercent <- round(nrow(cars) %*% .8)

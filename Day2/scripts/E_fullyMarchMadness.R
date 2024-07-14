@@ -11,7 +11,7 @@ library(pROC)
 library(ggplot2)
 
 # Data location
-filePath <- 'https://raw.githubusercontent.com/kwartler/Harvard_DataMining_Business_Student/master/Lessons/E_Regressions/data/ncaa.csv'
+filePath <- 'https://raw.githubusercontent.com/kwartler/teaching-datasets/main/ncaa.csv'
 
 # Data
 bball <- read.csv(filePath)
