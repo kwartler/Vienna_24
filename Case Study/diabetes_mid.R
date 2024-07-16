@@ -12,7 +12,7 @@ hospitalStayData <- read.csv('https://raw.githubusercontent.com/kwartler/teachin
 patientDemographic <- read.csv('https://raw.githubusercontent.com/kwartler/teaching-datasets/main/diabetes_tables/patientDemographics.csv')
 
 # Join the data
-# Join in this order to simplicity
+# Join in this order for simplicity
 # patientDemographic>drugData>hospitalStayData>drNotes
 
 # Scrub the data - account for missing with dummy variables; drop the dr notes section if you joined it; an easy method after the join is to explore the library(vtreat) or use the various dummy packages to help you; and remember you can use GPT!
