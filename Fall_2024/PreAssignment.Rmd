@@ -23,7 +23,8 @@ The aim of this pre-assignment is help you catch up to others in the cohort that
 
 ## Data
 
-We'll use a dataset from Kaggle called [Superstore Sales](https://www.kaggle.com/jr2ngb/superstore-data). This dataset includes 10,000 rows and several useful columns for our analysis, including:
+We'll use a dataset from Kaggle called [Superstore Sales](https://www.kaggle.com/jr2ngb/superstore-data). 
+This dataset includes 10,000 rows and several useful columns for our analysis, including:
 
 - Order ID
 - Ship Mode
