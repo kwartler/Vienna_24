@@ -67,7 +67,7 @@ You'll be loading data from a CSV file into R which requires the `read.csv` func
 
 ```{r data, include=T}
 # Load Data, create an object called SuperstoreData with the correct table reading function
-_________ <- ____.___("https://github.com/kwartler/Vienna_24/raw/refs/heads/main/Fall_2024/superstore_dataset2011-2015.csv")
+_________ <- ____.___("https://github.com/kwartler/Vienna_24/raw/refs/heads/main/Fall_2024/preAssignment/superstore_dataset2011-2015.csv")
 ```
 
 ### Step 2: Explore the Data
