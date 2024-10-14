@@ -67,7 +67,7 @@ You'll be loading data from a CSV file into R which requires the `read.csv` func
 
 ```{r data, include=T}
 # Load Data, create an object called SuperstoreData with the correct table reading function
-_________ <- ____.___("https://github.com/kwartler/Vienna_24/raw/refs/heads/main/Fall_2024/preAssignment/superstore_dataset2011-2015.csv")
+_________ <- ____.___("https://github.com/kwartler/Vienna_24/raw/refs/heads/main/Fall_2024/preAssignment/advanced/superstore_dataset2011-2015.csv")
 ```
 
 ### Step 2: Explore the Data
@@ -142,8 +142,8 @@ Some questions to consider:
 - How well does the model explain the variation?
 - Are the model's predictors significant? 
 
-Write your observations.
+Write your observations below.
 
 ## Deliverable
 
-Submit your well-structured, thoroughly-commented R script including outputs. Also, provide your interpretation and insights obtained from the regression models in two slides described in the syllabus.
+Submit your well-structured, thoroughly-commented R markdown script including outputs. Also, provide your interpretation and insights obtained from the regression models in the HTML when knitting.
