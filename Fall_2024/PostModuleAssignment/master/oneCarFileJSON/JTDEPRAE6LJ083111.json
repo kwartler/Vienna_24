@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAE6LJ083111",
+    "trueCarID": 83111,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAE6LJ083111/2020-toyota-corolla/",
+    "listingDateDiff": "37 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Salvage",
+    "vehicleHistNumOwners": 4,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "60,206",
+    "interiorColor": "Black",
+    "exteriorColor": "Barcelona Red Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 4 owners",
+    "location": "Jacksonville, FL",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$280/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$1,466 ",
+    "priceClassDiffAmt": "(8.7%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Automatic Air Conditioning ~ Pollen sensor Air Conditioning ~ Center Armrests ~ Controls ~  voice-activated Audio ~ Digital media auxiliary jack Audio ~ iPod adapter Audio ~ Entune Audio - Brand ~ AM/FM Audio - Radio ~ 6 Audio - Speakers ~ USB port Capabilities/Wiring ~ Digital Clock ~ Bluetooth ~  hands-free phone Communication ~ Wireless Communication ~ Center Consoles ~ Storage Consoles ~ 4 Cupholders",
+    "listPrice": "$16,899"
+  }
+]

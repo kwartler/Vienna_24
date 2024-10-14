@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHEXGP401170",
+    "trueCarID": 27184,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHEXGP401170/2016-toyota-corolla/",
+    "listingDateDiff": "65 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "100,365",
+    "interiorColor": "Steel Gray",
+    "exteriorColor": "Barcelona Red Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 2 owners",
+    "location": "Everett, WA",
+    "mileageRating": "28 cty / 37 hwy",
+    "monthlyPayment": "$257/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$773 ",
+    "priceClassDiffAmt": "(5%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "****80 POINT INSPECTION ~  FULL DETAIL ~  AND FRESH OIL CHANGE COMPLETED**** ~ ***BACK UP CAMERA*** ~ ***BLUETOOTH WIRELESS*** ~ ***HEATED FRONT SEATS*** ~ ***LEATHER AND LOADED*** ~ ***MOONROOF*** ~ ***NAVIGATION*** ~ ***PREMIUM SOUND*** ~ ***PREMIUM WHEELS*** ~ 15\" x 6.0\" Steel Wheels ~ 6 Speakers ~ ABS (4-wheel) ~ ABS brakes ~ AM/FM radio ~ Air Conditioning ~ Air filtration",
+    "listPrice": "$15,499"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEAMDE3MJ023613",
+    "trueCarID": "PU3242",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEAMDE3MJ023613/2021-toyota-corolla/",
+    "listingDateDiff": "1 day ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Hybrid",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Hybrid",
+    "mileage": "21,571",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "Certified Pre-Owned",
+    "location": "White River Junction, VT",
+    "mileageRating": "53 cty / 52 hwy",
+    "monthlyPayment": "$414/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$175 ",
+    "priceClassDiffAmt": "(0.7%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ 4-Wheel Disc Brakes ~ Brake Assist ~ Aluminum Wheels ~ Tires - Front All-Season ~ Tires - Rear All-Season ~ Wheel Covers ~ Heated Mirrors ~ Power Mirror(s) ~ Rear Defrost ~ Intermittent Wipers ~ Variable Speed Intermittent Wipers ~ Automatic Highbeams ~ Daytime Running Lights ~ Automatic Headlights ~ LED Headlights",
+    "listPrice": "$24,997"
+  }
+]

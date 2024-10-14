@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE1JC973168",
+    "trueCarID": 3168,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE1JC973168/2018-toyota-corolla/",
+    "listingDateDiff": "44 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "67,300",
+    "interiorColor": "Black",
+    "exteriorColor": "Silver",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 3 owners",
+    "location": "Tucson, AZ",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$282/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$247 ",
+    "priceClassDiffAmt": "(1.5%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Door Handle Color - Body-Color ~  Front Bumper Color - Body-Color ~  Grille Color - Black ~  Mirror Color - Body-Color ~  Rear Bumper Color - Body-Color ~  Steering Ratio - 17.8 ~  Turns Lock-To-Lock - 3.2 ~  Air Filtration ~  Armrests - Rear Center With Cupholders ~  Armrests - Rear Folding ~  Floor Material - Carpet ~  Front Air Conditioning - Automatic Climate Control ~  Front Air Conditioning Zones - Single ~  Interior Accents - Chrome ~  Interior Accents - Color Keyed ~  Interior Accents - Metallic-Tone ~  Shift Knob Trim - Alloy ~  Steering Wheel Trim - Urethane",
+    "listPrice": "$16,999"
+  }
+]

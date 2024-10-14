@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHEXHC785288",
+    "trueCarID": 785288,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHEXHC785288/2017-toyota-corolla/",
+    "listingDateDiff": "47 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Salvage",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "88,479",
+    "interiorColor": "Black",
+    "exteriorColor": "Black Cherry Pearl",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 3 owners",
+    "location": "Jacksonville, FL",
+    "mileageRating": "28 cty / 35 hwy",
+    "monthlyPayment": "$265/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$1,954 ",
+    "priceClassDiffAmt": "(12.2%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Air filter Air Conditioning ~ Automatic Air Conditioning ~ Pollen sensor Air Conditioning ~ Center Armrests ~ Controls ~  voice-activated Audio ~ Digital media auxiliary jack Audio ~ iPod adapter Audio ~ Entune Audio - Brand ~ CD Audio - CD/MP3 ~ MP3 Audio - CD/MP3 ~ WMA playback Audio - CD/MP3 ~ AM/FM Audio - Radio ~ HD Audio - Radio ~ 6 Audio - Speakers ~ USB port Capabilities/Wiring ~ Digital Clock ~ Bluetooth",
+    "listPrice": "$15,999"
+  }
+]

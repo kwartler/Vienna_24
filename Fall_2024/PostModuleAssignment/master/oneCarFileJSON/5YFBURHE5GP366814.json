@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE5GP366814",
+    "trueCarID": "MHIP160173",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE5GP366814/2016-toyota-corolla/",
+    "listingDateDiff": "24 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 4,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "92,249",
+    "interiorColor": "Steel Gray",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Irving, TX",
+    "mileageRating": "27 cty / 36 hwy",
+    "monthlyPayment": "$229/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "Great Price",
+    "allFeatures": "6 Speakers ~ AM/FM radio ~ CD player ~ Radio data system ~ Radio: AM/FM/CD Player w/6.1 Touch Screen ~ Air Conditioning ~ Rear window defroster ~ Power steering ~ Power windows ~ Steering wheel mounted audio controls ~ Speed-sensing steering ~ Traction control ~ ABS brakes ~ Dual front impact airbags ~ Dual front side impact airbags ~ Front anti-roll bar ~ Front wheel independent suspension ~ Knee airbag",
+    "listPrice": "$13,792"
+  }
+]

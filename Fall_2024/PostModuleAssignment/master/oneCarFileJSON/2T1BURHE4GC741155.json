@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE4GC741155",
+    "trueCarID": "23746A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE4GC741155/2016-toyota-corolla/",
+    "listingDateDiff": "9 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "87,881",
+    "interiorColor": "S",
+    "exteriorColor": "Black",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Northumberland, PA",
+    "mileageRating": "29 cty / 37 hwy",
+    "monthlyPayment": "$282/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$734 ",
+    "priceClassDiffAmt": "(4.3%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "1 12V DC Power Outlet ~  13.2 Gal. Fuel Tank ~  390CCA Maintenance-Free Battery w/Run Down Protection ~  4-Way Passenger Seat ~  4-Wheel Disc Brakes w/4-Wheel ABS  Front Vented Discs  Brake Assist and Hill Hold Control ~  4.76 Axle Ratio ~  6-Way Driver Seat ~  60-40 Folding Bench Front Facing Fold Forward Seatback Rear Seat ~  80 Amp Alternator ~  ABS And Driveline Traction Control ~  Air Filtration ~  Airbag Occupancy Sensor ~  Analog Appearance ~  Auto Off Projector Beam Led Low Beam Daytime Running Headlamps w/Delay-Off ~  Automatic Air Conditioning ~  Automatic Equalizer ~  Back-Up Camera ~  Black grille w/chrome surround",
+    "listPrice": "$16,991"
+  }
+]

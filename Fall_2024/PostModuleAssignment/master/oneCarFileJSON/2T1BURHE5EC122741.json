@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE5EC122741",
+    "trueCarID": 122741,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE5EC122741/2014-toyota-corolla/",
+    "listingDateDiff": "118 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "122,638",
+    "interiorColor": "Beige",
+    "exteriorColor": "Gray",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Valparaiso, IN",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$232/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$199 ",
+    "priceClassDiffAmt": "(1.4%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Door Handle Color - Body-Color ~  Front Bumper Color - Body-Color ~  Grille Color - Black ~  Mirror Color - Body-Color ~  Rear Bumper Color - Body-Color ~  Window Trim - Black ~  Steering Ratio - 17.8 ~  Turns Lock-To-Lock - 3.2 ~  Air Filtration ~  Front Air Conditioning - Automatic Climate Control ~  Front Air Conditioning Zones - Single ~  Interior Accents - Color Keyed ~  Interior Accents - Metallic-Tone ~  Assist Handle - Front ~  Center Console - Front Console With Armrest And Storage ~  Cruise Control ~  Cupholders - Front ~  Cupholders - Rear",
+    "listPrice": "$13,995"
+  }
+]

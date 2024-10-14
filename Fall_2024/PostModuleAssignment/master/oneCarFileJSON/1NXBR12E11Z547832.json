@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "1NXBR12E11Z547832",
+    "trueCarID": null,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/1NXBR12E11Z547832/2001-toyota-corolla/",
+    "listingDateDiff": "12 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "101,355",
+    "interiorColor": "Beige",
+    "exteriorColor": "Gold",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "San Diego, CA",
+    "mileageRating": "28 cty / 32 hwy",
+    "monthlyPayment": "$56/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": null,
+    "allFeatures": "Center Console ~  Multi-Function Remote - Trunk Release ~  Power Steering ~  Power Brakes ~  Radio - Am/Fm ~  Gauge - Tachometer ~  Daytime Running Lights ~  Headlights - Auto On/Off ~  Wheel Diameter - 14 Inch ~  Wheels - Steel ~  Front Airbags - Dual ~  Front Seat Type - Bucket ~  Upholstery - Cloth ~  Rear Seat Type - Bench",
+    "listPrice": "$3,399"
+  }
+]

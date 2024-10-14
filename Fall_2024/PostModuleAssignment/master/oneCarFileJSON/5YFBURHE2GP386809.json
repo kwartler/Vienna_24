@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE2GP386809",
+    "trueCarID": 386809,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE2GP386809/2016-toyota-corolla/",
+    "listingDateDiff": "103 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "97,458",
+    "interiorColor": "Black",
+    "exteriorColor": "Black",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Phoenix, AZ",
+    "mileageRating": "27 cty / 36 hwy",
+    "monthlyPayment": "$232/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "1 12V DC Power Outlet ~ 13.2 Gal. Fuel Tank ~ 390CCA Maintenance-Free Battery w/Run Down Protection ~ 4-Way Passenger Seat ~ 60-40 Folding Bench Front Facing Fold Forward Seatback Rear Seat ~ 80 Amp Alternator ~ Air Filtration ~ Airbag Occupancy Sensor ~ Analog Appearance ~ Auto Off Projector Beam Led Low Beam Daytime Running Headlamps w/Delay-Off ~ Automatic Equalizer ~ Black Side Windows Trim ~ Body-Colored Door Handles ~ Body-Colored Front Bumper ~ Body-Colored Rear Bumper ~ Cargo Space Lights ~ Carpet Floor Trim and Carpet Trunk Lid/Rear Cargo Door Trim ~ Clearcoat Paint",
+    "listPrice": "$13,999"
+  }
+]

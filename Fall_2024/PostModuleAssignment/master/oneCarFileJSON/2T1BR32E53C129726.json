@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BR32E53C129726",
+    "trueCarID": "MM129726",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BR32E53C129726/2003-toyota-corolla/",
+    "listingDateDiff": "10 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Manual",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "190,254",
+    "interiorColor": "Gray",
+    "exteriorColor": "Silver",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Arlington, VA",
+    "mileageRating": "32 cty / 40 hwy",
+    "monthlyPayment": "$66/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$118 ",
+    "priceClassDiffAmt": "(2.9%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "4-Cyl 1.8 Liter ~ Manual 5-Spd ~ FWD ~ ABS (4-Wheel) ~ Air Conditioning ~ Power Windows ~ Power Door Locks ~ Cruise Control ~ Power Steering ~ Tilt Wheel ~ AM/FM Stereo ~ CD/MP3 (Single Disc) ~ Dual Air Bags ~ Alloy Wheels",
+    "listPrice": "$3,999"
+  }
+]

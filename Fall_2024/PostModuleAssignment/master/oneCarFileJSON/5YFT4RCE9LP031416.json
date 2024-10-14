@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFT4RCE9LP031416",
+    "trueCarID": "P031416",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFT4RCE9LP031416/2020-toyota-corolla/",
+    "listingDateDiff": "34 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "43,595",
+    "interiorColor": "Black",
+    "exteriorColor": "Blueprint",
+    "style": "Sedan",
+    "accidentOwnership": "Certified Pre-Owned",
+    "location": "Deerfield Beach, FL",
+    "mileageRating": "31 cty / 38 hwy",
+    "monthlyPayment": "$374/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$59 ",
+    "priceClassDiffAmt": "(0.3%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Air Conditioning ~ Spoiler ~ Tachometer ~ 6 Speakers ~ AM/FM radio: SiriusXM ~ Radio data system ~ Radio: Audio Plus AM/FM/HD w/Navigation ~ Automatic temperature control ~ Rear window defroster ~ Power driver seat ~ Power steering ~ Power windows ~ Remote keyless entry ~ Steering wheel mounted audio controls ~ Four wheel independent suspension ~ Traction control ~ 4-Wheel Disc Brakes ~ ABS brakes",
+    "listPrice": "$22,595"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE8HC809412",
+    "trueCarID": 9412,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE8HC809412/2017-toyota-corolla/",
+    "listingDateDiff": "125 days ago",
+    "vehicleHistUseType": "Mixed Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "76,058",
+    "interiorColor": "Gray",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "Fredericksburg, VA",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$265/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$17 ",
+    "priceClassDiffAmt": "(0.1%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Cruise Control ~  Power Steering ~  Power Mirrors ~  Memory Seat Position ~  Clock ~  Tachometer ~  Telescoping Steering Wheel ~  Steering Wheel Radio Controls ~  Driver Airbag ~  Passenger Airbag ~  Side Airbags ~  Keyless Entry ~  Rear Defogger ~  Intermittent Wipers ~  AM/FM ~  Anti-Theft ~  Aux. Audio Input ~  Bluetooth",
+    "listPrice": "$15,995"
+  }
+]

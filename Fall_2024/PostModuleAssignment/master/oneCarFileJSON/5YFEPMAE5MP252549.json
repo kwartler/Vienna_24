@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE5MP252549",
+    "trueCarID": 252549,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE5MP252549/2021-toyota-corolla/",
+    "listingDateDiff": "99 days ago",
+    "vehicleHistUseType": "Mixed Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "12,180",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Blueprint",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Helena, MT",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "No Price Available",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": null,
+    "allFeatures": "Gas Engine Type ~ Regular Unleaded Fuel Type ~ 139 Horsepower ~ 6100 Horsepower RPM ~ 126 Torque ~ 3900 Torque RPM ~ 1.8 Engine Displacement ~ Inline Engine Configuration ~ 4 Cylinders ~ Variable Valvetrain ~ Double Overhead Valvetrain ~ 16 Number of Valves ~ 10.69 Compression Ratio ~ 30 EPA City Fuel Economy ~ 38 EPA Highway Fuel Economy ~ 33 EPA Combined Fuel Economy ~ Automatic Transmission Type ~ Continuously Variable",
+    "listPrice": "No Price Available"
+  }
+]

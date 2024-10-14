@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAE6LJ069368",
+    "trueCarID": "LJ069368",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAE6LJ069368/2020-toyota-corolla/",
+    "listingDateDiff": "8 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "33,292",
+    "interiorColor": "Macadamia",
+    "exteriorColor": "Blueprint",
+    "style": "Sedan",
+    "accidentOwnership": "Certified Pre-Owned",
+    "location": "Wesley Chapel, FL",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$348/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$57 ",
+    "priceClassDiffAmt": "(0.3%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "4 Cylinder Engine ~ 4-Wheel ABS ~ 4-Wheel Disc Brakes ~ A/C ~ Adaptive Cruise Control ~ Adjustable Steering Wheel ~ AM/FM Stereo ~ Apple CarPlay ~ Auto-Off Headlights ~ Back-Up Camera ~ Brake Assist ~ Bucket Seats ~ Child Safety Locks ~ Climate Control ~ Cloth Seats ~ Compact Spare Tire ~ Continuously Variable Trans ~ Cruise Control",
+    "listPrice": "$20,999"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFS4MCE8MP077545",
+    "trueCarID": "MP077545",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFS4MCE8MP077545/2021-toyota-corolla/",
+    "listingDateDiff": "Premium Wheels",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "38,271",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Santa Ana, CA",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$381/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$445 ",
+    "priceClassDiffAmt": "(1.9%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "(Lane Tracing Assist/ Remote Keyless Entry) ~ 50 State Emissions ~ Classic Silver Metallic W/Black Sand Pearl Roof ~ Air Bag - Frontal: Driver Air Bag ~ Air Bag - Frontal: Passenger Air Bag ~ Air Conditioning: A/C ~ Air Filtration ~ Audio: Am/Fm Stereo ~ Audio: Mp3 Player ~ Brakes: 4-Wheel Disc Brakes ~ Brakes: Abs ~ Clearcoat Paint ~ Convenience: Cruise Control ~ Convenience: Trip Computer ~ Engine: 2.0L I-4 Dohc 16-Valve -Inc: Dynamic Force ~ Front-Wheel Drive ~ Locks: Power Door Locks ~ Transmission: Cvt Transmission",
+    "listPrice": "$22,999"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE8JP778099",
+    "trueCarID": 788099,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE8JP778099/2018-toyota-corolla/",
+    "listingDateDiff": "7 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "28,984",
+    "interiorColor": "Black",
+    "exteriorColor": "White",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Somerville, MA",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$364/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$232 ",
+    "priceClassDiffAmt": "(1.1%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "1 12V DC Power Outlet ~ 13.2 Gal. Fuel Tank ~ 390CCA Maintenance-Free Battery w/Run Down Protection ~ 60-40 Folding Bench Front Facing Fold Forward Seatback Rear Seat ~ 80 Amp Alternator ~ Air Filtration ~ Airbag Occupancy Sensor ~ Analog Appearance ~ Automatic Equalizer ~ Back-Up Camera ~ Black Grille ~ Black Side Windows Trim ~ Body-Colored Door Handles ~ Body-Colored Front Bumper ~ Body-Colored Rear Bumper ~ Cargo Space Lights ~ Carpet Floor Trim and Carpet Trunk Lid/Rear Cargo Door Trim ~ Clearcoat Paint",
+    "listPrice": "$21,995"
+  }
+]

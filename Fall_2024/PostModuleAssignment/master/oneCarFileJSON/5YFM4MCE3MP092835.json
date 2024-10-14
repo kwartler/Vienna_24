@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFM4MCE3MP092835",
+    "trueCarID": 97494,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFM4MCE3MP092835/2021-toyota-corolla/",
+    "listingDateDiff": "Premium Wheels",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Manual",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "20,033",
+    "interiorColor": "Moonstone",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Carson, CA",
+    "mileageRating": "29 cty / 36 hwy",
+    "monthlyPayment": "$439/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ 4-Wheel Disc Brakes ~ Brake Assist ~ Aluminum Wheels ~ Tires - Front Performance ~ Tires - Rear Performance ~ Temporary Spare Tire ~ Heated Mirrors ~ Power Mirror(s) ~ Integrated Turn Signal Mirrors ~ Rear Defrost ~ Intermittent Wipers ~ Variable Speed Intermittent Wipers ~ Rear Spoiler ~ Daytime Running Lights ~ Automatic Headlights",
+    "listPrice": "$26,495"
+  }
+]

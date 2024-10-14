@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAEXLJ020450",
+    "trueCarID": "S57021",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAEXLJ020450/2020-toyota-corolla/",
+    "listingDateDiff": "84 days ago",
+    "vehicleHistUseType": "Mixed Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "85,398",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Englewood, CO",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$298/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "$2 ",
+    "priceClassDiffAmt": "below",
+    "priceClassification": "Great Price",
+    "allFeatures": "Gas Engine Type ~ Regular Unleaded Fuel Type ~ 139 Horsepower ~ 6100 Horsepower RPM ~ 126 Torque ~ 3900 Torque RPM ~ 1.8 Engine Displacement ~ Inline Engine Configuration ~ 4 Cylinders ~ Variable Valvetrain ~ Double Overhead Valvetrain ~ 16 Number of Valves ~ 10.69 Compression Ratio ~ 30 EPA City Fuel Economy ~ 38 EPA Highway Fuel Economy ~ 33 EPA Combined Fuel Economy ~ Automatic Transmission Type ~ Continuously Variable",
+    "listPrice": "$17,988"
+  }
+]

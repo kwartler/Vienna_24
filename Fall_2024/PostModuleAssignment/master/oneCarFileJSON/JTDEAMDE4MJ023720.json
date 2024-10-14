@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEAMDE4MJ023720",
+    "trueCarID": "023720PC",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEAMDE4MJ023720/2021-toyota-corolla/",
+    "listingDateDiff": "22 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Hybrid",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Hybrid",
+    "mileage": "51,264",
+    "interiorColor": "Black",
+    "exteriorColor": "Blueprint",
+    "style": "Sedan",
+    "accidentOwnership": "Certified Pre-Owned",
+    "location": "San Jose, CA",
+    "mileageRating": "53 cty / 52 hwy",
+    "monthlyPayment": "$464/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "6 Speakers ~ AM/FM radio: SiriusXM ~ Radio data system ~ Radio: Audio AM/FM ~ Air Conditioning ~ Automatic temperature control ~ Rear window defroster ~ Power steering ~ Power windows ~ Remote keyless entry ~ Steering wheel mounted audio controls ~ Four wheel independent suspension ~ Traction control ~ 4-Wheel Disc Brakes ~ ABS brakes ~ Dual front impact airbags ~ Dual front side impact airbags ~ Emergency communication system: Safety Connect with 1-year trial",
+    "listPrice": "$27,990"
+  }
+]

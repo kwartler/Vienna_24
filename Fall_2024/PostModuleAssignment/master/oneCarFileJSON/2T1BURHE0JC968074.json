@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE0JC968074",
+    "trueCarID": "T39780A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE0JC968074/2018-toyota-corolla/",
+    "listingDateDiff": "26 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "41,357",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Lindon, UT",
+    "mileageRating": "28 cty / 35 hwy",
+    "monthlyPayment": "$323/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "6 Speakers ~ CD player ~ Radio data system ~ Air Conditioning ~ Automatic temperature control ~ Rear window defroster ~ Power steering ~ Power windows ~ Remote keyless entry ~ Steering wheel mounted audio controls ~ Speed-sensing steering ~ Traction control ~ 4-Wheel Disc Brakes ~ ABS brakes ~ Dual front impact airbags ~ Dual front side impact airbags ~ Front anti-roll bar ~ Front wheel independent suspension",
+    "listPrice": "$19,499"
+  }
+]

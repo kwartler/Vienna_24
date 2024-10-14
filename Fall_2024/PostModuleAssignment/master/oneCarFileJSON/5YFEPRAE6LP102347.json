@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPRAE6LP102347",
+    "trueCarID": "LP102347",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPRAE6LP102347/2020-toyota-corolla/",
+    "listingDateDiff": "30 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "49,574",
+    "interiorColor": "Black",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Azusa, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$351/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$785 ",
+    "priceClassDiffAmt": "(3.7%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Air filtration ~ Front air conditioning - automatic climate control ~ Front air conditioning zones - single ~ Airbag deactivation - occupant sensing passenger ~ Front airbags - dual ~ Knee airbags - driver ~ Seat cushion airbags - passenger front ~ Side airbags - front ~ Side curtain airbags - front  ~  rear ~ Antenna type - mast ~ Auxiliary audio input - Bluetooth  ~  USB  ~  iPod / iPhone  ~  jack ~ Internet radio app - Slacker  ~  iHeartRadio ~ Radio - AM / FM ",
+    "listPrice": "$21,195"
+  }
+]

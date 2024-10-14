@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBU4EE8CP024176",
+    "trueCarID": "CP024176NPX",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBU4EE8CP024176/2012-toyota-corolla/",
+    "listingDateDiff": "31 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "99,242",
+    "interiorColor": "Ash",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Fresno, CA",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$192/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$23 ",
+    "priceClassDiffAmt": "(0.2%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "4 Cylinder Engine ~ 4-Speed A/T ~ 4-Wheel ABS ~ A/C ~ Adjustable Steering Wheel ~ AM/FM Stereo ~ Auxiliary Pwr Outlet ~ Bluetooth® ~ Brake Assist ~ Bucket Seats ~ CD Player ~ Child Safety Locks ~ Cloth Seats ~ Compact Spare Tire ~ Cruise Control ~ Daytime Running Lights ~ Driver Air Bag ~ Driver Vanity Mirror",
+    "listPrice": "$11,557"
+  }
+]

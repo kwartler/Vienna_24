@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEAMDE6NJ045512",
+    "trueCarID": 103901,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEAMDE6NJ045512/2022-toyota-corolla/",
+    "listingDateDiff": "50 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Hybrid",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Hybrid",
+    "mileage": "9,550",
+    "interiorColor": "Black",
+    "exteriorColor": "Ruby Flare Pearl",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Phoenix, AZ",
+    "mileageRating": "53 cty / 52 hwy",
+    "monthlyPayment": "$477/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Engine: 1.8L Hybrid DOHC 16-Valve VVT-i ~ Transmission: CVTi ~ Engine Auto Stop-Start Feature ~ Transmission w/Driver Selectable Mode ~ Front-Wheel Drive ~ Battery w/Run Down Protection ~ Hybrid Electric Motor ~ Gas-Pressurized Shock Absorbers ~ Front And Rear Anti-Roll Bars ~ Electric Power-Assist Steering ~ Single Stainless Steel Exhaust ~ 11.4 Gal. Fuel Tank ~ Strut Front Suspension w/Coil Springs ~ Multi-Link Rear Suspension w/Coil Springs ~ Regenerative 4-Wheel Disc Brakes w/4-Wheel ABS; Front Vented Discs; Brake Assist; Hill Hold Control and Electric Parking Brake ~ Lithium Ion Traction Battery ~ Wheels: 15' Machined Alloy ~ Tires: P195/65R15 All-Season",
+    "listPrice": "$28,773"
+  }
+]

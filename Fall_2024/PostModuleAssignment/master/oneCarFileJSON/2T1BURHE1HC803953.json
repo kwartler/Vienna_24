@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE1HC803953",
+    "trueCarID": "105-953",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE1HC803953/2017-toyota-corolla/",
+    "listingDateDiff": "148 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "57,800",
+    "interiorColor": "Black",
+    "exteriorColor": "Gray",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Hayward, CA",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$298/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$267 ",
+    "priceClassDiffAmt": "(1.5%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Driver Air Bag ~ Passenger Air Bag ~ Side Air Bag ~ Power Door Locks ~ Heated Mirrors ~ Traction Control ~ Vehicle Anti-Theft System ~ Integrated Turn Signal Mirrors ~ Tire Pressure Monitoring ~ Electronic Stability Control ~ Climate Control ~ Air Conditioning ~ Cruise Control ~ Power Driver Mirror ~ Power Steering ~ Tilt Wheel ~ Steering wheel controls ~ Backup Camera",
+    "listPrice": "$17,995"
+  }
+]

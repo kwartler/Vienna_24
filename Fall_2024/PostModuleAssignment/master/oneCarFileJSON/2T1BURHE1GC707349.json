@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE1GC707349",
+    "trueCarID": null,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE1GC707349/2016-toyota-corolla/",
+    "listingDateDiff": "118 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "78,319",
+    "interiorColor": "Black",
+    "exteriorColor": "Silver",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 3 owners",
+    "location": "West Chester, OH",
+    "mileageRating": "29 cty / 37 hwy",
+    "monthlyPayment": "$232/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$849 ",
+    "priceClassDiffAmt": "(6.1%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Door Handle Color - Body-Color ~  Exhaust Tip Color - Chrome ~  Front Bumper Color - Body-Color ~  Grille Color - Black ~  Mirror Color - Body-Color ~  Rear Bumper Color - Body-Color ~  Rear Spoiler - Lip ~  Window Trim - Black ~  Steering Ratio - 17.8 ~  Turns Lock-To-Lock - 3.2 ~  Floor Material - Carpet ~  Front Air Conditioning - Automatic Climate Control ~  Front Air Conditioning Zones - Single ~  Steering Wheel Trim - Leather ~  Interior Accents - Color Keyed ~  Interior Accents - Metallic-Tone ~  Armrests - Rear Center With Cupholders ~  Assist Handle - Front",
+    "listPrice": "$13,995"
+  }
+]

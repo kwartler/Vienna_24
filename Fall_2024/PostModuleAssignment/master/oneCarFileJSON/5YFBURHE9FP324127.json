@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE9FP324127",
+    "trueCarID": 324127,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE9FP324127/2015-toyota-corolla/",
+    "listingDateDiff": "175 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "116,465",
+    "interiorColor": "Black",
+    "exteriorColor": "Blue",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 3 owners",
+    "location": "Deland, FL",
+    "mileageRating": "27 cty / 36 hwy",
+    "monthlyPayment": "$215/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Active Belts ~  Air Conditioning ~  AM/FM CD/MP3 Stereo ~  Anti-lock Brakes ~  Daytime Running Lights ~  Dual Rear Side Air Bags ~  Immobilizer and keyless entry ~  Power Brakes ~  Power Steering ~  Power Windows ~  Rear Head Air Bags ~  Tilt Steering Wheel",
+    "listPrice": "$12,990"
+  }
+]

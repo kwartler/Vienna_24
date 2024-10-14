@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE0KC240708",
+    "trueCarID": "P11218",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE0KC240708/2019-toyota-corolla/",
+    "listingDateDiff": "30 days ago",
+    "vehicleHistUseType": "Mixed Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "52,997",
+    "interiorColor": "Steel Gray",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 2,
+    "location": "Orlando, FL",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$315/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$755 ",
+    "priceClassDiffAmt": "(4%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ Front Disc/Rear Drum Brakes ~ Brake Assist ~ Steel Wheels ~ Tires - Front All-Season ~ Tires - Rear All-Season ~ Wheel Covers ~ Temporary Spare Tire ~ Power Mirror(s) ~ Rear Defrost ~ Intermittent Wipers ~ Daytime Running Lights ~ Automatic Headlights ~ LED Headlights ~ Automatic Highbeams ~ AM/FM Stereo",
+    "listPrice": "$18,988"
+  }
+]

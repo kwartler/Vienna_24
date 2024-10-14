@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEAMDEXMJ020160",
+    "trueCarID": "P020160",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEAMDEXMJ020160/2021-toyota-corolla/",
+    "listingDateDiff": "82 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Hybrid",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Hybrid",
+    "mileage": "103,969",
+    "interiorColor": "Black",
+    "exteriorColor": "Barcelona Red Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Newport Beach, CA",
+    "mileageRating": "53 cty / 52 hwy",
+    "monthlyPayment": "$328/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$83 ",
+    "priceClassDiffAmt": "(0.4%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "ABS Brakes ~ Child Safety Door Locks ~ Cruise Control ~ Driver Airbag ~ Front Side Airbag ~ Passenger Airbag ~ Power Windows ~ Side Head Curtain Airbag ~ Telescopic Steering Column",
+    "listPrice": "$19,777"
+  }
+]

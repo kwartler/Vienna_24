@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE9FC321633",
+    "trueCarID": 321633,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE9FC321633/2015-toyota-corolla/",
+    "listingDateDiff": "86 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 3,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "112,898",
+    "interiorColor": "Black",
+    "exteriorColor": "Black Sand Mica",
+    "style": "Sedan",
+    "accidentOwnership": "3 accidents, 2 owners",
+    "location": "Vernon Rockville, CT",
+    "mileageRating": "29 cty / 37 hwy",
+    "monthlyPayment": "$215/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "$1 ",
+    "priceClassDiffAmt": "above",
+    "priceClassification": "Fair Price",
+    "allFeatures": "4 Cylinder Engine ~ ABS ~ A/C ~ Adjustable Steering Wheel ~ AM/FM Stereo ~ Automatic Headlights ~ Auxiliary Audio Input ~ Brake Assist ~ Bucket Seats ~ CD Player ~ Child Safety Locks ~ Temporary Spare Tire ~ Daytime Running Lights ~ Driver Air Bag ~ Driver Vanity Mirror ~ Stability Control ~ Front Wheel Drive ~ Gasoline Fuel",
+    "listPrice": "$12,990"
+  }
+]

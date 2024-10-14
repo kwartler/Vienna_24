@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE0NP273715",
+    "trueCarID": 23895131,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE0NP273715/2022-toyota-corolla/?zipcode=27103",
+    "listingDateDiff": "9 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "37,060",
+    "interiorColor": "Black",
+    "exteriorColor": "White",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Winston Salem, NC",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$365/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$682 ",
+    "priceClassDiffAmt": "(3.1%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "Rear View Camera ~ Auxiliary Audio Input ~ Overhead Airbags ~ Traction Control ~ Side Airbags ~ Air Conditioning ~ ABS Brakes ~ Power Locks ~ Power Mirrors ~ AM/FM Stereo ~ Satellite Radio Ready ~ Rear Defroster ~ Power Windows ~ Cloth Seats ~ Automatic Transmission ~ Android Auto ~ Bluetooth Technology ~ Apple CarPlay",
+    "listPrice": "$21,998"
+  }
+]

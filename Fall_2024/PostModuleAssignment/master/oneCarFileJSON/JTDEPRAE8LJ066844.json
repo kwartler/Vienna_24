@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAE8LJ066844",
+    "trueCarID": "23K0406A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAE8LJ066844/2020-toyota-corolla/",
+    "listingDateDiff": "9 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "54,713",
+    "interiorColor": "Light Gray",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "San Jose, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$331/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$33 ",
+    "priceClassDiffAmt": "(0.2%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "30 38 City Highway MPG br  br 2020 Toyota Corolla LE Classic Silver Metallic FWD CVT 1.8L I4 DOHC 16V br  br  br Priced below KBB Fair Purchase Price! br  br  br Awards  br     2020 KBB.com 10 Coolest New Cars Under $20 ~ 000 ~ Power Windows ~ Radio: Audio AM/FM w/Navigation ~ Remote keyless entry ~ Premium Fabric Seat Trim ~ Driver door bin ~ Intermittent Wipers ~ Exterior parking camera rear ~ Steering Wheel Audio Control ~ Traction Control ~ Rear seat center armrest ~ Delay-off headlights ~ Panic alarm ~ Rear Window Defroster ~ Electronic Stability ~ ABS brakes ~ Automatic Headlights",
+    "listPrice": "$19,995"
+  }
+]

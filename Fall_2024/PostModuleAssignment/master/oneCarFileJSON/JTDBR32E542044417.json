@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDBR32E542044417",
+    "trueCarID": "P23030",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDBR32E542044417/2004-toyota-corolla/",
+    "listingDateDiff": "23 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "108,148",
+    "interiorColor": "Pebble Beige",
+    "exteriorColor": "Lunar Mist",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Henrico, VA",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$124/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "4 Speakers ~ AM/FM radio ~ AM/FM Stereo w/CD & 4 Speakers ~ CD player ~ Air Conditioning ~ Rear window defroster ~ Power steering ~ Power windows ~ Remote keyless entry ~ Speed-sensing steering ~ Dual front impact airbags ~ Front anti-roll bar ~ Front wheel independent suspension ~ Rear anti-roll bar ~ Panic alarm ~ Bodyside moldings ~ Bumpers: body-color ~ Power door mirrors",
+    "listPrice": "$7,500"
+  }
+]

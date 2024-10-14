@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAE6LJ094335",
+    "trueCarID": null,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAE6LJ094335/2020-toyota-corolla/",
+    "listingDateDiff": "9 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "62,008",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "New York, NY",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$320/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$733 ",
+    "priceClassDiffAmt": "(3.8%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "SUPER WHITE ~ Back-Up Camera ~ Keyless Entry ~ MP3 Player ~ Satellite Radio ~ Telephone:Bluetooth Connection ~ Tire-Front:Tires - Front Performance ~ Tire-Rear:Tires - Rear Performance",
+    "listPrice": "$19,297"
+  }
+]

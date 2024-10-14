@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAEXMP245709",
+    "trueCarID": "CT20364",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAEXMP245709/2021-toyota-corolla/",
+    "listingDateDiff": "13 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "42,090",
+    "interiorColor": "Black",
+    "exteriorColor": "Celestite",
+    "style": "Sedan",
+    "accidentOwnership": "Certified Pre-Owned",
+    "location": "San Jose, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$394/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$302 ",
+    "priceClassDiffAmt": "(1.3%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Front ~ Wheel ~ Drive;Power ~ Steering;ABS;4-Wheel ~ Disc ~ Brakes;Brake ~ Assist;Steel ~ Wheels;Tires ~ - ~ Front ~ Performance;Tires ~ - ~ Rear ~ Performance;Wheel ~ Covers;Temporary ~ Spare ~ Tire;Power ~ Mirror(s);Rear",
+    "listPrice": "$23,795"
+  }
+]

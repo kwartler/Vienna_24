@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHEXFP284866",
+    "trueCarID": "FP284866",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHEXFP284866/2015-toyota-corolla/",
+    "listingDateDiff": "14 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 4,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "149,785",
+    "interiorColor": "Steel Gray",
+    "exteriorColor": "Slate Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 4 owners",
+    "location": "Golden, CO",
+    "mileageRating": "28 cty / 37 hwy",
+    "monthlyPayment": "$202/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$227 ",
+    "priceClassDiffAmt": "(1.9%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Bluetooth Connection ~ Steel Gray ~  Fabric Seat Trim ~ Slate Metallic ~ 50 State Emissions",
+    "listPrice": "$12,199"
+  }
+]

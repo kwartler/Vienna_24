@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDS4RCE4LJ044896",
+    "trueCarID": "LJ04489P",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDS4RCE4LJ044896/2020-toyota-corolla/",
+    "listingDateDiff": "Premium Wheels",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "37,359",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Grapevine, TX",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$358/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "Fair Price",
+    "allFeatures": "Air Conditioning ~ Spoiler ~ Tachometer ~ 6 Speakers ~ AM/FM radio: SiriusXM ~ Radio data system ~ Radio: Audio AM/FM w/Navigation ~ Automatic temperature control ~ Rear window defroster ~ Power steering ~ Power windows ~ Steering wheel mounted audio controls ~ Four wheel independent suspension ~ Traction control ~ 4-Wheel Disc Brakes ~ ABS brakes ~ Dual front impact airbags ~ Dual front side impact airbags",
+    "listPrice": "$21,601"
+  }
+]

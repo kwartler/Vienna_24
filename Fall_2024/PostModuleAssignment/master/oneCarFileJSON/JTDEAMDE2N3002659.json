@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEAMDE2N3002659",
+    "trueCarID": "N3002659",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEAMDE2N3002659/2022-toyota-corolla/",
+    "listingDateDiff": "Premium Wheels",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Hybrid",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Hybrid",
+    "mileage": "15,497",
+    "interiorColor": "Light Gray",
+    "exteriorColor": "White",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Colton, CA",
+    "mileageRating": "53 cty / 52 hwy",
+    "monthlyPayment": "$473/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "( Back-Up Camera & Bluetooth Connection ) ~ 50 State Emissions",
+    "listPrice": "$28,543"
+  }
+]

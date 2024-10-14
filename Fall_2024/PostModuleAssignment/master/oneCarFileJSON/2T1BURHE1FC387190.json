@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE1FC387190",
+    "trueCarID": 23749909,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE1FC387190/2015-toyota-corolla/?zipcode=17601",
+    "listingDateDiff": "3 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "112,269",
+    "interiorColor": "Black",
+    "exteriorColor": "Gray",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 3 owners",
+    "location": "Lancaster, PA",
+    "mileageRating": "29 cty / 37 hwy",
+    "monthlyPayment": "$265/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$141 ",
+    "priceClassDiffAmt": "(0.9%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Rear View Camera ~ Cruise Control ~ Auxiliary Audio Input ~ Rear Spoiler ~ Alloy Wheels ~ Overhead Airbags ~ Traction Control ~ Side Airbags ~ Air Conditioning ~ ABS Brakes ~ Power Locks ~ Power Mirrors ~ AM/FM Stereo ~ Rear Defroster ~ CD Audio ~ Power Windows ~ Automatic Transmission ~ Bluetooth Technology",
+    "listPrice": "$15,998"
+  }
+]

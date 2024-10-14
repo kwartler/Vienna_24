@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFS4MCE6MP066706",
+    "trueCarID": 349348,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFS4MCE6MP066706/2021-toyota-corolla/",
+    "listingDateDiff": "Premium Wheels",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "13,807",
+    "interiorColor": "Moonstone",
+    "exteriorColor": "Barcelona Red Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "Certified Pre-Owned",
+    "location": "Oakdale, NY",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$414/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "RADIO: AUDIO PLUS ~ SE PREMIUM PACKAGE",
+    "listPrice": "$25,000"
+  }
+]

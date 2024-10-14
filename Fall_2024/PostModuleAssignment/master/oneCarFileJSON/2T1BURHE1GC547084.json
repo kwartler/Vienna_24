@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE1GC547084",
+    "trueCarID": "W2370810",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE1GC547084/2016-toyota-corolla/",
+    "listingDateDiff": "7 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "100,642",
+    "interiorColor": "Ash",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Tucson, AZ",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$232/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$392 ",
+    "priceClassDiffAmt": "(2.8%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Audio:6 Speakers ~ Audio:CD player ~ Audio:Radio data system ~ Climate Control:Air Conditioning ~ Climate Control:Rear window defroster ~ Convenience:Power steering ~ Convenience:Power windows ~ Convenience:Steering wheel mounted audio controls ~ Driving Assist:Brake assist ~ Driving Assist:Electronic Stability Control ~ Handling:Speed-sensing steering ~ Handling:Traction control ~ Headlights:Delay-off headlights ~ Misc. Exterior:Bumpers: body-color ~ Misc. Exterior:Power door mirrors ~ Misc. Interior:Driver door bin ~ Misc. Interior:Driver vanity mirror ~ Misc. Interior:Front reading lights",
+    "listPrice": "$13,998"
+  }
+]

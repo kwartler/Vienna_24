@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAE2LJ042152",
+    "trueCarID": "LJ042152",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAE2LJ042152/2020-toyota-corolla/",
+    "listingDateDiff": "10 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "64,910",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "Winter Park, FL",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$365/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$2,011 ",
+    "priceClassDiffAmt": "(9.1%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Lane Keeping Assist ~ Bluetooth Connection ~ Black ~  Premium Fabric Seat Trim ~ Super White ~ 50 State Emissions",
+    "listPrice": "$21,999"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDS4RCE4LJ008528",
+    "trueCarID": 7260,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDS4RCE4LJ008528/2020-toyota-corolla/",
+    "listingDateDiff": "139 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "39,279",
+    "interiorColor": "Light Gray",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "Oak Forest, IL",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$348/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$646 ",
+    "priceClassDiffAmt": "(3.1%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Air Conditioning ~  Climate Control ~  Power Steering ~  Power Windows ~  Power Door Locks ~  Power Mirrors ~  Leather Steering Wheel ~  Clock ~  Tachometer ~  Tilt Steering Wheel ~  Telescoping Steering Wheel ~  Steering Wheel Radio Controls ~  Driver Airbag ~  Passenger Airbag ~  Side Airbags ~  Keyless Entry ~  Security System ~  ABS Brakes",
+    "listPrice": "$20,980"
+  }
+]

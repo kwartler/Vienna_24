@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHEXEP125702",
+    "trueCarID": "9AC5404B",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHEXEP125702/2014-toyota-corolla/",
+    "listingDateDiff": "30 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "133,604",
+    "interiorColor": "Ash",
+    "exteriorColor": "Slate Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Wake Forest, NC",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$191/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$93 ",
+    "priceClassDiffAmt": "(0.8%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ Front Disc/Rear Drum Brakes ~ Brake Assist ~ Wheel Covers ~ Steel Wheels ~ Tires - Front Performance ~ Tires - Rear Performance ~ Temporary Spare Tire ~ Heated Mirrors ~ Power Mirror(s) ~ Rear Defrost ~ Intermittent Wipers ~ Variable Speed Intermittent Wipers ~ Daytime Running Lights ~ Automatic Headlights ~ LED Headlights",
+    "listPrice": "$11,497"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BU4EE1CC899194",
+    "trueCarID": "LCC13978",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BU4EE1CC899194/2012-toyota-corolla/",
+    "listingDateDiff": "44 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 4,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "119,319",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Gray",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "San Antonio, TX",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$203/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "Fair Price",
+    "allFeatures": "4-Cyl 1.8 Liter ~ Automatic 4-Spd ~ FWD ~ Traction Control ~ Stability Control ~ ABS (4-Wheel) ~ Keyless Entry ~ Air Conditioning ~ Power Windows ~ Power Door Locks ~ Cruise Control ~ Power Steering ~ Tilt & Telescoping Wheel ~ AM/FM Stereo ~ CD/MP3 (Multi Disc) ~ Navigation System ~ Bluetooth Wireless ~ Dual Air Bags",
+    "listPrice": "$12,222"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE1HC926975",
+    "trueCarID": "C926975",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE1HC926975/2017-toyota-corolla/",
+    "listingDateDiff": "224 days ago",
+    "vehicleHistUseType": "Mixed Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "66,095",
+    "interiorColor": "Almond Fabric, Premium Cloth",
+    "exteriorColor": "Dark Blue",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 2 owners",
+    "location": "Fairfield, OH",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$297/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "ABS Brakes ~ Adjustable Foot Pedals ~ Air Conditioning ~ Alloy Wheels ~ AM/FM Radio ~ Automatic Headlights ~ Automatic Load-Leveling ~ Captains Chair ~ Cargo Area Cover ~ Cargo Area Tiedowns ~ Cargo Net ~ CD Changer ~ CD Player ~ Child Safety Door Locks ~ Chrome Wheels ~ Cruise Control ~ Daytime Running Lights ~ Deep Tinted Glass",
+    "listPrice": "$17,900"
+  }
+]

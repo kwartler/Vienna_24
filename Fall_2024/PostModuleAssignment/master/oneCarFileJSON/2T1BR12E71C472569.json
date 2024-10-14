@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BR12E71C472569",
+    "trueCarID": "1C472569",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BR12E71C472569/2001-toyota-corolla/",
+    "listingDateDiff": "2 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 5,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "122,450",
+    "interiorColor": "Black",
+    "exteriorColor": "Indigo Ink",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 5 owners",
+    "location": "Wesley Chapel, FL",
+    "mileageRating": "29 cty / 37 hwy",
+    "monthlyPayment": "$74/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$382 ",
+    "priceClassDiffAmt": "(8.6%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "4 Cylinder Engine ~ 4-Speed A/T ~ A/C ~ Adjustable Steering Wheel ~ AM/FM Stereo ~ Auto-Off Headlights ~ Auxiliary Pwr Outlet ~ Bucket Seats ~ CD Player ~ Child Safety Locks ~ Cloth Seats ~ Compact Spare Tire ~ Cruise Control ~ Daytime Running Lights ~ Driver Air Bag ~ Driver Vanity Mirror ~ Fog Lamps ~ Front Disc/Rear Drum Brakes",
+    "listPrice": "$4,444"
+  }
+]

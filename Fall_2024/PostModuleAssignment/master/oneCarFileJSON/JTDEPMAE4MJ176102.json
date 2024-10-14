@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPMAE4MJ176102",
+    "trueCarID": 176102,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPMAE4MJ176102/2021-toyota-corolla/",
+    "listingDateDiff": "19 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "53,700",
+    "interiorColor": "Light Gray",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "Marietta, GA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$348/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$2,438 ",
+    "priceClassDiffAmt": "(11.6%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Air Conditioning ~  Climate Control ~  Cruise Control ~  Power Steering ~  Power Windows ~  Power Door Locks ~  Power Mirrors ~  Clock ~  Tachometer ~  Digital Info Center ~  Tilt Steering Wheel ~  Telescoping Steering Wheel ~  Steering Wheel Radio Controls ~  Driver Airbag ~  Passenger Airbag ~  Keyless Entry ~  Security System ~  ABS Brakes",
+    "listPrice": "$20,995"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEAMDE1NJ040024",
+    "trueCarID": "NJ040024",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEAMDE1NJ040024/2022-toyota-corolla/",
+    "listingDateDiff": "198 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Hybrid",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Hybrid",
+    "mileage": "56,853",
+    "interiorColor": "Black",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "Montclair, CA",
+    "mileageRating": "53 cty / 52 hwy",
+    "monthlyPayment": "$421/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "(Bluetooth & Back-Up Camera) ~ 50 State Emissions ~ Black Sand Pearl ~ Standard Paint ~ Air Conditioning: A/C ~ Audio: Mp3 Player ~ Audio: Satellite Radio ~ Audio: Smart Device Integration ~ Clearcoat Paint ~ Convenience: Back-Up Camera ~ Convenience: Steering Wheel Audio Controls ~ Drivetrain: Front Wheel Drive ~ Locks: Keyless Entry ~ Sae Net Horsepower @ Rpm: 121 @ 5200 ~ Sae Net Torque @ Rpm: 105 @ 3600 ~ Systems Monitor ~ Telephone: Bluetooth Connection ~ Transmission: A/T",
+    "listPrice": "$25,399"
+  }
+]

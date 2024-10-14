@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE2NP286305",
+    "trueCarID": 286305,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE2NP286305/2022-toyota-corolla/",
+    "listingDateDiff": "212 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "9,607",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Marietta, GA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$381/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$753 ",
+    "priceClassDiffAmt": "(3.3%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Air Conditioning ~  Climate Control ~  Cruise Control ~  Power Steering ~  Power Windows ~  Power Door Locks ~  Power Mirrors ~  Clock ~  Tachometer ~  Digital Info Center ~  Tilt Steering Wheel ~  Telescoping Steering Wheel ~  Steering Wheel Radio Controls ~  Driver Airbag ~  Passenger Airbag ~  Keyless Entry ~  Security System ~  ABS Brakes",
+    "listPrice": "$22,995"
+  }
+]

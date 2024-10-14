@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BU4EE4AC310734",
+    "trueCarID": 310734,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BU4EE4AC310734/2010-toyota-corolla/",
+    "listingDateDiff": "22 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 4,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Manual",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "82,057",
+    "interiorColor": "Black",
+    "exteriorColor": "Blue",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 4 owners",
+    "location": "Burlington, NC",
+    "mileageRating": "26 cty / 35 hwy",
+    "monthlyPayment": "$174/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$274 ",
+    "priceClassDiffAmt": "(2.6%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Door Handle Color - Body-Color ~  Grille Color - Black ~  Mirror Color - Body-Color ~  Rear Spoiler ~  Steering Ratio - 17.4 ~  Turns Lock-To-Lock - 3.40 ~  Air Filtration ~  Front Air Conditioning ~  Front Air Conditioning Zones - Single ~  Steering Wheel Trim - Leather ~  Interior Accents - Metallic-Tone ~  Center Console - Front Console With Storage ~  Cupholders - Front ~  Cupholders - Rear ~  Multi-Function Remote - Trunk Release ~  Power Steering ~  Steering Wheel - Tilt And Telescopic ~  Steering Wheel Mounted Controls - Audio",
+    "listPrice": "$10,490"
+  }
+]

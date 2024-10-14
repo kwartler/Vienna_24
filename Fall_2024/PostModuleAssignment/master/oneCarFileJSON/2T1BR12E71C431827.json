@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BR12E71C431827",
+    "trueCarID": 431827,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BR12E71C431827/2001-toyota-corolla/",
+    "listingDateDiff": "44 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 3,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "137,368",
+    "interiorColor": "Gray",
+    "exteriorColor": "Gray",
+    "style": "Sedan",
+    "accidentOwnership": "3 accidents, 3 owners",
+    "location": "Hollywood, FL",
+    "mileageRating": "28 cty / 32 hwy",
+    "monthlyPayment": "$43/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$298 ",
+    "priceClassDiffAmt": "(11.5%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "4-Cyl 1.8 Liter ~ Automatic ~ FWD ~ ABS (4-Wheel) ~ Air Conditioning ~ Power Windows ~ Power Door Locks ~ Cruise Control ~ Power Steering ~ Tilt Wheel ~ AM/FM Stereo ~ Cassette ~ Dual Air Bags ~ Alloy Wheels",
+    "listPrice": "$2,590"
+  }
+]

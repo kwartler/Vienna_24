@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE5FC422121",
+    "trueCarID": 22122,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE5FC422121/2015-toyota-corolla/",
+    "listingDateDiff": "96 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 4,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "65,928",
+    "interiorColor": "Black",
+    "exteriorColor": "Red",
+    "style": "Sedan",
+    "accidentOwnership": "4 accidents, 2 owners",
+    "location": "Lexington, NC",
+    "mileageRating": "29 cty / 37 hwy",
+    "monthlyPayment": "$211/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$983 ",
+    "priceClassDiffAmt": "(7.7%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "Door Handle Color - Body-Color ~  Exhaust Tip Color - Chrome ~  Front Bumper Color - Body-Color ~  Mirror Color - Body-Color ~  Rear Bumper Color - Body-Color ~  Rear Spoiler ~  Rear Spoiler Color - Body-Color ~  Window Trim - Black ~  Turns Lock-To-Lock - 3.2 ~  Front Air Conditioning - Automatic Climate Control ~  Front Air Conditioning Zones - Single ~  Steering Wheel Trim - Leather ~  Interior Accents - Color Keyed ~  Interior Accents - Metallic-Tone ~  Armrests - Rear Center With Cupholders ~  Assist Handle - Front ~  Assist Handle - Rear ~  Cruise Control",
+    "listPrice": "$12,750"
+  }
+]

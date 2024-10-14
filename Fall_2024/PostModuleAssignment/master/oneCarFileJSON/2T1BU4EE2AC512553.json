@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BU4EE2AC512553",
+    "trueCarID": "CMZ2553",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BU4EE2AC512553/2010-toyota-corolla/",
+    "listingDateDiff": "27 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "24,059",
+    "interiorColor": "Gray",
+    "exteriorColor": "Gray",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Ellenwood, GA",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$212/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "4-Cyl 1.8 Liter ~ Automatic 4-Spd w/Overdrive ~ FWD ~ Traction Control ~ Stability Control ~ ABS (4-Wheel) ~ Air Conditioning ~ Power Steering ~ Tilt Wheel ~ AM/FM Stereo ~ CD/MP3 (Single Disc) ~ Satellite Feature ~ Dual Air Bags ~ Side Air Bags ~ F&R Head Curtain Air Bags ~ Daytime Running Lights",
+    "listPrice": "$12,800"
+  }
+]

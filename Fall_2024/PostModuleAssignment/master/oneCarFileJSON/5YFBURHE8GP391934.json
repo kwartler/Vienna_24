@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE8GP391934",
+    "trueCarID": "P17473RB",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE8GP391934/2016-toyota-corolla/",
+    "listingDateDiff": "10 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 5,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "182,651",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Tracy, CA",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$174/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "$3 ",
+    "priceClassDiffAmt": "above",
+    "priceClassification": "Fair Price",
+    "allFeatures": "6 Speakers ~ AM/FM radio ~ CD player ~ Radio data system ~ Radio: AM/FM/CD Player w/6.1'' Touch Screen ~ Air Conditioning ~ Automatic temperature control ~ Rear window defroster ~ Power steering ~ Power windows ~ Remote keyless entry ~ Steering wheel mounted audio controls ~ Speed-sensing steering ~ Traction control ~ ABS brakes ~ Dual front impact airbags ~ Dual front side impact airbags ~ Front anti-roll bar",
+    "listPrice": "$10,488"
+  }
+]

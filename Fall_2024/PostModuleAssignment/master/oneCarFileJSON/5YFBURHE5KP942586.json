@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE5KP942586",
+    "trueCarID": "000W7875",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE5KP942586/2019-toyota-corolla/",
+    "listingDateDiff": "7 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "47,123",
+    "interiorColor": "Steel Gray",
+    "exteriorColor": "Barcelona Red Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "Woodbridge, VA",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$315/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$385 ",
+    "priceClassDiffAmt": "(2%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ Front Disc/Rear Drum Brakes ~ Brake Assist ~ Steel Wheels ~ Tires - Front All-Season ~ Tires - Rear All-Season ~ Wheel Covers ~ Temporary Spare Tire ~ Power Mirror(s) ~ Rear Defrost ~ Intermittent Wipers ~ Daytime Running Lights ~ Automatic Headlights ~ LED Headlights ~ Automatic Highbeams ~ AM/FM Stereo",
+    "listPrice": "$19,000"
+  }
+]

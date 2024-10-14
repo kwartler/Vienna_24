@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFS4MCE9MP071737",
+    "trueCarID": "A3149",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFS4MCE9MP071737/2021-toyota-corolla/",
+    "listingDateDiff": "71 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "19,565",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Herculaneum, MO",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$429/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$65 ",
+    "priceClassDiffAmt": "(0.3%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "4 Cylinder Engine ~ 4-Wheel Disc Brakes ~ A/C ~ A/T ~ ABS ~ Adaptive Cruise Control ~ Adjustable Steering Wheel ~ Aluminum Wheels ~ AM/FM Stereo ~ Automatic Headlights ~ Automatic Highbeams ~ Auxiliary Audio Input ~ Back-Up Camera ~ Bluetooth Connection ~ Brake Assist ~ Bucket Seats ~ Child Safety Locks ~ Climate Control",
+    "listPrice": "$25,875"
+  }
+]

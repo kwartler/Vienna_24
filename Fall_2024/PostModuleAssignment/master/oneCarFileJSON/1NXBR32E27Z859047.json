@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "1NXBR32E27Z859047",
+    "trueCarID": "D15817A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/1NXBR32E27Z859047/2007-toyota-corolla/",
+    "listingDateDiff": "16 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Manual",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "138,669",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Silver Streak Mica",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Newark, CA",
+    "mileageRating": "32 cty / 41 hwy",
+    "monthlyPayment": "$113/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "PFEE ~ DLR",
+    "listPrice": "$6,840"
+  }
+]

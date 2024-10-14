@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFM4MCE8MP068403",
+    "trueCarID": 68403,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFM4MCE8MP068403/2021-toyota-corolla/",
+    "listingDateDiff": "125 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Manual",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "44,877",
+    "interiorColor": "Moonstone",
+    "exteriorColor": "Celestite",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "Marietta, GA",
+    "mileageRating": "29 cty / 36 hwy",
+    "monthlyPayment": "$381/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$1,882 ",
+    "priceClassDiffAmt": "(8.2%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Climate Control ~  Cruise Control ~  Power Steering ~  Power Mirrors ~  Leather Steering Wheel ~  Clock ~  Tachometer ~  Telescoping Steering Wheel ~  Steering Wheel Radio Controls ~  Driver Airbag ~  Passenger Airbag ~  Security System ~  Rear Defogger ~  Intermittent Wipers ~  AM/FM ~  Cloth Interior Surface ~  Aux. Audio Input ~  Bluetooth",
+    "listPrice": "$22,995"
+  }
+]

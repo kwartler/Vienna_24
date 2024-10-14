@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "1NXBR32E75Z500239",
+    "trueCarID": "5Z500239",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/1NXBR32E75Z500239/2005-toyota-corolla/",
+    "listingDateDiff": "2 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "175,690",
+    "interiorColor": "Light Gray",
+    "exteriorColor": "Silver Streak Mica",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 3 owners",
+    "location": "Pinellas Park, FL",
+    "mileageRating": "32 cty / 41 hwy",
+    "monthlyPayment": "$99/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$348 ",
+    "priceClassDiffAmt": "(5.8%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "4-Piece Carpeted Floor Mat Set (Ppo) ~ Audio Value Pkg -Inc: AM/FM Stereo W/6-Disc In Dash CD Player ~  Cruise Control ~ All Weather Guard Pkg -Inc: Hd Heater ~  Rear Heat Ducts ~  Windshield Molding ~ 50 State Emissions",
+    "listPrice": "$5,998"
+  }
+]

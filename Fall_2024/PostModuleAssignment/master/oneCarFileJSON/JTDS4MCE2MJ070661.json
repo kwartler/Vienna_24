@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDS4MCE2MJ070661",
+    "trueCarID": 12348,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDS4MCE2MJ070661/2021-toyota-corolla/",
+    "listingDateDiff": "18 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "30,174",
+    "interiorColor": "Moonstone",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Laurel, MD",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$364/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$38 ",
+    "priceClassDiffAmt": "(0.2%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "4-Cyl 2.0 Liter ~ Automatic CVT w/Dynamic Shift ~ FWD ~ Hill Start Assist Control ~ Traction Control ~ Stability Control ~ Vehicle Dynamic Control ~ ABS (4-Wheel) ~ Keyless Entry ~ Air Conditioning ~ Power Windows ~ Power Door Locks ~ Dynamic Cruise Control ~ Remote Trunk Release ~ Power Steering ~ Tilt & Telescoping Wheel ~ AM/FM Stereo ~ SiriusXM Satellite",
+    "listPrice": "$21,995"
+  }
+]

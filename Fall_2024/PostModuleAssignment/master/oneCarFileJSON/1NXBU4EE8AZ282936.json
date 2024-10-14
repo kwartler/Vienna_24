@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "1NXBU4EE8AZ282936",
+    "trueCarID": 211357,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/1NXBU4EE8AZ282936/2010-toyota-corolla/",
+    "listingDateDiff": "1599 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "98,750",
+    "interiorColor": "Ash",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Honolulu, HI",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$149/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$51 ",
+    "priceClassDiffAmt": "(0.6%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Door handle color: body-color ~ Steering ratio: 17.4 ~ Turns lock-to-lock: 3.40 ~ Adjustable rear headrests: height adjustable ~ Air filtration ~ Cargo area light ~ Front air conditioning ~ Front air conditioning zones: single ~ Front headrests: height adjustable ~ Number of front headrests: 2 ~ Number of rear headrests: 3 ~ Bottle holders: front and rear ~ Cupholders: front and rear ~ Power outlet(s): two 12V ~ Power steering: electric ~ Remote trunk release ~ Retained accessory power ~ Steering wheel: tilt and telescopic",
+    "listPrice": "$8,995"
+  }
+]

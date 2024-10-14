@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE9HP665093",
+    "trueCarID": "HP665093",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE9HP665093/2017-toyota-corolla/",
+    "listingDateDiff": "25 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "96,814",
+    "interiorColor": "Steel Gray",
+    "exteriorColor": "Slate Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "Buford, GA",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$260/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$61 ",
+    "priceClassDiffAmt": "(0.4%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Lane Keeping Assist ~ Bluetooth Connection ~ Steel Gray ~  Fabric Seat Trim ~ Slate Metallic ~ 50 State Emissions",
+    "listPrice": "$15,694"
+  }
+]

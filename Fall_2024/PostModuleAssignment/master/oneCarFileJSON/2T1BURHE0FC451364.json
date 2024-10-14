@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE0FC451364",
+    "trueCarID": 8694,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE0FC451364/2015-toyota-corolla/",
+    "listingDateDiff": "218 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "86,044",
+    "interiorColor": "Charcoal",
+    "exteriorColor": "Black",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 2 owners",
+    "location": "Warren, MI",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$270/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$1,307 ",
+    "priceClassDiffAmt": "(8%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "AIR CONDITIONING ~ 4 WHEEL STANDARD ABS ~ DAYTIME RUNNING LIGHTS ~ POWER BRAKES ~ POWER WINDOWS ~ POWER STEERING ~ AM/FM/CD/MP3 ~ DUAL FRONT ~ SIDE AND HEAD AIR BAGS/REAR HEAD AIRBAGS/ACTIVE BELTS ~ TILT WHEEL",
+    "listPrice": "$16,300"
+  }
+]

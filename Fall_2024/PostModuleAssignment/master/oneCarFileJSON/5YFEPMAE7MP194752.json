@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE7MP194752",
+    "trueCarID": "M194752",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE7MP194752/2021-toyota-corolla/",
+    "listingDateDiff": "8 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "38,352",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 3 owners",
+    "location": "Mobile, AL",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$331/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$616 ",
+    "priceClassDiffAmt": "(3.1%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "Wheels: 16'' Wide Vent Steel ~ Premium Fabric Seat Trim ~ Radio: Audio ~ 4-Wheel Disc Brakes ~ 6 Speakers ~ Air Conditioning ~ Electronic Stability Control ~ Front Bucket Seats ~ Front Center Armrest ~ Tachometer ~ ABS brakes ~ Automatic temperature control ~ Brake assist ~ Bumpers: body-color ~ Delay-off headlights ~ Driver door bin ~ Driver vanity mirror ~ Dual front impact airbags",
+    "listPrice": "$19,999"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFHPMAEXNP279549",
+    "trueCarID": "NP279549",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFHPMAEXNP279549/2022-toyota-corolla/",
+    "listingDateDiff": "Premium Wheels",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "6,535",
+    "interiorColor": "Light Gray",
+    "exteriorColor": "Celestite",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Bellevue, WA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$389/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$103 ",
+    "priceClassDiffAmt": "(0.4%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Sun/Moonroof ~ Preferred Owners Portfolio (Tms) (Ppo) ~ Lane Keeping Assist ~ All-Weather Floor Liner Package (Tms) -Inc: All-Weather Floor Liners (Ppo) ~ Keyless Start ~ Bluetooth Connection ~ Le Premium Package -Inc: Power Tilt/Slide Moonroof ~  Sliding Sunshade ~  Wheels: 16\" Machined Alloy ~  Blind Spot Monitor (Bsm) W/Rcta ~  Color Keyed Heated Power Outside Mirrors W/Turn Signal Indicators ~  Front Doors Smart Key System ~  Trunk W/Push Button Start ~  Remote Keyless Entry System W/Lock ~  Two-Stage Unlock ~  Panic And Trunk-Release Functions ~ Light Gray ~  Premium Fabric Seat Trim",
+    "listPrice": "$23,499"
+  }
+]

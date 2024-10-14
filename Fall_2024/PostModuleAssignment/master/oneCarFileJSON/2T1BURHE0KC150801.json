@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE0KC150801",
+    "trueCarID": 5138,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE0KC150801/2019-toyota-corolla/",
+    "listingDateDiff": "5 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "75,674",
+    "interiorColor": "Gray",
+    "exteriorColor": "Gray",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Arlington, VA",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$273/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$541 ",
+    "priceClassDiffAmt": "(3.3%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "4-Cyl 1.8 Liter ~ Automatic CVTi-S ~ FWD ~ Hill Start Assist Control ~ Traction Control ~ Stability Control ~ ABS (4-Wheel) ~ Keyless Entry ~ Air Conditioning ~ Power Windows ~ Power Door Locks ~ Dynamic Cruise Control ~ Power Trunk Release ~ Power Steering ~ Tilt & Telescoping Wheel ~ AM/FM Stereo ~ CD/MP3 (Single Disc) ~ Bluetooth Wireless",
+    "listPrice": "$16,500"
+  }
+]

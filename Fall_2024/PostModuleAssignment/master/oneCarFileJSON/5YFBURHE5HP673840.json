@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE5HP673840",
+    "trueCarID": "M230545A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE5HP673840/2017-toyota-corolla/",
+    "listingDateDiff": "31 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "61,716",
+    "interiorColor": "Ash",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 2 owners",
+    "location": "Puyallup, WA",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$294/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$61 ",
+    "priceClassDiffAmt": "(0.3%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ Front Disc/Rear Drum Brakes ~ Brake Assist ~ Wheel Covers ~ Steel Wheels ~ Tires - Front Performance ~ Tires - Rear Performance ~ Temporary Spare Tire ~ Heated Mirrors ~ Power Mirror(s) ~ Rear Defrost ~ Intermittent Wipers ~ Variable Speed Intermittent Wipers ~ Automatic Highbeams ~ Automatic Headlights ~ LED Headlights",
+    "listPrice": "$17,749"
+  }
+]

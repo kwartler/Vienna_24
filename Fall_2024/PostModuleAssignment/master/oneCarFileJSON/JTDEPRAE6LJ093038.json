@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAE6LJ093038",
+    "trueCarID": "231382A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAE6LJ093038/2020-toyota-corolla/",
+    "listingDateDiff": "Adaptive Cruise Control",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "34,118",
+    "interiorColor": "Light Gray",
+    "exteriorColor": "Blueprint",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "Henderson, NV",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$364/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$454 ",
+    "priceClassDiffAmt": "(2.1%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Wheels: 16'' Wide Vent Steel ~ Front Bucket Seats ~ Premium Fabric Seat Trim ~ Radio: Audio AM/FM w/Navigation ~ 4-Wheel Disc Brakes ~ 6 Speakers ~ Air Conditioning ~ Electronic Stability Control ~ Front Center Armrest ~ Tachometer ~ ABS brakes ~ Automatic temperature control ~ Brake assist ~ Bumpers: body-color ~ Delay-off headlights ~ Driver door bin ~ Driver vanity mirror ~ Dual front impact airbags",
+    "listPrice": "$21,988"
+  }
+]

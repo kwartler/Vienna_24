@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDBL40E299026580",
+    "trueCarID": 5794,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDBL40E299026580/2009-toyota-corolla/",
+    "listingDateDiff": "125 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "107,629",
+    "interiorColor": "Gray",
+    "exteriorColor": "Gray",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 3 owners",
+    "location": "Fremont, CA",
+    "mileageRating": "27 cty / 35 hwy",
+    "monthlyPayment": "$182/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$838 ",
+    "priceClassDiffAmt": "(7.6%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "AM/FM Compact Disc Player ~  Child Safety Door Locks ~  Vehicle Anti-Theft ~  ABS Brakes ~  Electronic Brake Assistance ~  Driver Airbag ~  Front Side Airbag ~  Passenger Airbag ~  Side Head Curtain Airbag ~  Trunk Anti-Trap Device ~  Air Conditioning ~  Tachometer ~  Tilt Steering ~  Tilt Steering Column ~  Telescopic Steering Column ~  Tire Pressure Monitor ~  AM FM Radio ~  CD Player",
+    "listPrice": "$10,991"
+  }
+]

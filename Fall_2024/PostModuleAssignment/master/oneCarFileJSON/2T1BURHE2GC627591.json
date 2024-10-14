@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE2GC627591",
+    "trueCarID": "C4365",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE2GC627591/2016-toyota-corolla/",
+    "listingDateDiff": "1 day ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "87,442",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Silver",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Brighton, CO",
+    "mileageRating": "29 cty / 37 hwy",
+    "monthlyPayment": "$248/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$2,084 ",
+    "priceClassDiffAmt": "(13.9%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Bluetooth ~ Backup Camera ~ Driver seat manual adjustments: height ~  reclining ~  6 ~ Front headrests: adjustable ~  2 ~ Front seat type: bucket ~ Passenger seat manual adjustments: reclining ~  4 ~ Rear headrests: adjustable ~  3 ~ Rear seat folding: split ~ Rear seat type: 60-40 split bench ~ Upholstery: cloth ~ ABS: 4-wheel ~ Braking assist:  ~ Electronic brakeforce distribution: ",
+    "listPrice": "$14,995"
+  }
+]

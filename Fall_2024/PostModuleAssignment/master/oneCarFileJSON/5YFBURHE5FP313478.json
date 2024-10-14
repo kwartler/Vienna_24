@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE5FP313478",
+    "trueCarID": "PN617106B",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE5FP313478/2015-toyota-corolla/",
+    "listingDateDiff": "52 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "44,613",
+    "interiorColor": "Black",
+    "exteriorColor": "Gray",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Fargo, ND",
+    "mileageRating": "27 cty / 36 hwy",
+    "monthlyPayment": "$274/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$423 ",
+    "priceClassDiffAmt": "(2.6%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "4 Speakers ~ AM/FM radio ~ AM/FM/CD Player ~ CD player ~ MP3 decoder ~ Air Conditioning ~ Rear window defroster ~ Power steering ~ Power windows ~ Steering wheel mounted audio controls ~ Speed-sensing steering ~ Traction control ~ ABS brakes ~ Dual front impact airbags ~ Dual front side impact airbags ~ Front anti-roll bar ~ Front wheel independent suspension ~ Knee airbag",
+    "listPrice": "$16,525"
+  }
+]

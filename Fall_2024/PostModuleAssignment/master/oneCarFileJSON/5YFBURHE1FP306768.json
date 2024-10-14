@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE1FP306768",
+    "trueCarID": "FP306768NSRX",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE1FP306768/2015-toyota-corolla/",
+    "listingDateDiff": "16 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 4,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "96,085",
+    "interiorColor": "Ash",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 4 owners",
+    "location": "Fresno, CA",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$238/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$156 ",
+    "priceClassDiffAmt": "(1.1%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "4 Cylinder Engine ~ 4-Wheel ABS ~ A/C ~ Adjustable Steering Wheel ~ AM/FM Stereo ~ Auto-Off Headlights ~ Back-Up Camera ~ Bluetooth® ~ Brake Assist ~ Bucket Seats ~ CD Player ~ Child Safety Locks ~ Climate Control ~ Cloth Seats ~ Compact Spare Tire ~ Continuously Variable Trans ~ Cruise Control ~ Daytime Running Lights",
+    "listPrice": "$14,383"
+  }
+]

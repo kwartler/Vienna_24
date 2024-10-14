@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBPRHE0HP597581",
+    "trueCarID": "SA597581",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBPRHE0HP597581/2017-toyota-corolla/",
+    "listingDateDiff": "136 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "78,863",
+    "interiorColor": "Beige",
+    "exteriorColor": "White",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 2 owners",
+    "location": "Stone Mountain, GA",
+    "mileageRating": "30 cty / 40 hwy",
+    "monthlyPayment": "$246/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$610 ",
+    "priceClassDiffAmt": "(4.1%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "1 12V DC Power Outlet ~ 1 Seatback Storage Pocket ~ 13.2 Gal. Fuel Tank ~ 390CCA Maintenance-Free Battery w/Run Down Protection ~ 4-Way Passenger Seat ~ 4.76 Axle Ratio ~ 6-Way Driver Seat ~ 60-40 Folding Bench Front Facing Fold Forward Seatback Rear Seat ~ 80 Amp Alternator ~ Air Filtration ~ Airbag Occupancy Sensor ~ Analog Appearance ~ Automatic Air Conditioning ~ Automatic Equalizer ~ Back-Up Camera ~ Black Grille ~ Body-colored door handles ~ Body-Colored Front Bumper",
+    "listPrice": "$14,870"
+  }
+]

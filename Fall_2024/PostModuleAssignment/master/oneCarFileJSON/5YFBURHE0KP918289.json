@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE0KP918289",
+    "trueCarID": 918289,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE0KP918289/2019-toyota-corolla/",
+    "listingDateDiff": "35 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "25,763",
+    "interiorColor": "Gray",
+    "exteriorColor": "Falcon Gray Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Dallas, TX",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$341/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "Excellent Price",
+    "allFeatures": "50 State Emissions ~ Keyless Entry System ~ Slate Metallic ~ Audio: Am/Fm Stereo ~ Audio: Auxiliary Audio Input ~ Audio: Cd Player ~ Convenience: Back-Up Camera ~ Convenience: Cruise Control ~ Convenience: Immobilizer ~ Displacement: 1.8 L/110 ~ Drivetrain: Front Wheel Drive ~ Fully Galvanized Steel Panels ~ Headlights-Automatic Highbeams ~ Seat Trim: Cloth Seats ~ Seats: Bucket Seats ~ Seats: Rear Bench Seat ~ Telephone: Bluetooth Connection ~ Transmission: Cvt Transmission",
+    "listPrice": "$20,607"
+  }
+]

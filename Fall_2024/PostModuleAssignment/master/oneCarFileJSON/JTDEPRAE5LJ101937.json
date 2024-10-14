@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAE5LJ101937",
+    "trueCarID": "LJ101937",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAE5LJ101937/2020-toyota-corolla/",
+    "listingDateDiff": "77 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "22,204",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Santa Ana, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$344/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$238 ",
+    "priceClassDiffAmt": "(1.1%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "50 State Emissions ~ Southeast Toyota Distributor ~ Southeast Toyota Distributor Plus ~ 13.2 Gal. Fuel Tank ~ 4-Wheel Disc Brakes W/4-Wheel Abs ~  Front Vented Discs ~  Brake Assist ~  Hill Hold Control And Electric Parking Brake ~ Brakes: 4-Wheel Disc Brakes ~ Brakes: Abs ~ Convenience: Steering Wheel Audio Controls ~ Convenience: Trip Computer ~ Cruise Control W/Steering Wheel Controls ~ Fob Controls -Inc: Cargo Access And Windows ~ Front-Wheel Drive ~ Immobilizer ~ Manual Tilt/Telescoping Steering Column ~ Perimeter Alarm",
+    "listPrice": "$20,759"
+  }
+]

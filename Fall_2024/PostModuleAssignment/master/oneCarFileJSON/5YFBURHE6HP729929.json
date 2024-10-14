@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE6HP729929",
+    "trueCarID": "HP729929",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE6HP729929/2017-toyota-corolla/",
+    "listingDateDiff": "8 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "71,650",
+    "interiorColor": "Black",
+    "exteriorColor": "Blizzard Pearl",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "Richardson, TX",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$281/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "Great Price",
+    "allFeatures": "4 Cylinder Engine ~ 4-Wheel ABS ~ A/C ~ Adaptive Cruise Control ~ Adjustable Steering Wheel ~ AM/FM Stereo ~ Auto-Off Headlights ~ Back-Up Camera ~ Bluetooth® ~ Brake Assist ~ Bucket Seats ~ CD Player ~ Child Safety Locks ~ Climate Control ~ Cloth Seats ~ Compact Spare Tire ~ Continuously Variable Trans ~ Cruise Control",
+    "listPrice": "$16,938"
+  }
+]

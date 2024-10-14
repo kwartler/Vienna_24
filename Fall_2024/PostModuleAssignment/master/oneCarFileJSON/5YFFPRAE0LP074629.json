@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFFPRAE0LP074629",
+    "trueCarID": 9289,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFFPRAE0LP074629/2020-toyota-corolla/",
+    "listingDateDiff": "330 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "48,161",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "East Meadow, NY",
+    "mileageRating": "29 cty / 37 hwy",
+    "monthlyPayment": "$316/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$457 ",
+    "priceClassDiffAmt": "(2.4%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Navigation System ~ Advanced Lighting Package ~ All-Weather Floor Liner Package ~ Body Protection Package ~ Carpet Mat Package (TMS) ~ Four Season Floor Liners/Mat Package ~ Protection Package ~ 6 Speakers ~ AM/FM radio: SiriusXM ~ Radio data system ~ Radio: Audio Plus AM/FM/HD w/Navigation ~ Radio: Premium Audio AM/FM/HD w/Navigation & JBL ~ Air Conditioning ~ Automatic temperature control ~ Rear window defroster ~ Power driver seat ~ Power steering ~ Power windows",
+    "listPrice": "$19,072"
+  }
+]

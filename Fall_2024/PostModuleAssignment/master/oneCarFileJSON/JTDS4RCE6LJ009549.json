@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDS4RCE6LJ009549",
+    "trueCarID": 9549,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDS4RCE6LJ009549/2020-toyota-corolla/",
+    "listingDateDiff": "44 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "91,784",
+    "interiorColor": "Black",
+    "exteriorColor": "Blue",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Union City, NJ",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$323/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$1,612 ",
+    "priceClassDiffAmt": "(8.3%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "4-Cyl 2.0 Liter ~ Automatic CVT w/Dynamic Shift ~ FWD ~ Hill Start Assist Control ~ Traction Control ~ Stability Control ~ Vehicle Dynamic Control ~ ABS (4-Wheel) ~ Keyless Entry ~ Air Conditioning ~ Power Windows ~ Power Door Locks ~ Dynamic Cruise Control ~ Power Steering ~ Tilt & Telescoping Wheel ~ AM/FM Stereo ~ Bluetooth Wireless ~ Entune",
+    "listPrice": "$19,495"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BU4EE3BC625672",
+    "trueCarID": 10523,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BU4EE3BC625672/2011-toyota-corolla/",
+    "listingDateDiff": "101 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "132,704",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Gy",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Canastota, NY",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$162/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "2011 Toyota Corolla LE Sedan in Grey Metallic ~  132K miles ~  1.8L 4Cyl ~  Automatic ~  Clean History ~  A/C ~  Power Windows/Locks ~  AM/FM/CD SiriusXM ~  Child Seat Anchors ~  Daytime Running Lights ~  Audio/Cruise Controls on Steering Wheel ~  Tilt Wheel ~  Power/Heated Mirrors ~  Folding Rear Seats ~  Fresh Oil ~  Four New Snow Tires ~  Brand New Struts ~  Brand New Brakes and built in powertrain warranty.",
+    "listPrice": "$9,750"
+  }
+]

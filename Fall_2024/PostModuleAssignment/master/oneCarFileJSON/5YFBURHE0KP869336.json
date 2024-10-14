@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE0KP869336",
+    "trueCarID": "X172253A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE0KP869336/2019-toyota-corolla/",
+    "listingDateDiff": "31 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "41,063",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": "2 accidents, 3 owners",
+    "location": "Miami, FL",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$272/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$677 ",
+    "priceClassDiffAmt": "(4.1%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "6 Speakers ~ AM/FM radio ~ CD player ~ Radio data system ~ Radio: Entune Audio w/6.1'' Screen ~ Air Conditioning ~ Rear window defroster ~ Power steering ~ Power windows ~ Steering wheel mounted audio controls ~ Speed-sensing steering ~ Traction control ~ ABS brakes ~ Dual front impact airbags ~ Dual front side impact airbags ~ Front anti-roll bar ~ Front wheel independent suspension ~ Knee airbag",
+    "listPrice": "$16,400"
+  }
+]

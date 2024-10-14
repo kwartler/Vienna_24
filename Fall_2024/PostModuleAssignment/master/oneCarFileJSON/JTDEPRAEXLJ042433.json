@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAEXLJ042433",
+    "trueCarID": "RLJ042433",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAEXLJ042433/2020-toyota-corolla/",
+    "listingDateDiff": "72 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "62,835",
+    "interiorColor": "Black",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Vacaville, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$331/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$610 ",
+    "priceClassDiffAmt": "(3.1%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ 4-Wheel Disc Brakes ~ Brake Assist ~ Steel Wheels ~ Tires - Front Performance ~ Tires - Rear Performance ~ Wheel Covers ~ Temporary Spare Tire ~ Power Mirror(s) ~ Rear Defrost ~ Intermittent Wipers ~ Variable Speed Intermittent Wipers ~ Daytime Running Lights ~ Automatic Headlights ~ LED Headlights ~ Automatic Highbeams",
+    "listPrice": "$19,990"
+  }
+]

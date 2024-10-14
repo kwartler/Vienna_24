@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBU4EE3DP082889",
+    "trueCarID": 22318,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBU4EE3DP082889/2013-toyota-corolla/",
+    "listingDateDiff": "2 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "59,064",
+    "interiorColor": "Gray",
+    "exteriorColor": "Magnetic Gray Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Melbourne, FL",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$230/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$1,274 ",
+    "priceClassDiffAmt": "(9.2%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "(4) cup holders ~ 1.8L DOHC SFI 16-valve VVT-i I4 engine ~ 12V aux pwr outlet ~ 60/40 split-folding rear bench seat ~ ALR/ELR 3-point front & rear seatbelts -inc: front adjustable shoulder belt anchors- pretensioners- force limiters ~ Center console w/storage compartment ~ Child protector rear door locks ~ Child restraint system w/LATCH anchors ~ Chrome rear license plate garnish ~ Color-keyed door handles ~ Daytime running lamps ~ Digital clock ~ Dual front airbags w/occupant sensors ~ Dual front map lights ~ Dual glove compartments ~ Dual visor vanity mirrors ~ Electric-assist pwr steering ~ Energy-absorbing steering column",
+    "listPrice": "$13,880"
+  }
+]

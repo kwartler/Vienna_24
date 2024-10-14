@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BU4EE2CC756562",
+    "trueCarID": "CC756562",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BU4EE2CC756562/2012-toyota-corolla/",
+    "listingDateDiff": "10 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "137,303",
+    "interiorColor": "Dark Charcoal",
+    "exteriorColor": "Magnetic Gray Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Torrance, CA",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$182/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Sun/Moonroof ~ Bluetooth Connection ~ Rear Spoiler ~ Carpeted Front/Rear Floor Mats &amp; Trunk Mat (Ppo) ~ Pwr Tilt/Slide Moonroof -Inc: Sunshade ~  Overhead Console W/Sunglass Holder ~ Dark Charcoal ~  Fabric Seat Trim ~ Magnetic Gray Metallic ~ 50 State Emissions",
+    "listPrice": "$10,995"
+  }
+]

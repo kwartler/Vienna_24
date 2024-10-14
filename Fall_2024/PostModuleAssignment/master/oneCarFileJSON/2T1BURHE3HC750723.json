@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE3HC750723",
+    "trueCarID": 23771683,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE3HC750723/2017-toyota-corolla/?zipcode=76120",
+    "listingDateDiff": "2 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "78,459",
+    "interiorColor": "Gray",
+    "exteriorColor": "Falcon Gray Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "Fort Worth, TX",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$315/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "High Price",
+    "allFeatures": "Rear View Camera ~ Cruise Control ~ Auxiliary Audio Input ~ Overhead Airbags ~ Traction Control ~ Side Airbags ~ Air Conditioning ~ ABS Brakes ~ Power Locks ~ Power Mirrors ~ AM/FM Stereo ~ Rear Defroster ~ CD Audio ~ Power Windows ~ Cloth Seats ~ Automatic Transmission ~ Entune ~ Lane Departure Warning",
+    "listPrice": "$18,998"
+  }
+]

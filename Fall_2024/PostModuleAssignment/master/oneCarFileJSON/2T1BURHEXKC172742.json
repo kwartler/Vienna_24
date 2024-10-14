@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHEXKC172742",
+    "trueCarID": 23983619,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHEXKC172742/2019-toyota-corolla/?zipcode=22192",
+    "listingDateDiff": "1 day ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "59,628",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Woodbridge, VA",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$331/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$100 ",
+    "priceClassDiffAmt": "(0.5%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Rear View Camera ~ Auxiliary Audio Input ~ Overhead Airbags ~ Traction Control ~ Side Airbags ~ Air Conditioning ~ ABS Brakes ~ Power Locks ~ Power Mirrors ~ AM/FM Stereo ~ Rear Defroster ~ CD Audio ~ Power Windows ~ Cloth Seats ~ Automatic Transmission ~ Automated Cruise Control ~ Lane Departure Warning ~ Bluetooth Technology",
+    "listPrice": "$19,998"
+  }
+]

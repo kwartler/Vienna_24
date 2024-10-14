@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE4FC285074",
+    "trueCarID": 23779921,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE4FC285074/2015-toyota-corolla/?zipcode=20723",
+    "listingDateDiff": "9 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "62,762",
+    "interiorColor": "Gray",
+    "exteriorColor": "Barcelona Red Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Laurel, MD",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$298/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$167 ",
+    "priceClassDiffAmt": "(0.9%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Rear View Camera ~ Cruise Control ~ Auxiliary Audio Input ~ Overhead Airbags ~ Traction Control ~ Side Airbags ~ Air Conditioning ~ ABS Brakes ~ Power Locks ~ Power Mirrors ~ AM/FM Stereo ~ Rear Defroster ~ CD Audio ~ Power Windows ~ Cloth Seats ~ Automatic Transmission ~ Bluetooth Technology ~ 2 keys, guaranteed",
+    "listPrice": "$17,998"
+  }
+]

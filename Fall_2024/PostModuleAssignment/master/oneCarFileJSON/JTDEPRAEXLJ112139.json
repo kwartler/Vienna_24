@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAEXLJ112139",
+    "trueCarID": "LJ112139",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAEXLJ112139/2020-toyota-corolla/",
+    "listingDateDiff": "29 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "14,359",
+    "interiorColor": "Black",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Eatontown, NJ",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$373/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$492 ",
+    "priceClassDiffAmt": "(2.2%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Wheels: 16'' Wide Vent Steel ~ Front Bucket Seats ~ Premium Fabric Seat Trim ~ Radio: Audio AM/FM w/Navigation ~ 4-Wheel Disc Brakes ~ 6 Speakers ~ Air Conditioning ~ Electronic Stability Control ~ Front Center Armrest ~ Tachometer ~ ABS brakes ~ Automatic temperature control ~ Brake assist ~ Bumpers: body-color ~ Delay-off headlights ~ Driver door bin ~ Driver vanity mirror ~ Dual front impact airbags",
+    "listPrice": "$22,499"
+  }
+]

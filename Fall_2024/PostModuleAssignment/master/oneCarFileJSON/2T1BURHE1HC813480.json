@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE1HC813480",
+    "trueCarID": 813480,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE1HC813480/2017-toyota-corolla/",
+    "listingDateDiff": "3 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "24,147",
+    "interiorColor": "Steel Gray",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Des Moines, IA",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$315/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$323 ",
+    "priceClassDiffAmt": "(1.7%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Air Conditioning ~ Power Windows ~ Power Locks ~ Power Steering ~ Tilt Wheel ~ AM/FM CD/MP3 ~ Satellite ~ Immobilizer ~ Keyless Entry ~ Daytime Running Lights ~ Dual Front Airbags ~ Side Airbags ~ Head Airbags ~ Rear Head Airbags ~ Active Seatbelts ~ All Wheel ABS",
+    "listPrice": "$18,980"
+  }
+]

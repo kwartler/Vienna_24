@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE4JC115029",
+    "trueCarID": "JC115029-581",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE4JC115029/2018-toyota-corolla/",
+    "listingDateDiff": "25 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "28,521",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Norcross, GA",
+    "mileageRating": "28 cty / 35 hwy",
+    "monthlyPayment": "$290/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$273 ",
+    "priceClassDiffAmt": "(1.6%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "MUDGUARDS (PPO) ~ REAR BUMPER PROTECTOR (TMS) (PPO) ~ DOOR EDGE GUARDS (PPO)",
+    "listPrice": "$17,500"
+  }
+]

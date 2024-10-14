@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE7KC201548",
+    "trueCarID": 201548,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE7KC201548/2019-toyota-corolla/",
+    "listingDateDiff": "22 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "43,263",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "Snellville, GA",
+    "mileageRating": "28 cty / 35 hwy",
+    "monthlyPayment": "$282/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$41 ",
+    "priceClassDiffAmt": "(0.2%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Air Conditioning ~  Climate Control ~  Cruise Control ~  Tinted Windows ~  Power Steering ~  Power Door Locks ~  Power Mirrors ~  Leather Steering Wheel ~  Leather Shifter ~  Phone ~  Clock ~  Tachometer ~  Digital Info Center ~  Tilt Steering Wheel ~  Telescoping Steering Wheel ~  Steering Wheel Radio Controls ~  Driver Airbag ~  Passenger Airbag",
+    "listPrice": "$16,999"
+  }
+]

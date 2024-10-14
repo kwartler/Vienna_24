@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDVPMAE5N3021399",
+    "trueCarID": "23-523A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDVPMAE5N3021399/2022-toyota-corolla/",
+    "listingDateDiff": "3 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "8,758",
+    "interiorColor": "Unknown",
+    "exteriorColor": "White",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Jacksonville, FL",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$398/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$1,152 ",
+    "priceClassDiffAmt": "(4.8%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "4-Wheel Disc Brakes ~ 6 Speakers ~ ABS (4-wheel) ~ ABS brakes ~ AM/FM radio: SiriusXM ~ Adaptive cruise control ~ Adaptive stop and go cruise control (semi-automatic) ~ Air Conditioning ~ Air filtration ~ Airbag deactivation (occupant sensing passenger) ~ Antenna type (diversity) ~ Antenna type (mast) ~ Anti-theft system (vehicle immobilizer) ~ Apple CarPlay/Android Auto ~ Armrests (rear center with cupholders) ~ Armrests (rear folding) ~ Assist handle (front) ~ Assist handle (rear)",
+    "listPrice": "$23,991"
+  }
+]

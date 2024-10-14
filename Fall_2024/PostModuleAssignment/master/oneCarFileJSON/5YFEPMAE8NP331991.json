@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE8NP331991",
+    "trueCarID": "331991F01",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE8NP331991/2022-toyota-corolla/",
+    "listingDateDiff": "2 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "10,362",
+    "interiorColor": "Black",
+    "exteriorColor": "Red",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Cleveland, OH",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$363/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Wheels: 16'' Wide Vent Steel ~ Premium Fabric Seat Trim ~ Radio: Audio ~ 4-Wheel Disc Brakes ~ 6 Speakers ~ Air Conditioning ~ Electronic Stability Control ~ Front Bucket Seats ~ Front Center Armrest ~ Tachometer ~ ABS brakes ~ Automatic temperature control ~ Brake assist ~ Bumpers: body-color ~ Delay-off headlights ~ Driver door bin ~ Driver vanity mirror ~ Dual front impact airbags",
+    "listPrice": "$21,893"
+  }
+]

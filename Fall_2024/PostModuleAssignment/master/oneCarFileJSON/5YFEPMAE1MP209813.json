@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE1MP209813",
+    "trueCarID": 209813,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE1MP209813/2021-toyota-corolla/",
+    "listingDateDiff": "7 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "56,008",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "Smyrna, GA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$307/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$210 ",
+    "priceClassDiffAmt": "(1.1%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "1 12V DC Power Outlet ~ 13.2 Gal. Fuel Tank ~ 2 LCD Monitors In The Front ~ 4-Wheel Disc Brakes w/4-Wheel ABS- Front Vented Discs- Brake Assist- Hill Hold Control and Electric Parking Brake ~ 4.76 Axle Ratio ~ 60-40 Folding Bench Front Facing Fold Forward Seatback Rear Seat ~ Air Filtration ~ Airbag Occupancy Sensor ~ Analog Appearance ~ Auto On/Off Projector Beam Led Low/High Beam Daytime Running Auto High-Beam Headlamps w/Delay-Off ~ Automatic Air Conditioning ~ Back-Up Camera ~ Battery w/Run Down Protection ~ Black Grille ~ Black Side Windows Trim ~ Body-Colored Door Handles ~ Body-Colored Front Bumper w/Black Bumper Insert ~ Body-Colored Rear Bumper w/Black Rub Strip/Fascia Accent and Body-Colored Bumper Insert",
+    "listPrice": "$18,500"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE3MP219579",
+    "trueCarID": "P15800",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE3MP219579/2021-toyota-corolla/",
+    "listingDateDiff": "68 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "54,894",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Blueprint",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "New Orleans, LA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$333/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Wheels: 16'' Wide Vent Steel ~ Premium Fabric Seat Trim ~ Radio: Audio ~ 4-Wheel Disc Brakes ~ 6 Speakers ~ Air Conditioning ~ Electronic Stability Control ~ Front Bucket Seats ~ Front Center Armrest ~ Tachometer ~ ABS brakes ~ Automatic temperature control ~ Brake assist ~ Bumpers: body-color ~ Delay-off headlights ~ Driver door bin ~ Driver vanity mirror ~ Dual front impact airbags",
+    "listPrice": "$20,099"
+  }
+]

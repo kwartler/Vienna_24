@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDBL40E499079622",
+    "trueCarID": 42319,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDBL40E499079622/2009-toyota-corolla/",
+    "listingDateDiff": "41 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "30,261",
+    "interiorColor": "Ash",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Webster, TX",
+    "mileageRating": "27 cty / 35 hwy",
+    "monthlyPayment": "$232/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "High Price",
+    "allFeatures": "(2) 12V auxiliary pwr outlets ~  (4) cup holders ~  1.8L DOHC SFI 16-valve VVT-i 4-cyl engine ~  15\" steel wheels w/full wheel covers ~  4-speed automatic transmission w/OD ~  4-way front cloth bucket seats ~  4-wheel anti-lock brakes w/brake assist & electronic brake force distribution ~  60/40-split folding rear seats ~  Air conditioning w/air filtration ~  ALR/ELR 3-point front & rear seatbelts w/front adjustable shoulder belt anchors  pretensioners  force limiters ~  AM/FM stereo w/CD player-inc: MP3 capability  satellite radio capability  auxiliary audio input  auto sound leveling  (4) speakers ~  Anti-theft system with engine immobilizer ~  Blackout sport grille ~  Center console-inc: side pockets  storage ~  Child protector rear door locks ~  Child restraint system w/LATCH anchors ~  Color-keyed door handles ~  Daytime running lamps",
+    "listPrice": "$13,999"
+  }
+]

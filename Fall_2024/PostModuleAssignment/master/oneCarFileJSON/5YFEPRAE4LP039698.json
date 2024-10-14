@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPRAE4LP039698",
+    "trueCarID": 39698,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPRAE4LP039698/2020-toyota-corolla/",
+    "listingDateDiff": "50 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "52,159",
+    "interiorColor": "Blk",
+    "exteriorColor": "Barcelona Red Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 3 owners",
+    "location": "West Palm Beach, FL",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$315/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$121 ",
+    "priceClassDiffAmt": "(0.6%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Engine: 1.8L I-4 DOHC 16-Valve -inc: Valvematic ~ Transmission: Continuously Variable (CVTi-S) ~ Front-Wheel Drive ~ 4.76 Axle Ratio ~ Battery w/Run Down Protection ~ Gas-Pressurized Shock Absorbers ~ Front And Rear Anti-Roll Bars ~ Electric Power-Assist Steering ~ 13.2 Gal. Fuel Tank ~ Single Stainless Steel Exhaust ~ Strut Front Suspension w/Coil Springs ~ Multi-Link Rear Suspension w/Coil Springs ~ 4-Wheel Disc Brakes w/4-Wheel ABS- Front Vented Discs- Brake Assist- Hill Hold Control and Electric Parking Brake ~ Tires: P205/55R16 All-Season ~ Steel Spare Wheel ~ Compact Spare Tire Mounted Inside Under Cargo ~ Clearcoat Paint ~ Body-Colored Front Bumper w/Black Bumper Insert",
+    "listPrice": "$18,995"
+  }
+]

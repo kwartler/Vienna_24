@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHEXKP930935",
+    "trueCarID": 17689,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHEXKP930935/2019-toyota-corolla/",
+    "listingDateDiff": "47 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "86,365",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Billings, MT",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$269/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$65 ",
+    "priceClassDiffAmt": "(0.4%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "4 Cylinder Engine ~ 4-Wheel ABS ~ A/C ~ Adaptive Cruise Control ~ Adjustable Steering Wheel ~ AM/FM Stereo ~ Auto-Off Headlights ~ Back-Up Camera ~ Bluetooth® ~ Brake Assist ~ Bucket Seats ~ CD Player ~ Child Safety Locks ~ Climate Control ~ Cloth Seats ~ Compact Spare Tire ~ Continuously Variable Trans ~ Cruise Control",
+    "listPrice": "$16,245"
+  }
+]

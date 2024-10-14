@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE1EP037928",
+    "trueCarID": "A5610",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE1EP037928/2014-toyota-corolla/",
+    "listingDateDiff": "78 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 4,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "112,019",
+    "interiorColor": "Black",
+    "exteriorColor": "Grey",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 4 owners",
+    "location": "Philadelphia, PA",
+    "mileageRating": "29 cty / 37 hwy",
+    "monthlyPayment": "$214/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$172 ",
+    "priceClassDiffAmt": "(1.3%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Traction Control ~ Stability Control ~ ABS (4-Wheel) ~ Keyless Entry ~ Air Conditioning ~ Power Windows ~ Power Door Locks ~ Cruise Control ~ Power Steering ~ Tilt Wheel ~ AM/FM Stereo ~ CD/MP3 (Multi Disc) ~ Bluetooth Wireless ~ Entune Infotainment ~ Backup Camera ~ Dual Air Bags ~ Side Air Bags ~ F&R Head Curtain Air Bags",
+    "listPrice": "$12,900"
+  }
+]

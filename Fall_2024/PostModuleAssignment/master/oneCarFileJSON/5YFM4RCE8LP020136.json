@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFM4RCE8LP020136",
+    "trueCarID": "WS8066",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFM4RCE8LP020136/2020-toyota-corolla/",
+    "listingDateDiff": "19 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Manual",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "65,803",
+    "interiorColor": "Moonstone",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "2 accidents, 1 owner",
+    "location": "Woodbridge, VA",
+    "mileageRating": "29 cty / 36 hwy",
+    "monthlyPayment": "$331/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$81 ",
+    "priceClassDiffAmt": "(0.4%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Engine: 2.0L I-4 DOHC 16-Valve -inc: Dynamic force ~ Transmission: Intelligent Manual (iMT) -inc: rev matching capability ~ Transmission w/Driver Selectable Mode ~ Front-Wheel Drive ~ 3.94 Axle Ratio ~ Battery w/Run Down Protection ~ Gas-Pressurized Shock Absorbers ~ Front And Rear Anti-Roll Bars ~ Electric Power-Assist Steering ~ 13.2 Gal. Fuel Tank ~ Single Stainless Steel Exhaust w/Chrome Tailpipe Finisher ~ Strut Front Suspension w/Coil Springs ~ Multi-Link Rear Suspension w/Coil Springs ~ 4-Wheel Disc Brakes w/4-Wheel ABS- Front Vented Discs- Brake Assist- Hill Hold Control and Electric Parking Brake ~ Wheels: 18\" Machined Alloy -inc: dark gray painted accents ~ Tires: P225/40R18 All-Season ~ Steel Spare Wheel ~ Compact Spare Tire Mounted Inside Under Cargo",
+    "listPrice": "$19,995"
+  }
+]

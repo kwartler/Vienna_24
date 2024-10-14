@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHEXFC270529",
+    "trueCarID": 3832,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHEXFC270529/2015-toyota-corolla/",
+    "listingDateDiff": "173 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "97,247",
+    "interiorColor": "Gray",
+    "exteriorColor": "Gray",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "New Castle, DE",
+    "mileageRating": "27 cty / 36 hwy",
+    "monthlyPayment": "$265/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$813 ",
+    "priceClassDiffAmt": "(5.1%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Engine: 1.8L I-4 DOHC Dual VVT-i ~ Front-Wheel Drive ~ 390CCA Maintenance-Free Battery w/Run Down Protection ~ 80 Amp Alternator ~ Gas-Pressurized Shock Absorbers ~ Front And Rear Anti-Roll Bars ~ Electric Power-Assist Speed-Sensing Steering ~ 13.2 Gal. Fuel Tank ~ Strut Front Suspension w/Coil Springs ~ Torsion Beam Rear Suspension w/Coil Springs ~ Steel Spare Wheel ~ Compact Spare Tire Mounted Inside Under Cargo ~ Clearcoat Paint ~ Body-Colored Front Bumper ~ Body-Colored Rear Bumper ~ Body-Colored Door Handles ~ Black Side Windows Trim ~ Fixed Rear Window w/Defroster",
+    "listPrice": "$15,995"
+  }
+]

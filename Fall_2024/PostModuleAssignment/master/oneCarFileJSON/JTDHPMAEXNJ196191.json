@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDHPMAEXNJ196191",
+    "trueCarID": "VW4940P",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDHPMAEXNJ196191/2022-toyota-corolla/",
+    "listingDateDiff": "Premium Wheels",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "16,210",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Peoria, AZ",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$414/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$150 ",
+    "priceClassDiffAmt": "(0.6%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Cruise Control Adaptive ~ Lane Keeping Assist ~ Headlights LED ~ Pre-Collision Warning System Audible Warning ~ Pre-Collision Warning System Visual Warning ~ Lane Deviation Sensors ~ Air Conditioning - Front - Automatic Climate Control ~ Traffic Sign Recognition ~ Headlights Automatic High Beam Dimmer ~ Airbags - Driver - Knee ~ Daytime Running Lights LED ~ Tail And Brake Lights LED ~ Airbags - Front - Side ~ Airbags - Front - Side Curtain ~ Airbags - Rear - Side ~ Airbags - Rear - Side Curtain ~ Electronic Messaging Assistance With Read Function ~ Electronic Messaging Assistance With Voice Recognition",
+    "listPrice": "$24,999"
+  }
+]

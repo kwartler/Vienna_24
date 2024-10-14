@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE8GC526250",
+    "trueCarID": 7541,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE8GC526250/2016-toyota-corolla/",
+    "listingDateDiff": "118 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "117,763",
+    "interiorColor": "Black",
+    "exteriorColor": "Silver",
+    "style": "Sedan",
+    "accidentOwnership": 2,
+    "location": "Pensacola, FL",
+    "mileageRating": "27 cty / 36 hwy",
+    "monthlyPayment": "$265/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$1,849 ",
+    "priceClassDiffAmt": "(11.6%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Air Conditioning ~  Power Windows ~  Power Locks ~  Power Steering ~  Tilt Wheel ~  AM/FM CD ~  Immobilizer ~  Keyless Entry ~  Daytime Running Lights ~  Dual Front Airbags ~  Side Airbags ~  Head Airbags ~  Rear Head Airbags ~  Active Seatbelts ~  All Wheel ABS",
+    "listPrice": "$15,995"
+  }
+]

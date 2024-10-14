@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFP4RCE3LP025810",
+    "trueCarID": "T23-135A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFP4RCE3LP025810/2020-toyota-corolla/",
+    "listingDateDiff": "Premium Wheels",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "12,233",
+    "interiorColor": "Moonstone",
+    "exteriorColor": "Barcelona Red Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Uniontown, PA",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$370/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$335 ",
+    "priceClassDiffAmt": "(1.5%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "SE Premium Package ~  All-Weather Floor Liner Package ~  Mudguards ~  1 12V DC Power Outlet ~  13.2 Gal. Fuel Tank ~  2 LCD Monitors In The Front ~  3.79 Axle Ratio ~  4-Wheel Disc Brakes w/4-Wheel ABS  Front Vented Discs  Brake Assist  Hill Hold Control and Electric Parking Brake ~  60-40 Folding Bench Front Facing Fold Forward Seatback Rear Seat ~  ABS And Driveline Traction Control ~  Air Filtration ~  Airbag Occupancy Sensor ~  Analog Appearance ~  Auto On/Off Projector Beam Led Low/High Beam Daytime Running Auto High-Beam Headlamps w/Delay-Off ~  Automatic Air Conditioning ~  Back-Up Camera ~  Battery w/Run Down Protection ~  Black Side Windows Trim",
+    "listPrice": "$22,322"
+  }
+]

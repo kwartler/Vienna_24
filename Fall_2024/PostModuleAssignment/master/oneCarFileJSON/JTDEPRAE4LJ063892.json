@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAE4LJ063892",
+    "trueCarID": 10327,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAE4LJ063892/2020-toyota-corolla/",
+    "listingDateDiff": "63 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "71,479",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Blueprint",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "Jacksonville, FL",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$265/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$816 ",
+    "priceClassDiffAmt": "(5.1%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ 4-Wheel Disc Brakes ~ Brake Assist ~ Steel Wheels ~ Tires - Front Performance ~ Tires - Rear Performance ~ Wheel Covers ~ Temporary Spare Tire ~ Power Mirror(s) ~ Rear Defrost ~ Intermittent Wipers ~ Variable Speed Intermittent Wipers ~ Daytime Running Lights ~ Automatic Headlights ~ LED Headlights ~ Automatic Highbeams",
+    "listPrice": "$16,000"
+  }
+]

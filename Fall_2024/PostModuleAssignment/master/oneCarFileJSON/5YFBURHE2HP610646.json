@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE2HP610646",
+    "trueCarID": "HP610646",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE2HP610646/2017-toyota-corolla/",
+    "listingDateDiff": "1 day ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "66,295",
+    "interiorColor": "Steel Gray",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Littleton, CO",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$298/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$198 ",
+    "priceClassDiffAmt": "(1.1%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Carpet Mat Package (Tms) -Inc: Carpet Floor Mats &amp; Trunk Mat (Ppo) ~ Lane Keeping Assist ~ Rear Bumper Protector (Tms) (Ppo) ~ Bluetooth Connection ~ Black Sand Pearl ~ 50 State Emissions",
+    "listPrice": "$17,998"
+  }
+]

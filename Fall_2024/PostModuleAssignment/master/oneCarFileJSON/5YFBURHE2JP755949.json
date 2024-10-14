@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE2JP755949",
+    "trueCarID": 23245027,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE2JP755949/2018-toyota-corolla/",
+    "listingDateDiff": "8 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "50,311",
+    "interiorColor": "Black",
+    "exteriorColor": "Blue Crush Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Melbourne, FL",
+    "mileageRating": "28 cty / 35 hwy",
+    "monthlyPayment": "$331/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$176 ",
+    "priceClassDiffAmt": "(0.9%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Rear View Camera ~ Auxiliary Audio Input ~ Rear Spoiler ~ Alloy Wheels ~ Overhead Airbags ~ Traction Control ~ Side Airbags ~ Air Conditioning ~ ABS Brakes ~ Power Locks ~ Power Mirrors ~ AM/FM Stereo ~ Rear Defroster ~ CD Audio ~ Power Windows ~ Automatic Transmission ~ Entune ~ Automated Cruise Control",
+    "listPrice": "$19,998"
+  }
+]

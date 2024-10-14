@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE0EC043865",
+    "trueCarID": null,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE0EC043865/2014-toyota-corolla/",
+    "listingDateDiff": "38 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "129,422",
+    "interiorColor": "Tan",
+    "exteriorColor": "Red",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 2 owners",
+    "location": "Waterbury, CT",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$174/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$308 ",
+    "priceClassDiffAmt": "(2.9%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Door Handle Color - Body-Color ~  Front Bumper Color - Body-Color ~  Grille Color - Black ~  Mirror Color - Body-Color ~  Rear Bumper Color - Body-Color ~  Window Trim - Black ~  All-Weather Floor Mats/Cargo Tray ~  Steering Ratio - 17.8 ~  Turns Lock-To-Lock - 3.2 ~  Front Air Conditioning - Automatic Climate Control ~  Front Air Conditioning Zones - Single ~  Interior Accents - Metallic-Tone ~  Assist Handle - Front ~  Center Console - Front Console With Armrest And Storage ~  Cruise Control ~  Cupholders - Front ~  Cupholders - Rear ~  Multi-Function Remote - Keyless Entry",
+    "listPrice": "$10,499"
+  }
+]

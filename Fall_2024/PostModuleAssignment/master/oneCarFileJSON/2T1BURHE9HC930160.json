@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE9HC930160",
+    "trueCarID": 27284,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE9HC930160/2017-toyota-corolla/",
+    "listingDateDiff": "60 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "66,816",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Abington, MA",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$272/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "1 12V DC Power Outlet ~  13.2 Gal. Fuel Tank ~  390CCA Maintenance-Free Battery w/Run Down Protection ~  4-Way Passenger Seat ~  4.76 Axle Ratio ~  6 Speakers ~  6-Way Driver Seat ~  60-40 Folding Bench Front Facing Fold Forward Seatback Rear Seat ~  80 Amp Alternator ~  ABS And Driveline Traction Control ~  Air Filtration ~  Airbag Occupancy Sensor ~  Analog Appearance ~  Auto On/Off Projector Beam Led Low/High Beam Daytime Running Auto High-Beam Headlamps w/Delay-Off ~  Automatic Equalizer ~  Back-Up Camera ~  Black grille ~  Black Side Windows Trim",
+    "listPrice": "$16,436"
+  }
+]

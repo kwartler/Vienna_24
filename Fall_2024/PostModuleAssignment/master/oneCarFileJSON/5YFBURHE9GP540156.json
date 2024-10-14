@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE9GP540156",
+    "trueCarID": "GP540156",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE9GP540156/2016-toyota-corolla/",
+    "listingDateDiff": "55 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "53,208",
+    "interiorColor": "Ash",
+    "exteriorColor": "Slate Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Granbury, TX",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$271/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "Fair Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ Front Disc/Rear Drum Brakes ~ Brake Assist ~ Wheel Covers ~ Steel Wheels ~ Tires - Front Performance ~ Tires - Rear Performance ~ Temporary Spare Tire ~ Heated Mirrors ~ Power Mirror(s) ~ Rear Defrost ~ Intermittent Wipers ~ Variable Speed Intermittent Wipers ~ Daytime Running Lights ~ Automatic Headlights ~ LED Headlights",
+    "listPrice": "$16,361"
+  }
+]

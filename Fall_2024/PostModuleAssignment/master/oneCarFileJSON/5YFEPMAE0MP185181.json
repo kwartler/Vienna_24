@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE0MP185181",
+    "trueCarID": "185181F01",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE0MP185181/2021-toyota-corolla/",
+    "listingDateDiff": "9 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "31,866",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "Cleveland, OH",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$324/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$411 ",
+    "priceClassDiffAmt": "(2.1%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Wheels: 16'' Wide Vent Steel ~ Premium Fabric Seat Trim ~ Radio: Audio ~ 4-Wheel Disc Brakes ~ 6 Speakers ~ Air Conditioning ~ Electronic Stability Control ~ Front Bucket Seats ~ Front Center Armrest ~ Tachometer ~ ABS brakes ~ Automatic temperature control ~ Brake assist ~ Bumpers: body-color ~ Delay-off headlights ~ Driver door bin ~ Driver vanity mirror ~ Dual front impact airbags",
+    "listPrice": "$19,553"
+  }
+]

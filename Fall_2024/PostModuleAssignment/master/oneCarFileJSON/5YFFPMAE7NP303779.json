@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFFPMAE7NP303779",
+    "trueCarID": "R303779",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFFPMAE7NP303779/2022-toyota-corolla/",
+    "listingDateDiff": "23 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "26,123",
+    "interiorColor": "Ea00",
+    "exteriorColor": "01f7",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Tyler, TX",
+    "mileageRating": "29 cty / 37 hwy",
+    "monthlyPayment": "$480/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "High Price",
+    "allFeatures": "16'' Alloy Wheels ~ Heated Front Bucket Seats ~ SofTex Leather Seat Trim ~ Radio: Audio Plus ~ 4-Wheel Disc Brakes ~ 6 Speakers ~ Air Conditioning ~ Electronic Stability Control ~ Front Bucket Seats ~ Front Center Armrest ~ Leather Shift Knob ~ Tachometer ~ ABS brakes ~ Alloy wheels ~ Automatic temperature control ~ Brake assist ~ Bumpers: body-color ~ Delay-off headlights",
+    "listPrice": "$28,991"
+  }
+]

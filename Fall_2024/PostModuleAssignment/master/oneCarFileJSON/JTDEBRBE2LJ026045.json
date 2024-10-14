@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEBRBE2LJ026045",
+    "trueCarID": 24042,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEBRBE2LJ026045/2020-toyota-corolla/",
+    "listingDateDiff": "Premium Wheels",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Hybrid",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Hybrid",
+    "mileage": "79,125",
+    "interiorColor": "Light Gray",
+    "exteriorColor": "Barcelona Red Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Seattle, WA",
+    "mileageRating": "53 cty / 52 hwy",
+    "monthlyPayment": "$394/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$774 ",
+    "priceClassDiffAmt": "(3.3%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ 4-Wheel Disc Brakes ~ Brake Assist ~ Aluminum Wheels ~ Tires - Front All-Season ~ Tires - Rear All-Season ~ Wheel Covers ~ Heated Mirrors ~ Power Mirror(s) ~ Rear Defrost ~ Intermittent Wipers ~ Variable Speed Intermittent Wipers ~ Automatic Highbeams ~ Daytime Running Lights ~ Automatic Headlights ~ LED Headlights",
+    "listPrice": "$23,800"
+  }
+]

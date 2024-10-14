@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHEXKC148568",
+    "trueCarID": 467,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHEXKC148568/2019-toyota-corolla/",
+    "listingDateDiff": "140 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "81,175",
+    "interiorColor": "Steel Gray",
+    "exteriorColor": "Red",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Norwood, MA",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$313/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$966 ",
+    "priceClassDiffAmt": "(5.1%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "bluetooth ~  back-up camera ~  Dual Front Airbags ~  Side Airbags ~  Head Airbags ~  Rear Head Airbags ~  Active Seatbelts ~  All Wheel ABS",
+    "listPrice": "$18,900"
+  }
+]

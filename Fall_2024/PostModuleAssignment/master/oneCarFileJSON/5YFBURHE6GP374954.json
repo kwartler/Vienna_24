@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE6GP374954",
+    "trueCarID": "P374954",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE6GP374954/2016-toyota-corolla/",
+    "listingDateDiff": "15 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Theft Recovery",
+    "vehicleHistNumOwners": 5,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "79,315",
+    "interiorColor": "Steel Gray",
+    "exteriorColor": "Slate Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 5 owners",
+    "location": "West Palm Beach, FL",
+    "mileageRating": "27 cty / 36 hwy",
+    "monthlyPayment": "$249/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$1,010 ",
+    "priceClassDiffAmt": "(6.7%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ Front Disc/Rear Drum Brakes ~ Brake Assist ~ Wheel Covers ~ Steel Wheels ~ Temporary Spare Tire ~ Power Mirror(s) ~ Rear Defrost ~ Intermittent Wipers ~ Daytime Running Lights ~ Automatic Headlights ~ LED Headlights ~ AM/FM Stereo ~ CD Player ~ MP3 Player ~ Bluetooth Connection",
+    "listPrice": "$14,998"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEAMDE4MJ032000",
+    "trueCarID": "F33532F",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEAMDE4MJ032000/2021-toyota-corolla/",
+    "listingDateDiff": "Premium Wheels",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Hybrid",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Hybrid",
+    "mileage": "9,582",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "Fullerton, CA",
+    "mileageRating": "53 cty / 52 hwy",
+    "monthlyPayment": "$447/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$213 ",
+    "priceClassDiffAmt": "(0.8%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "1 12V DC Power Outlet ~ 11.4 Gal. Fuel Tank ~ 2 LCD Monitors In The Front ~ 60-40 Folding Bench Front Facing Fold Forward Seatback Rear Seat ~ ABS And Driveline Traction Control ~ Air Filtration ~ Airbag Occupancy Sensor ~ Auto On/Off Projector Beam Led Lowith High Beam Auto High-Beam Daytime Running Lights Preference Setting Headlamps with Delay-Off ~ Automatic Air Conditioning ~ Back-Up Camera ~ Battery with Run Down Protection ~ Black Grille ~ Black Side Windows Trim ~ Body-Colored Door Handles ~ Body-Colored Front Bumper ~ Body-Colored Power Heated Side Mirrors with Manual Folding ~ Body-Colored Rear Bumper with Black Rub Strip/Fascia Accent and Body-Colored Bumper Insert ~ Cargo Area Concealed Storage",
+    "listPrice": "$26,981"
+  }
+]

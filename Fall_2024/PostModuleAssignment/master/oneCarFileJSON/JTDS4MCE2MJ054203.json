@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDS4MCE2MJ054203",
+    "trueCarID": "MJ054203-917",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDS4MCE2MJ054203/2021-toyota-corolla/",
+    "listingDateDiff": "Premium Wheels",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "39,541",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "Norcross, GA",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$307/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$168 ",
+    "priceClassDiffAmt": "(0.9%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "REAR BUMPER PROTECTOR (TMS) (PPO) ~ ALL-WEATHER FLOOR LINER PACKAGE (TMS) ~ ALLOY WHEEL LOCKS (TMS) (PPO) ~ BODY SIDE MOLDINGS (TMS) (PPO)",
+    "listPrice": "$18,500"
+  }
+]

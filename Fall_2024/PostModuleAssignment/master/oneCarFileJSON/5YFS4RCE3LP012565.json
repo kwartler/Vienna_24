@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFS4RCE3LP012565",
+    "trueCarID": 88123,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFS4RCE3LP012565/2020-toyota-corolla/",
+    "listingDateDiff": "Premium Wheels",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "26,739",
+    "interiorColor": "Black",
+    "exteriorColor": "Blizzard Pearl",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Spokane, WA",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$464/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$251 ",
+    "priceClassDiffAmt": "(0.9%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Special ~ color ~ ($425.00 ~ value ~ when ~ new) ~ All-weather ~ floor ~ liner ~ package ~ cargo ~ tray ~ All-Weather ~ Floor ~ Liners ~ ($249.00 ~ value ~ when",
+    "listPrice": "$27,980"
+  }
+]

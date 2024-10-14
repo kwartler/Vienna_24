@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAE6LJ052909",
+    "trueCarID": "AE100738",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAE6LJ052909/2020-toyota-corolla/",
+    "listingDateDiff": "145 days ago",
+    "vehicleHistUseType": "Mixed Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "84,363",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "2 accidents, 1 owner",
+    "location": "Fontana, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$315/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$717 ",
+    "priceClassDiffAmt": "(3.8%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "1 12V DC Power Outlet ~ 13.2 Gal. Fuel Tank ~ 2 LCD Monitors In The Front ~ 4-Wheel Disc Brakes w/4-Wheel ABS- Front Vented Discs- Brake Assist- Hill Hold Control and Electric Parking Brake ~ 60-40 Folding Bench Front Facing Fold Forward Seatback Rear Seat ~ Air Filtration ~ Airbag Occupancy Sensor ~ Analog Appearance ~ Auto On/Off Projector Beam Led Low/High Beam Daytime Running Auto High-Beam Headlamps w/Delay-Off ~ Automatic Air Conditioning ~ Back-Up Camera ~ Battery w/Run Down Protection ~ Black Grille ~ Black Side Windows Trim ~ Body-Colored Door Handles ~ Body-Colored Front Bumper w/Black Bumper Insert ~ Body-Colored Power Side Mirrors w/Manual Folding ~ Body-Colored Rear Bumper w/Black Rub Strip/Fascia Accent and Body-Colored Bumper Insert",
+    "listPrice": "$18,999"
+  }
+]

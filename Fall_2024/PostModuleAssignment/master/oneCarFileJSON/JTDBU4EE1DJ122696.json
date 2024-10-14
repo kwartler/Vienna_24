@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDBU4EE1DJ122696",
+    "trueCarID": "61011B",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDBU4EE1DJ122696/2013-toyota-corolla/",
+    "listingDateDiff": "10 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "75,052",
+    "interiorColor": "Ash",
+    "exteriorColor": "Nautical Blue Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Beaverton, OR",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$248/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$120 ",
+    "priceClassDiffAmt": "(0.8%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "6 Speakers ~ AM/FM radio ~ AM/FM/CD Player w/MP3/WMA Capability ~ CD player ~ MP3 decoder ~ Radio data system ~ Air Conditioning ~ Rear window defroster ~ Power steering ~ Power windows ~ Remote keyless entry ~ Steering wheel mounted audio controls ~ Speed-sensing steering ~ Traction control ~ ABS brakes ~ Anti-whiplash front head restraints ~ Dual front impact airbags ~ Dual front side impact airbags",
+    "listPrice": "$14,973"
+  }
+]

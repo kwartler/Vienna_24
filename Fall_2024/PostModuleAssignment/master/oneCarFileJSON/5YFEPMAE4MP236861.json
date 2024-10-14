@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE4MP236861",
+    "trueCarID": "MP236861",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE4MP236861/2021-toyota-corolla/",
+    "listingDateDiff": "Adaptive Cruise Control",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "22,123",
+    "interiorColor": "Light Gray",
+    "exteriorColor": "Celestite",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 2 owners",
+    "location": "Colton, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$349/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$116 ",
+    "priceClassDiffAmt": "(0.6%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "( Smart Device Integration & Back-Up Camera ) ~ 50 State Emissions ~ Blackout Emblem Overlays (Tms) ~ Body Side Moldings (Tms) ~ Carpet Mat Package (Tms) ~ Celestite ~ First Aid Kit (Tms) ~ Rear Bumper Protector (Tms)",
+    "listPrice": "$21,083"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE7JC046904",
+    "trueCarID": "X0010",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE7JC046904/2018-toyota-corolla/",
+    "listingDateDiff": "8 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "10,000",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Columbus, OH",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "No Price Available",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": null,
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ Front Disc/Rear Drum Brakes ~ Brake Assist ~ Wheel Covers ~ Steel Wheels ~ Tires - Front Performance ~ Tires - Rear Performance ~ Temporary Spare Tire ~ Heated Mirrors ~ Power Mirror(s) ~ Rear Defrost ~ Intermittent Wipers ~ Variable Speed Intermittent Wipers ~ Automatic Highbeams ~ Automatic Headlights ~ LED Headlights",
+    "listPrice": "No Price Available"
+  }
+]

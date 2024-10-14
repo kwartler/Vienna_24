@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BU4EE2DC991786",
+    "trueCarID": "P12168",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BU4EE2DC991786/2013-toyota-corolla/",
+    "listingDateDiff": "149 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "92,736",
+    "interiorColor": "Dark Charcoal",
+    "exteriorColor": "Nautical Blue Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Tacoma, WA",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$239/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$742 ",
+    "priceClassDiffAmt": "(5.2%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Air filtration ~ Front air conditioning ~ Front air conditioning zones: single ~ Airbag deactivation: occupant sensing passenger ~ Front airbags: dual ~ Side airbags: front ~ Side curtain airbags: front ~  rear ~ Antenna type: element ~ Auxiliary audio input: Bluetooth ~  USB ~  iPod/iPhone ~  jack ~ In-Dash CD: MP3 Playback ~  single disc ~ Radio: AM/FM ~  touch screen display ~ Speed sensitive volume control",
+    "listPrice": "$14,399"
+  }
+]

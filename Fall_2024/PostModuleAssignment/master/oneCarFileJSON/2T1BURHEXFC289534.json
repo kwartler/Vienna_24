@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHEXFC289534",
+    "trueCarID": "23455A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHEXFC289534/2015-toyota-corolla/",
+    "listingDateDiff": "5 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "139,519",
+    "interiorColor": "Steel Gray",
+    "exteriorColor": "Black Sand Mica",
+    "style": "Sedan",
+    "accidentOwnership": 2,
+    "location": "Greensboro, NC",
+    "mileageRating": "27 cty / 36 hwy",
+    "monthlyPayment": "$215/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$456 ",
+    "priceClassDiffAmt": "(3.5%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ Front Disc/Rear Drum Brakes ~ Brake Assist ~ Wheel Covers ~ Steel Wheels ~ Temporary Spare Tire ~ Power Mirror(s) ~ Rear Defrost ~ Intermittent Wipers ~ Daytime Running Lights ~ Automatic Headlights ~ LED Headlights ~ AM/FM Stereo ~ CD Player ~ MP3 Player ~ Bluetooth Connection",
+    "listPrice": "$13,000"
+  }
+]

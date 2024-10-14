@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAE7LJ002326",
+    "trueCarID": "P4854",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAE7LJ002326/2020-toyota-corolla/",
+    "listingDateDiff": "66 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "60,032",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 3 owners",
+    "location": "Pleasanton, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$331/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$403 ",
+    "priceClassDiffAmt": "(2%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "WE ARE OPEN!     br      925  479 9090     br  br  br 4 Wheel Disc Brakes ~  6 Speakers ~  ABS brakes ~  Air Conditioning ~  Automatic temperature control ~  Dual front impact airbags ~  Dual front side impact airbags ~  Front anti roll bar ~  Illuminated entry ~  Knee airbag ~  Occupant sensing airbag ~  Outside temperature display ~  Overhead airbag ~  Panic alarm ~  Radio data system ~  Radio  Audio AM FM w Navigation ~  Rear anti roll bar ~  Rear seat center armrest",
+    "listPrice": "$19,993"
+  }
+]

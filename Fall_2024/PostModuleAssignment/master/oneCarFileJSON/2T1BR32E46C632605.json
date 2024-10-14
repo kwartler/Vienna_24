@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BR32E46C632605",
+    "trueCarID": "6C632605",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BR32E46C632605/2006-toyota-corolla/",
+    "listingDateDiff": "3 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "105,087",
+    "interiorColor": "Beige",
+    "exteriorColor": "Impulse Red Pearl",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 3 owners",
+    "location": "Charlotte, NC",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$116/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$297 ",
+    "priceClassDiffAmt": "(4.2%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "50 ~ State ~ Emissions",
+    "listPrice": "$6,991"
+  }
+]

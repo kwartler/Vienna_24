@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPRAE4LP107790",
+    "trueCarID": 17487,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPRAE4LP107790/2020-toyota-corolla/",
+    "listingDateDiff": "57 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "51,084",
+    "interiorColor": "Light Gray",
+    "exteriorColor": "Celestite Gray Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Phoenix, AZ",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$265/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Airbags - Front - Dual ~ Air Conditioning - Front - Single Zone ~ Airbags - Passenger - Occupant Sensing Deactivation ~ Airbags - Front - Side ~ Airbags - Front - Side Curtain ~ Air Conditioning - Front - Automatic Climate Control ~ Air Conditioning - Air Filtration ~ Airbags - Driver - Knee ~ Audio Streaming: Bluetooth ~ Emergency Interior Trunk Release ~ Armrests - Rear Center ~ Audio - Antenna: Mast ~ Power Brakes ~ Airbags - Rear - Side Curtain ~ Audio Voice Recognition ~ Audio Auxiliary Input: USB ~ Audio Auxiliary Input: Jack ~ Audio Auxiliary Input: IPod/IPhone Integration",
+    "listPrice": "$16,000"
+  }
+]

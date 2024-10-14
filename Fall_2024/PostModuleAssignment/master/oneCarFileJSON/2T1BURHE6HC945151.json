@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE6HC945151",
+    "trueCarID": "T23309A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE6HC945151/2017-toyota-corolla/",
+    "listingDateDiff": "10 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "77,447",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Youngstown, OH",
+    "mileageRating": "28 cty / 35 hwy",
+    "monthlyPayment": "$298/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$85 ",
+    "priceClassDiffAmt": "(0.5%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "XSE Package ~ 6 Speakers ~ AM/FM radio: SiriusXM ~ CD player ~ Radio data system ~ Radio: Entune Audio Plus w/Connected Navigation ~ Air Conditioning ~ Automatic temperature control ~ Rear window defroster ~ Power driver seat ~ Power steering ~ Power windows ~ Remote keyless entry ~ Steering wheel mounted audio controls ~ Speed-sensing steering ~ Traction control ~ 4-Wheel Disc Brakes ~ ABS brakes",
+    "listPrice": "$17,990"
+  }
+]

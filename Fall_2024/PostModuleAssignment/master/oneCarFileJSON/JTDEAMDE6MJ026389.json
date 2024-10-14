@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEAMDE6MJ026389",
+    "trueCarID": "T04538A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEAMDE6MJ026389/2021-toyota-corolla/",
+    "listingDateDiff": "33 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Hybrid",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Hybrid",
+    "mileage": "53,477",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Blueprint",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Bel Air, MD",
+    "mileageRating": "53 cty / 52 hwy",
+    "monthlyPayment": "$431/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$672 ",
+    "priceClassDiffAmt": "(2.6%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "6 Speakers ~ AM/FM radio: SiriusXM ~ Radio data system ~ Radio: Audio AM/FM ~ Air Conditioning ~ Automatic temperature control ~ Rear window defroster ~ Power steering ~ Power windows ~ Remote keyless entry ~ Steering wheel mounted audio controls ~ Four wheel independent suspension ~ Traction control ~ 4-Wheel Disc Brakes ~ ABS brakes ~ Dual front impact airbags ~ Dual front side impact airbags ~ Emergency communication system: Safety Connect with 1-year trial",
+    "listPrice": "$25,998"
+  }
+]

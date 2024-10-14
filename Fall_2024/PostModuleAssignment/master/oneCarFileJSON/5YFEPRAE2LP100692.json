@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPRAE2LP100692",
+    "trueCarID": "LP100692P",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPRAE2LP100692/2020-toyota-corolla/",
+    "listingDateDiff": "34 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "67,061",
+    "interiorColor": "Black",
+    "exteriorColor": "Barcelona Red Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 3 owners",
+    "location": "Roseville, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$348/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "4 Cylinder Engine ~ 4-Wheel ABS ~ 4-Wheel Disc Brakes ~ A/C ~ Adaptive Cruise Control ~ Adjustable Steering Wheel ~ AM/FM Stereo ~ Apple CarPlay ~ Auto-Off Headlights ~ Back-Up Camera ~ Brake Assist ~ Bucket Seats ~ Child Safety Locks ~ Climate Control ~ Cloth Seats ~ Compact Spare Tire ~ Continuously Variable Trans ~ Cruise Control",
+    "listPrice": "$20,988"
+  }
+]

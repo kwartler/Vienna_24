@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "1NXBU4EEXAZ342473",
+    "trueCarID": 2473,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/1NXBU4EEXAZ342473/2010-toyota-corolla/",
+    "listingDateDiff": "199 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "197,617",
+    "interiorColor": "Ash",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "Murfreesboro, TN",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$133/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$62 ",
+    "priceClassDiffAmt": "(0.8%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ Front Disc/Rear Drum Brakes ~ Wheel Covers ~ Steel Wheels ~ Tires - Front All-Season ~ Tires - Rear All-Season ~ Temporary Spare Tire ~ Power Mirror(s) ~ Intermittent Wipers ~ AM/FM Stereo ~ CD Player ~ MP3 Player ~ Auxiliary Audio Input ~ Cloth Seats ~ Bucket Seats ~ Pass-Through Rear Seat ~ Rear Bench Seat",
+    "listPrice": "$7,997"
+  }
+]

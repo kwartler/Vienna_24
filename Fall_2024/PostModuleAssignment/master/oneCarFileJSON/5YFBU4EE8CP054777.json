@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBU4EE8CP054777",
+    "trueCarID": 23637201,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBU4EE8CP054777/2012-toyota-corolla/?zipcode=60162",
+    "listingDateDiff": "0 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "54,533",
+    "interiorColor": "Dark Charcoal",
+    "exteriorColor": "Nautical Blue Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Waukesha, WI",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$298/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$1,530 ",
+    "priceClassDiffAmt": "(8.5%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Sunroof(s) ~ Cruise Control ~ Auxiliary Audio Input ~ Rear Spoiler ~ Alloy Wheels ~ Overhead Airbags ~ Traction Control ~ Side Airbags ~ Air Conditioning ~ ABS Brakes ~ Power Locks ~ Power Mirrors ~ AM/FM Stereo ~ Rear Defroster ~ CD Audio ~ Power Windows ~ Cloth Seats ~ Automatic Transmission",
+    "listPrice": "$17,998"
+  }
+]

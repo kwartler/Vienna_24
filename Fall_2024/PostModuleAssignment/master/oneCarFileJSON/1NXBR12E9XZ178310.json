@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "1NXBR12E9XZ178310",
+    "trueCarID": 178310,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/1NXBR12E9XZ178310/1999-toyota-corolla/",
+    "listingDateDiff": "3 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 4,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "211,127",
+    "interiorColor": "Gray",
+    "exteriorColor": "White",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 4 owners",
+    "location": "Byhalia, MS",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$50/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$12 ",
+    "priceClassDiffAmt": "(0.4%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "4-Cyl 1.8 Liter ~ Automatic ~ FWD ~ ABS (4-Wheel) ~ Air Conditioning ~ Power Windows ~ Power Door Locks ~ Cruise Control ~ Power Steering ~ Tilt Wheel ~ AM/FM Stereo ~ Cassette ~ Dual Air Bags ~ Alloy Wheels",
+    "listPrice": "$2,995"
+  }
+]

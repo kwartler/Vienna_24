@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE9HP627363",
+    "trueCarID": 627363,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE9HP627363/2017-toyota-corolla/",
+    "listingDateDiff": "44 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "95,814",
+    "interiorColor": "Black",
+    "exteriorColor": "Silver",
+    "style": "Sedan",
+    "accidentOwnership": "2 accidents, 1 owner",
+    "location": "Kissimmee, FL",
+    "mileageRating": "28 cty / 35 hwy",
+    "monthlyPayment": "$265/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$656 ",
+    "priceClassDiffAmt": "(4.1%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "4-Cyl 1.8 Liter ~ Automatic CVTi-S ~ FWD ~ Hill Start Assist Control ~ Traction Control ~ Stability Control ~ ABS (4-Wheel) ~ Keyless Entry ~ Air Conditioning ~ Power Windows ~ Power Door Locks ~ Dynamic Cruise Control ~ Power Trunk Release ~ Power Steering ~ Tilt & Telescoping Wheel ~ AM/FM Stereo ~ CD/MP3 (Single Disc) ~ Bluetooth Wireless",
+    "listPrice": "$15,995"
+  }
+]

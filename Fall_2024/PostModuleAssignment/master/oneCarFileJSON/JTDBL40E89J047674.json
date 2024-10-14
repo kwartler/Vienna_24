@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDBL40E89J047674",
+    "trueCarID": 47674,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDBL40E89J047674/2009-toyota-corolla/",
+    "listingDateDiff": "20 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "49,092",
+    "interiorColor": "Beige",
+    "exteriorColor": "Green",
+    "style": "Sedan",
+    "accidentOwnership": 2,
+    "location": "Chantilly, VA",
+    "mileageRating": "27 cty / 35 hwy",
+    "monthlyPayment": "$182/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Child Safety Door Locks ~ Power Door Locks ~ Vehicle Anti-Theft ~ ABS Brakes ~ Electronic Brake Assistance ~ Traction Control ~ Vehicle Stability Control System ~ Driver Airbag ~ Front Side Airbag ~ Passenger Airbag ~ Side Head Curtain Airbag ~ First Aid Kit ~ Trunk Anti-Trap Device ~ Keyless Entry ~ Remote Ignition ~ Air Conditioning ~ Cruise Control ~ Tachometer",
+    "listPrice": "$10,995"
+  }
+]

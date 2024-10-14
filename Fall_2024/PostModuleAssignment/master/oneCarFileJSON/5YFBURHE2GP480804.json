@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE2GP480804",
+    "trueCarID": "P12051A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE2GP480804/2016-toyota-corolla/",
+    "listingDateDiff": "66 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "103,562",
+    "interiorColor": "Ash",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "2 accidents, 1 owner",
+    "location": "Fort Lauderdale, FL",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$215/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$685 ",
+    "priceClassDiffAmt": "(5.3%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ Front Disc/Rear Drum Brakes ~ Brake Assist ~ Wheel Covers ~ Steel Wheels ~ Tires - Front Performance ~ Tires - Rear Performance ~ Temporary Spare Tire ~ Heated Mirrors ~ Power Mirror(s) ~ Rear Defrost ~ Intermittent Wipers ~ Variable Speed Intermittent Wipers ~ Daytime Running Lights ~ Automatic Headlights ~ LED Headlights",
+    "listPrice": "$12,990"
+  }
+]

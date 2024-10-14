@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE5KP863824",
+    "trueCarID": "863824FA71463",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE5KP863824/2019-toyota-corolla/",
+    "listingDateDiff": "44 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Salvage",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "62,430",
+    "interiorColor": "Black",
+    "exteriorColor": "Black",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Omaha, NE",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$232/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "4-Cyl 1.8 Liter ~ Automatic CVTi-S ~ FWD ~ Hill Start Assist Control ~ Traction Control ~ Stability Control ~ ABS (4-Wheel) ~ Air Conditioning ~ Power Windows ~ Power Door Locks ~ Dynamic Cruise Control ~ Power Steering ~ Tilt & Telescoping Wheel ~ AM/FM Stereo ~ CD/MP3 (Single Disc) ~ Bluetooth Wireless ~ Entune ~ Backup Camera",
+    "listPrice": "$13,995"
+  }
+]

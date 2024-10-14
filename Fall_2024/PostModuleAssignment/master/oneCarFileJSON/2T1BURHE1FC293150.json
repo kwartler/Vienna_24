@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE1FC293150",
+    "trueCarID": 27252,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE1FC293150/2015-toyota-corolla/",
+    "listingDateDiff": "16 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "121,994",
+    "interiorColor": "Steel Gray",
+    "exteriorColor": "Slate Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Everett, WA",
+    "mileageRating": "28 cty / 37 hwy",
+    "monthlyPayment": "$240/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$803 ",
+    "priceClassDiffAmt": "(5.5%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "***BACK UP CAMERA*** ~ ***BLUETOOTH WIRELESS*** ~ ***CLEAN CARFAX*** ~ ***GOOD SERVICE RECORDS*** ~ ***LOCAL VEHICLE*** ~ ***LOW MILES*** ~ ***PREMIUM WHEELS*** ~ 17\" x 7.0\" Alloy Wheels ~ 4-Wheel Disc Brakes ~ 6 Speakers ~ ABS brakes ~ AM/FM radio: SiriusXM ~ Air Conditioning ~ Alloy wheels ~ Automatic temperature control ~ Brake assist ~ Bumpers: body-color ~ CD player",
+    "listPrice": "$14,499"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE3KP873087",
+    "trueCarID": "2Y23603A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE3KP873087/2019-toyota-corolla/",
+    "listingDateDiff": "11 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Theft Recovery",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "82,775",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Unknown",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Salt Lake City, UT",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$319/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$1,247 ",
+    "priceClassDiffAmt": "(6.5%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "1 12V DC Power Outlet ~ 13.2 Gal. Fuel Tank ~ 390CCA Maintenance-Free Battery w/Run Down Protection ~ 60-40 Folding Bench Front Facing Fold Forward Seatback Rear Seat ~ 80 Amp Alternator ~ A/C ~ ABS ~ ABS And Driveline Traction Control ~ Adaptive Cruise Control ~ Adjustable Steering Wheel ~ Air Filtration ~ Airbag Occupancy Sensor ~ AM/FM Stereo ~ Analog Appearance ~ Automatic Equalizer ~ Automatic Headlights ~ Automatic Highbeams ~ Auxiliary Audio Input",
+    "listPrice": "$19,253"
+  }
+]

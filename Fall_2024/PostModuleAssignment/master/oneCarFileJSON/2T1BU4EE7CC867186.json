@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BU4EE7CC867186",
+    "trueCarID": "P23029",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BU4EE7CC867186/2012-toyota-corolla/",
+    "listingDateDiff": "6 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Manual",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "102,212",
+    "interiorColor": "Bisque",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "Henrico, VA",
+    "mileageRating": "27 cty / 34 hwy",
+    "monthlyPayment": "$182/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "4 Speakers ~ AM/FM radio ~ CD player ~ MP3 decoder ~ Radio: AM/FM/CD w/MP3/WMA Playback Capability ~ Air Conditioning ~ Rear window defroster ~ Power steering ~ Power windows ~ Remote keyless entry ~ Speed-sensing steering ~ Traction control ~ ABS brakes ~ Anti-whiplash front head restraints ~ Dual front impact airbags ~ Dual front side impact airbags ~ Front anti-roll bar ~ Front wheel independent suspension",
+    "listPrice": "$11,000"
+  }
+]

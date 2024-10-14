@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "1NXBR32E28Z033039",
+    "trueCarID": "P033039_CT",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/1NXBR32E28Z033039/2008-toyota-corolla/",
+    "listingDateDiff": "33 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 4,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "154,295",
+    "interiorColor": "Tan",
+    "exteriorColor": "Maroon",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 4 owners",
+    "location": "Woodinville, WA",
+    "mileageRating": "26 cty / 35 hwy",
+    "monthlyPayment": "$99/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$231 ",
+    "priceClassDiffAmt": "(3.8%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "15'' x 6J Steel Wheels w/Full Wheel Covers ~ Cloth Seat Trim ~ AM/FM Stereo w/CD & 4 Speakers ~ Front beverage holders ~ Tilt steering wheel ~ Split folding rear seat ~ Speed-sensing steering ~ Rear window defroster ~ Rear anti-roll bar ~ Power steering ~ Power door mirrors ~ Passenger vanity mirror ~ Passenger door bin ~ Outside temperature display ~ Occupant sensing airbag ~ Low tire pressure warning ~ Front wheel independent suspension ~ Front anti-roll bar",
+    "listPrice": "$5,995"
+  }
+]

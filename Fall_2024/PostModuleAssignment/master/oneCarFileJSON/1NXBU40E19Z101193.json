@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "1NXBU40E19Z101193",
+    "trueCarID": 11126,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/1NXBU40E19Z101193/2009-toyota-corolla/",
+    "listingDateDiff": "31 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "80,181",
+    "interiorColor": "Bisque",
+    "exteriorColor": "Barcelona Red Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Wichita, KS",
+    "mileageRating": "27 cty / 35 hwy",
+    "monthlyPayment": "$248/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$589 ",
+    "priceClassDiffAmt": "(3.9%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "1.8L DOHC SFI 16-valve VVT-i 4-cyl engine ~ Front wheel drive ~ Independent MacPherson strut front suspension ~ Torsion beam rear suspension ~ Front & rear stabilizer bars ~ Electronic pwr steering ~ Front disc/rear drum brakes ~ Temporary spare tire ~ Blackout sport grille ~ Color-keyed door handles ~ Driver seat height adjustment ~ 60/40-split folding rear seats ~ Direct tire pressure monitor ~ Digital clock ~ Remote trunk release ~ Anti-theft system with engine immobilizer ~ Air conditioning w/air filtration ~ HD rear window defogger",
+    "listPrice": "$14,950"
+  }
+]

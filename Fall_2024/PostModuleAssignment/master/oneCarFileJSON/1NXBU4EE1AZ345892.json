@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "1NXBU4EE1AZ345892",
+    "trueCarID": "61C02023",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/1NXBU4EE1AZ345892/2010-toyota-corolla/",
+    "listingDateDiff": "4 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "80,401",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "San Bruno, CA",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$182/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$484 ",
+    "priceClassDiffAmt": "(4.4%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "15'' Steel Disc Wheels ~ Cloth Seat Trim ~ AM/FM Stereo w/CD/MP3 & 4 Speakers ~ 4 Speakers ~ Air Conditioning ~ Electronic Stability Control ~ Front Bucket Seats ~ Front Center Armrest ~ Tachometer ~ ABS brakes ~ AM/FM radio ~ Anti-whiplash front head restraints ~ Brake assist ~ Bumpers: body-color ~ CD player ~ Driver door bin ~ Driver vanity mirror ~ Dual front impact airbags",
+    "listPrice": "$10,992"
+  }
+]

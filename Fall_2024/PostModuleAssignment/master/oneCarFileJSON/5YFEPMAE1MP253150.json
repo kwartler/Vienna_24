@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE1MP253150",
+    "trueCarID": "P666",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE1MP253150/2021-toyota-corolla/",
+    "listingDateDiff": "9 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "29,670",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Scottsdale, AZ",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$372/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$105 ",
+    "priceClassDiffAmt": "(0.5%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Audio:6 Speakers ~ AM/FM radio: SiriusXM ~ AM/FM radio:Radio data system ~ Radio: Audio ~ Climate Control:Air Conditioning ~ Climate Control:Automatic temperature control ~ Climate Control:Rear window defroster ~ Convenience:Power steering ~ Convenience:Power windows ~ Convenience:Remote keyless entry ~ Convenience:Steering wheel mounted audio controls ~ Cruise Control:Speed control ~ Driving Assist:Brake assist ~ Driving Assist:Electronic Stability Control ~ Handling:Four wheel independent suspension ~ Handling:Traction control ~ Headlights:Auto High-beam Headlights ~ Headlights:Delay-off headlights",
+    "listPrice": "$22,439"
+  }
+]

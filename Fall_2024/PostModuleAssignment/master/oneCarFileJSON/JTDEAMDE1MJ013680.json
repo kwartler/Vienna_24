@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEAMDE1MJ013680",
+    "trueCarID": "P7492",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEAMDE1MJ013680/2021-toyota-corolla/",
+    "listingDateDiff": "105 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Hybrid",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Hybrid",
+    "mileage": "19,846",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "Certified Pre-Owned",
+    "location": "Mesa, AZ",
+    "mileageRating": "53 cty / 52 hwy",
+    "monthlyPayment": "$445/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$539 ",
+    "priceClassDiffAmt": "(2%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ 4-Wheel Disc Brakes ~ Brake Assist ~ Aluminum Wheels ~ Tires - Front All-Season ~ Tires - Rear All-Season ~ Wheel Covers ~ Heated Mirrors ~ Power Mirror(s) ~ Rear Defrost ~ Intermittent Wipers ~ Variable Speed Intermittent Wipers ~ Automatic Highbeams ~ Daytime Running Lights ~ Automatic Headlights ~ LED Headlights",
+    "listPrice": "$26,857"
+  }
+]

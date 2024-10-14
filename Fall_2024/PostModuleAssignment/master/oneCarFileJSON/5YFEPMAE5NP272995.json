@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE5NP272995",
+    "trueCarID": 97528406,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE5NP272995/2022-toyota-corolla/",
+    "listingDateDiff": "2 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "37,426",
+    "interiorColor": "Black",
+    "exteriorColor": "Celestite",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Mckinney, TX",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$354/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "Great Price",
+    "allFeatures": "CELESTITE ~ BLACK  PREMIUM FABRIC SEAT TRIM ~ 4-Wheel Disc Brakes w/4-Wheel ABS  Front Vented Discs  Brake Assist  Hill Hold Control and Electric Parking Brake ~ Low Tire Pressure Warning ~ Back-Up Camera",
+    "listPrice": "$21,388"
+  }
+]

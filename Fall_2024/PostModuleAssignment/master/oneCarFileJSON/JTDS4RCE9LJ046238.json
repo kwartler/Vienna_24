@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDS4RCE9LJ046238",
+    "trueCarID": "22E0028B",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDS4RCE9LJ046238/2020-toyota-corolla/",
+    "listingDateDiff": "16 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "88,276",
+    "interiorColor": "Moonstone",
+    "exteriorColor": "Blue Crush Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Frederick, MD",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$315/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$133 ",
+    "priceClassDiffAmt": "(0.7%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "6 Speakers ~ Radio data system ~ Air Conditioning ~ Automatic temperature control ~ Rear window defroster ~ Power steering ~ Power windows ~ Remote keyless entry ~ Steering wheel mounted audio controls ~ Four wheel independent suspension ~ Traction control ~ 4-Wheel Disc Brakes ~ ABS brakes ~ Dual front impact airbags ~ Dual front side impact airbags ~ Front anti-roll bar ~ Knee airbag ~ Low tire pressure warning",
+    "listPrice": "$18,985"
+  }
+]

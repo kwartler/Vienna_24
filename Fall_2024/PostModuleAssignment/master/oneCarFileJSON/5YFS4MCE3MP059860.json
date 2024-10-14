@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFS4MCE3MP059860",
+    "trueCarID": 59860,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFS4MCE3MP059860/2021-toyota-corolla/",
+    "listingDateDiff": "2 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Salvage",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "28,409",
+    "interiorColor": "Moonstone",
+    "exteriorColor": "Silver",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "Jacksonville, FL",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$346/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$1,609 ",
+    "priceClassDiffAmt": "(7.7%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Automatic Air Conditioning ~ Pollen sensor Air Conditioning ~ GPS Navigation ~ 6-way adjuster Seats - Driver ~ Sport Seats - Front ~ 4-way adjuster Seats - Passenger ~ 60/40 split-folding Seats - Rear ~ Metallic Trim ~ Scuff plates Trim ~ Fabric-trimmed Upholstery ~ Power Windows ~ 225/40R18 Tire Size ~ Temporary Tire Size - Spare ~ Aluminum Wheel Material ~ 18 Wheel Size ~ Variable intermittent Wipers ~ 4-wheel ~  disc Brakes",
+    "listPrice": "$20,899"
+  }
+]

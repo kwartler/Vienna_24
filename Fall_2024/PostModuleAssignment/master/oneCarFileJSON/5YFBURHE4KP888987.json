@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE4KP888987",
+    "trueCarID": 6228,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE4KP888987/2019-toyota-corolla/",
+    "listingDateDiff": "42 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "111,620",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Barcelona Red Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Phoenix, AZ",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$249/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "50 State Emissions ~ Barcelona Red Metallic ~ Fleet Credit ~ Keyless Entry System",
+    "listPrice": "$14,999"
+  }
+]

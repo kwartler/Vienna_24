@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE1JC058529",
+    "trueCarID": 23891210,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE1JC058529/2018-toyota-corolla/?zipcode=36103",
+    "listingDateDiff": "19 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "44,636",
+    "interiorColor": "Black",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Montgomery, AL",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$331/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Rear View Camera ~ Auxiliary Audio Input ~ Overhead Airbags ~ Traction Control ~ Side Airbags ~ Air Conditioning ~ ABS Brakes ~ Power Locks ~ Power Mirrors ~ AM/FM Stereo ~ Rear Defroster ~ CD Audio ~ Power Windows ~ Cloth Seats ~ Automatic Transmission ~ Bluetooth Technology ~ Lane Departure Warning ~ Automated Cruise Control",
+    "listPrice": "$19,998"
+  }
+]

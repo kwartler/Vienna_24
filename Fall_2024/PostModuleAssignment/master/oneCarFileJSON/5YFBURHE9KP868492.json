@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE9KP868492",
+    "trueCarID": "868492G",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE9KP868492/2019-toyota-corolla/",
+    "listingDateDiff": "26 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "43,216",
+    "interiorColor": "Steel Gray",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Clermont, FL",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$297/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "6 Speakers ~ AM/FM radio ~ CD player ~ Radio data system ~ Radio: Entune Audio w/6.1'' Screen ~ Air Conditioning ~ Rear window defroster ~ Power steering ~ Power windows ~ Steering wheel mounted audio controls ~ Speed-sensing steering ~ Traction control ~ ABS brakes ~ Dual front impact airbags ~ Dual front side impact airbags ~ Front anti-roll bar ~ Front wheel independent suspension ~ Knee airbag",
+    "listPrice": "$17,906"
+  }
+]

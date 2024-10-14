@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAEXMP221202",
+    "trueCarID": "P3326",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAEXMP221202/2021-toyota-corolla/",
+    "listingDateDiff": "21 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "36,914",
+    "interiorColor": "Black",
+    "exteriorColor": "Unknown",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Goldsboro, NC",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$373/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$489 ",
+    "priceClassDiffAmt": "(2.2%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Lane Tracing Assist (LTA) ~ Side Impact Beams ~ Pre-Collision System (PCS) ~ Collision Mitigation-Front ~ Driver Monitoring-Alert ~ Low Tire Pressure Warning ~ Dual Stage Driver And Passenger Front Airbags ~ Curtain 1st And 2nd Row Airbags ~ Airbag Occupancy Sensor ~ Rear Child Safety Locks ~ Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3 Point ~  Height Adjusters and Pretensioners ~ Back-Up Camera ~ Front Bucket Seats -inc: 6-way adjustable driver's seat ~  4-way adjustable front passenger seat and seatback pocket ~ Driver Seat ~ Passenger Seat ~ 60-40 Folding Bench Front Facing Fold Forward Seatback Rear Seat",
+    "listPrice": "$22,482"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHEXJP752913",
+    "trueCarID": 8030,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHEXJP752913/2018-toyota-corolla/",
+    "listingDateDiff": "61 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "75,589",
+    "interiorColor": "Black",
+    "exteriorColor": "Gray",
+    "style": "Sedan",
+    "accidentOwnership": 2,
+    "location": "El Paso, TX",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$257/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "Great Price",
+    "allFeatures": "ABS Brakes ~ Child Safety Door Locks ~ Cruise Control ~ Driver Airbag ~ Front Side Airbag ~ Passenger Airbag ~ Power Windows ~ Run Flat Tires ~ Side Head Curtain Airbag ~ Telescopic Steering Column",
+    "listPrice": "$15,500"
+  }
+]

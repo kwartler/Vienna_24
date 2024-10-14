@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE2MP170097",
+    "trueCarID": "MP170097",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE2MP170097/2021-toyota-corolla/",
+    "listingDateDiff": "Adaptive Cruise Control",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "48,274",
+    "interiorColor": "Light Gray",
+    "exteriorColor": "Celestite",
+    "style": "Sedan",
+    "accidentOwnership": "2 accidents, 1 owner",
+    "location": "Fullerton, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$322/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$312 ",
+    "priceClassDiffAmt": "(1.6%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "(Bluetooth Connectivity ~  Toyota Safety Sense ~  Remote Keyless Entry) ~ 50 State Emissions",
+    "listPrice": "$19,422"
+  }
+]

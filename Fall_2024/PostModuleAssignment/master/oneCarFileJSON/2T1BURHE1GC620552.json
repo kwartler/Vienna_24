@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE1GC620552",
+    "trueCarID": "PC1393",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE1GC620552/2016-toyota-corolla/",
+    "listingDateDiff": "13 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "42,556",
+    "interiorColor": "Black",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": 2,
+    "location": "Edgewood, MD",
+    "mileageRating": "29 cty / 37 hwy",
+    "monthlyPayment": "$311/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Navigation System ~ S Premium Package ~ 6 Speakers ~ AM/FM radio: SiriusXM ~ CD player ~ Radio data system ~ Radio: Entune Premium Audio w/Navigation/App Suite ~ Air Conditioning ~ Automatic temperature control ~ Rear window defroster ~ Power driver seat ~ Power steering ~ Power windows ~ Remote keyless entry ~ Steering wheel mounted audio controls ~ Speed-sensing steering ~ Traction control ~ 4-Wheel Disc Brakes",
+    "listPrice": "$18,739"
+  }
+]

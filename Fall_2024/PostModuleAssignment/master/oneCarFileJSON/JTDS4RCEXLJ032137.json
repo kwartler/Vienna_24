@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDS4RCEXLJ032137",
+    "trueCarID": "3U32137",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDS4RCEXLJ032137/2020-toyota-corolla/",
+    "listingDateDiff": "6 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "28,001",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Price, UT",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$398/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Pre-Collision System (PCS) forward collision mitigation ~ Pre-Collision System with Pedestrian Detection (PCS w/PD) ~ Wi-Fi Connect with up to 2GB within 6-month trial mobile hotspot internet access ~ Rear mounted camera ~ Lane Departure Alert with Steering Assist (LDA w/SA) ~ Full-Speed Range Dynamic Radar Cruise Control (DRCC) ~ Predictive brake assist system ~ Cruise control with steering wheel mounted controls ~ Primary monitor touchscreen ~ Dynamic Force 2L I-4 port/direct injection ~  DOHC ~  variable valve control ~  engine with 169HP ~ Vehicle Sway Warning driver attention alert ~ Road Sign Assist (RSA) ~ Keyfob window control ~ Automatic brake hold ~ Smart device mirroring",
+    "listPrice": "$23,995"
+  }
+]

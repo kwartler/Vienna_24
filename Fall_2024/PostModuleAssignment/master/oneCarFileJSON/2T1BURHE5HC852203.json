@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE5HC852203",
+    "trueCarID": "852203-22",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE5HC852203/2017-toyota-corolla/",
+    "listingDateDiff": "27 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Manual",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "77,277",
+    "interiorColor": "Black",
+    "exteriorColor": "Black",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Tampa, FL",
+    "mileageRating": "27 cty / 35 hwy",
+    "monthlyPayment": "$298/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$186 ",
+    "priceClassDiffAmt": "(1%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "AIR Filter AIR Conditioning ~ Automatic AIR Conditioning ~ Pollen Sensor AIR Conditioning ~ Center Armrests ~ Controls ~  Voice-Activated Audio ~ Digital Media Auxiliary Jack Audio ~ Ipod Adapter Audio ~ Entune Audio - Brand ~ CD Audio - CD/MP3 ~ MP3 Audio - CD/MP3 ~ WMA Playback Audio - CD/MP3 ~ AM/FM Audio - Radio ~ 6 Audio - Speakers ~ USB Port Capabilities/Wiring ~ Digital Clock ~ Bluetooth ~  Hands-Free Phone Communication",
+    "listPrice": "$17,995"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE4FC470161",
+    "trueCarID": "FC470161-922",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE4FC470161/2015-toyota-corolla/",
+    "listingDateDiff": "9 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "161,918",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Norcross, GA",
+    "mileageRating": "29 cty / 37 hwy",
+    "monthlyPayment": "$182/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "S PLUS PACKAGE ~ CLASSIC SILVER METALLIC ~ BLACK SPORT FABRIC SEAT TRIM",
+    "listPrice": "$11,000"
+  }
+]

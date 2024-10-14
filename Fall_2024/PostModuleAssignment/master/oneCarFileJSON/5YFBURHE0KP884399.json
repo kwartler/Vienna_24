@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE0KP884399",
+    "trueCarID": 884399,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE0KP884399/2019-toyota-corolla/",
+    "listingDateDiff": "118 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "124,036",
+    "interiorColor": "Black",
+    "exteriorColor": "Red",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Fort Lauderdale, FL",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$240/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$401 ",
+    "priceClassDiffAmt": "(2.8%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Door Handle Color - Body-Color ~  Front Bumper Color - Body-Color ~  Grille Color - Black ~  Mirror Color - Body-Color ~  Rear Bumper Color - Body-Color ~  Steering Ratio - 17.8 ~  Turns Lock-To-Lock - 3.2 ~  Air Filtration ~  Armrests - Rear Center With Cupholders ~  Armrests - Rear Folding ~  Floor Material - Carpet ~  Front Air Conditioning - Automatic Climate Control ~  Front Air Conditioning Zones - Single ~  Interior Accents - Chrome ~  Interior Accents - Color Keyed ~  Interior Accents - Metallic-Tone ~  Shift Knob Trim - Alloy ~  Steering Wheel Trim - Urethane",
+    "listPrice": "$14,501"
+  }
+]

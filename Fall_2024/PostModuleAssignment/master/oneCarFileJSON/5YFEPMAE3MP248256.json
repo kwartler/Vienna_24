@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE3MP248256",
+    "trueCarID": 23920316,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE3MP248256/2021-toyota-corolla/?zipcode=32225",
+    "listingDateDiff": "13 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "39,854",
+    "interiorColor": "Black",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "Jacksonville, FL",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$381/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$2,355 ",
+    "priceClassDiffAmt": "(10.2%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Rear View Camera ~ Auxiliary Audio Input ~ Overhead Airbags ~ Traction Control ~ Side Airbags ~ Air Conditioning ~ ABS Brakes ~ Power Locks ~ Power Mirrors ~ AM/FM Stereo ~ Satellite Radio Ready ~ Rear Defroster ~ Power Windows ~ Cloth Seats ~ Automatic Transmission ~ Apple CarPlay ~ Automated Cruise Control ~ Bluetooth Technology",
+    "listPrice": "$22,998"
+  }
+]

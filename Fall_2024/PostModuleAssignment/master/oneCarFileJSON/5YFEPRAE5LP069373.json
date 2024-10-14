@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPRAE5LP069373",
+    "trueCarID": 19526,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPRAE5LP069373/2020-toyota-corolla/",
+    "listingDateDiff": "41 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "57,028",
+    "interiorColor": "Black",
+    "exteriorColor": "Celestite",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Denver, CO",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$329/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$240 ",
+    "priceClassDiffAmt": "(1.2%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ 4-Wheel Disc Brakes ~ Brake Assist ~ Steel Wheels ~ Tires - Front Performance ~ Tires - Rear Performance ~ Wheel Covers ~ Temporary Spare Tire ~ Power Mirror(s) ~ Rear Defrost ~ Intermittent Wipers ~ Variable Speed Intermittent Wipers ~ Daytime Running Lights ~ Automatic Headlights ~ LED Headlights ~ Automatic Highbeams",
+    "listPrice": "$19,861"
+  }
+]

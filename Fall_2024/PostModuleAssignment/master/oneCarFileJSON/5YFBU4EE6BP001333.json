@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBU4EE6BP001333",
+    "trueCarID": "U001333",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBU4EE6BP001333/2011-toyota-corolla/",
+    "listingDateDiff": "5 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 4,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "145,632",
+    "interiorColor": "Black",
+    "exteriorColor": "Black",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 4 owners",
+    "location": "Oxnard, CA",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$166/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$386 ",
+    "priceClassDiffAmt": "(3.9%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "Cruise Control ~ Power Steering ~ Tilt Wheel ~ AM/FM Stereo ~ CD/MP3 (Single Disc) ~ Dual Air Bags ~ Side Air Bags ~ F&R Head Curtain Air Bags ~ Daytime Running Lights ~ Fog Lights ~ Rear Spoiler ~ Alloy Wheels ~ 4-Cyl 1.8 Liter ~ Automatic 4-Spd w/Overdrive ~ FWD ~ Traction Control ~ Stability Control ~ ABS (4-Wheel)",
+    "listPrice": "$9,995"
+  }
+]

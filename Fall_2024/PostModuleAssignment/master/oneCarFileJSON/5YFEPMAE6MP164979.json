@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE6MP164979",
+    "trueCarID": "WC8287",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE6MP164979/2021-toyota-corolla/",
+    "listingDateDiff": "3 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "62,177",
+    "interiorColor": "Black",
+    "exteriorColor": "Barcelona Red Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "Wilmington, NC",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$340/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$175 ",
+    "priceClassDiffAmt": "(0.9%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ 4-Wheel Disc Brakes ~ Brake Assist ~ Steel Wheels ~ Tires - Front Performance ~ Tires - Rear Performance ~ Wheel Covers ~ Temporary Spare Tire ~ Power Mirror(s) ~ Rear Defrost ~ Intermittent Wipers ~ Variable Speed Intermittent Wipers ~ Daytime Running Lights ~ Automatic Headlights ~ LED Headlights ~ Automatic Highbeams",
+    "listPrice": "$20,500"
+  }
+]

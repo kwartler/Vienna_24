@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDS4RCE6LJ029428",
+    "trueCarID": 36317,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDS4RCE6LJ029428/2020-toyota-corolla/",
+    "listingDateDiff": "1 day ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "35,269",
+    "interiorColor": "Moonstone",
+    "exteriorColor": "Celestite Gray Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Grimes, IA",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$381/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$276 ",
+    "priceClassDiffAmt": "(1.2%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": ", ~ 1 ~ 12V ~ DC ~ Power ~ Outlet, ~ 13.2 ~ Gal. ~ Fuel ~ Tank, ~ 2 ~ LCD ~ Monitors ~ In ~ The ~ Front, ~ 3.79 ~ Axle",
+    "listPrice": "$22,999"
+  }
+]

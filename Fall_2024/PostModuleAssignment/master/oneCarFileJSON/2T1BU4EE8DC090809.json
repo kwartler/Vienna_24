@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BU4EE8DC090809",
+    "trueCarID": "GT153606C",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BU4EE8DC090809/2013-toyota-corolla/",
+    "listingDateDiff": "2 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "125,330",
+    "interiorColor": "Le",
+    "exteriorColor": "Silver",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Englewood, CO",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$207/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$51 ",
+    "priceClassDiffAmt": "(0.4%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Front Bucket Seats ~ Front Center Armrest ~ Tachometer ~ ABS brakes ~ Anti-whiplash front head restraints ~ Brake assist ~ Bumpers: body-color ~ CD player ~ Driver door bin ~ Driver vanity mirror ~ Dual front impact airbags ~ Dual front side impact airbags ~ Front anti-roll bar ~ Front reading lights ~ Front wheel independent suspension ~ Illuminated entry ~ Low tire pressure warning ~ MP3 decoder",
+    "listPrice": "$12,490"
+  }
+]

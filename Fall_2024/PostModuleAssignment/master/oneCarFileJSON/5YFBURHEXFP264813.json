@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHEXFP264813",
+    "trueCarID": 264813,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHEXFP264813/2015-toyota-corolla/",
+    "listingDateDiff": "44 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 5,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "134,763",
+    "interiorColor": "Gray",
+    "exteriorColor": "White",
+    "style": "Sedan",
+    "accidentOwnership": "2 accidents, 5 owners",
+    "location": "Kissimmee, FL",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$207/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$720 ",
+    "priceClassDiffAmt": "(5.8%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "4-Cyl 1.8 Liter ~ Automatic CVTi-S ~ FWD ~ Traction Control ~ Stability Control ~ ABS (4-Wheel) ~ Keyless Entry ~ Air Conditioning ~ Power Windows ~ Power Door Locks ~ Cruise Control ~ Power Steering ~ Tilt & Telescoping Wheel ~ AM/FM Stereo ~ CD/MP3 (Multi Disc) ~ Bluetooth Wireless ~ Entune ~ Backup Camera",
+    "listPrice": "$12,495"
+  }
+]

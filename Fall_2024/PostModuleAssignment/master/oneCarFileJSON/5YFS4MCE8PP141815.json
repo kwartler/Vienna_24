@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFS4MCE8PP141815",
+    "trueCarID": "A5242A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFS4MCE8PP141815/2023-toyota-corolla/",
+    "listingDateDiff": "31 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 0,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": 603,
+    "interiorColor": "Black/Red",
+    "exteriorColor": "Midnight Black Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Killeen, TX",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$495/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "Fair Price",
+    "allFeatures": "6 Speakers ~ AM/FM radio: SiriusXM ~ Radio data system ~ Radio: 8'' Toyota Audio Multimedia ~ Air Conditioning ~ Automatic temperature control ~ Rear window defroster ~ Power steering ~ Power windows ~ Remote keyless entry ~ Steering wheel mounted audio controls ~ Four wheel independent suspension ~ Traction control ~ 4-Wheel Disc Brakes ~ ABS brakes ~ Dual front impact airbags ~ Dual front side impact airbags ~ Emergency communication system: Safety Connect (up to 10-year trial subscription)",
+    "listPrice": "$29,900"
+  }
+]

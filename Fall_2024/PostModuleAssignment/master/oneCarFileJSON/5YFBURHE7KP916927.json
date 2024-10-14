@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE7KP916927",
+    "trueCarID": "KP916927",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE7KP916927/2019-toyota-corolla/",
+    "listingDateDiff": "3 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "27,315",
+    "interiorColor": "Black",
+    "exteriorColor": "Barcelona Red Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Plano, TX",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$315/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "Fair Price",
+    "allFeatures": "Lane Keeping Assist ~ Bluetooth Connection ~ Black ~  Fabric Seat Trim ~ Barcelona Red Metallic ~ 50 State Emissions",
+    "listPrice": "$18,990"
+  }
+]

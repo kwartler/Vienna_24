@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE4KP945754",
+    "trueCarID": 945754,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE4KP945754/2019-toyota-corolla/",
+    "listingDateDiff": "14 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "15,522",
+    "interiorColor": "Black",
+    "exteriorColor": "Red",
+    "style": "Sedan",
+    "accidentOwnership": "2 accidents, 2 owners",
+    "location": "Birmingham, AL",
+    "mileageRating": "28 cty / 35 hwy",
+    "monthlyPayment": "$331/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$153 ",
+    "priceClassDiffAmt": "(0.8%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "ABS Brakes ~ Alloy Wheels ~ Child Safety Door Locks ~ Cruise Control ~ Driver Airbag ~ Front Side Airbag ~ Passenger Airbag ~ Power Windows ~ Run Flat Tires ~ Side Head Curtain Airbag ~ Telescopic Steering Column ~ Vehicle Anti-Theft",
+    "listPrice": "$19,995"
+  }
+]

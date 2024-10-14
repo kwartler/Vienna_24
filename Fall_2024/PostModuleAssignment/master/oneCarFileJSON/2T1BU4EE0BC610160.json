@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BU4EE0BC610160",
+    "trueCarID": 610160,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BU4EE0BC610160/2011-toyota-corolla/",
+    "listingDateDiff": "34 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "151,341",
+    "interiorColor": "Black",
+    "exteriorColor": "Black",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 3 owners",
+    "location": "Woodside, NY",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$108/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$453 ",
+    "priceClassDiffAmt": "(7%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "Dual Air Bags ~ Side Air Bags ~ F&R Head Curtain Air Bags ~ Daytime Running Lights ~ 4-Cyl 1.8 Liter ~ Automatic 4-Spd w/Overdrive ~ FWD ~ Traction Control ~ Stability Control ~ ABS (4-Wheel) ~ Anti-Theft System ~ Keyless Entry ~ Air Conditioning ~ Power Windows ~ Power Door Locks ~ Cruise Control ~ Power Steering ~ Tilt Wheel",
+    "listPrice": "$6,499"
+  }
+]

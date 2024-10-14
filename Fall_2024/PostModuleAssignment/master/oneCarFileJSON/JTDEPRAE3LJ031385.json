@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAE3LJ031385",
+    "trueCarID": 23719390,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAE3LJ031385/2020-toyota-corolla/?zipcode=70503",
+    "listingDateDiff": "3 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "33,388",
+    "interiorColor": "Tan",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Lafayette, LA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$365/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$111 ",
+    "priceClassDiffAmt": "(0.5%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Rear View Camera ~ Auxiliary Audio Input ~ Overhead Airbags ~ Traction Control ~ Side Airbags ~ Air Conditioning ~ ABS Brakes ~ Power Locks ~ Power Mirrors ~ AM/FM Stereo ~ Rear Defroster ~ Power Windows ~ Cloth Seats ~ Automatic Transmission ~ Bluetooth Technology ~ Entune ~ Automated Cruise Control ~ Lane Departure Warning",
+    "listPrice": "$21,998"
+  }
+]

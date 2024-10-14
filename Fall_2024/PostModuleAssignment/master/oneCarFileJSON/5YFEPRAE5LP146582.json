@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPRAE5LP146582",
+    "trueCarID": 330230,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPRAE5LP146582/2020-toyota-corolla/",
+    "listingDateDiff": "10 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "8,608",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Las Vegas, NV",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$414/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$70 ",
+    "priceClassDiffAmt": "(0.3%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "6 Speakers ~ AM/FM radio: SiriusXM ~ Radio data system ~ Radio: Audio AM/FM w/Navigation ~ Air Conditioning ~ Automatic temperature control ~ Rear window defroster ~ Power steering ~ Power windows ~ Remote keyless entry ~ Steering wheel mounted audio controls ~ Four wheel independent suspension ~ Traction control ~ 4-Wheel Disc Brakes ~ ABS brakes ~ Dual front impact airbags ~ Dual front side impact airbags ~ Emergency communication system: Safety Connect with 3-year trial",
+    "listPrice": "$24,999"
+  }
+]

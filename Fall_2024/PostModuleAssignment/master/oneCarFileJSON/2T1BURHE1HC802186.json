@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE1HC802186",
+    "trueCarID": 802186,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE1HC802186/2017-toyota-corolla/",
+    "listingDateDiff": "260 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "79,052",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Silver",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 2 owners",
+    "location": "Lilburn, GA",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$282/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$938 ",
+    "priceClassDiffAmt": "(5.5%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "ABS Brakes ~ Adjustable Foot Pedals ~ Air Conditioning ~ Alarm System ~ Alloy Wheels ~ AM/FM ~ AM/FM Radio ~ Anti-Lock Brakes ~ Aux Audio Jack ~ Backup Camera ~ Bluetooth ~ CD ~ Child Safety Door Locks ~ Cruise Control ~ Daytime Running Lights ~ Driver Airbag ~ First Aid Kit ~ Front Side Airbag",
+    "listPrice": "$16,995"
+  }
+]

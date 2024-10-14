@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE9HP605802",
+    "trueCarID": 605802,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE9HP605802/2017-toyota-corolla/",
+    "listingDateDiff": "20 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "75,681",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 2 owners",
+    "location": "Mount Juliet, TN",
+    "mileageRating": "28 cty / 35 hwy",
+    "monthlyPayment": "$282/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "$7 ",
+    "priceClassDiffAmt": "above",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Air Conditioning ~  Power Steering ~  Power Windows ~  Power Door Locks ~  Tilt Steering Wheel ~  Side Airbags ~  Keyless Entry ~  ABS Brakes ~  AM/FM ~  Partial Leather Interior Surface ~  Satellite; Immobilizer; Daytime Running Lights; Dual Front Airbags; Head Airbags; Rear Head Airbags; Active Seatbelts Bluetooth ~  Daytime Running Lights ~  Navigation System ~  Premium Sound ~  Reverse Camera",
+    "listPrice": "$16,998"
+  }
+]

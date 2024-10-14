@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDS4MCE4MJ067745",
+    "trueCarID": 67745,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDS4MCE4MJ067745/2021-toyota-corolla/",
+    "listingDateDiff": "Premium Wheels",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "6,300",
+    "interiorColor": "Moonstone",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Clayton, NC",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$480/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$990 ",
+    "priceClassDiffAmt": "(3.4%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "1 12V DC Power Outlet ~ 13.2 Gal. Fuel Tank ~ 2 LCD Monitors In The Front ~ 3.79 Axle Ratio ~ 60-40 Folding Bench Front Facing Fold Forward Seatback Rear Seat ~ Air Filtration ~ Airbag Occupancy Sensor ~ Analog Appearance ~ Automatic Air Conditioning ~ Back-Up Camera ~ Battery w/Run Down Protection ~ Black Side Windows Trim ~ Cargo Space Lights ~ Clearcoat Paint ~ Collision Mitigation-Front ~ Compact Spare Tire Mounted Inside Under Cargo ~ Cruise Control w/Steering Wheel Controls ~ Cruise Control-Steering Assist",
+    "listPrice": "$28,995"
+  }
+]

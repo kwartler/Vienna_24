@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE4FC388849",
+    "trueCarID": "D22240",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE4FC388849/2015-toyota-corolla/",
+    "listingDateDiff": "16 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "151,807",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Unknown",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 2 owners",
+    "location": "Elwood, IL",
+    "mileageRating": "29 cty / 37 hwy",
+    "monthlyPayment": "$172/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$546 ",
+    "priceClassDiffAmt": "(5.3%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "4-Cyl 1.8 Liter ~ Auto CVTi-S Manual ~ FWD ~ Traction Control ~ Stability Control ~ ABS (4-Wheel) ~ Keyless Entry ~ Air Conditioning ~ Power Windows ~ Power Door Locks ~ Cruise Control ~ Power Steering ~ Tilt & Telescoping Wheel ~ AM/FM Stereo ~ CD/MP3 (Multi Disc) ~ Navigation System ~ Bluetooth Wireless ~ Entune",
+    "listPrice": "$10,400"
+  }
+]

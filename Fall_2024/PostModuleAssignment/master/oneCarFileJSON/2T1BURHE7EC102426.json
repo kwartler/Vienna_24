@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE7EC102426",
+    "trueCarID": "ACV16720",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE7EC102426/2014-toyota-corolla/",
+    "listingDateDiff": "44 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "87,691",
+    "interiorColor": "Steel Gray",
+    "exteriorColor": "Black Sand Mica",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 2 owners",
+    "location": "Greenville, SC",
+    "mileageRating": "27 cty / 36 hwy",
+    "monthlyPayment": "$244/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$29 ",
+    "priceClassDiffAmt": "(0.2%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Engine: 1.8L I-4 DOHC Dual VVT-i ~ Transmission: 4-Speed Automatic w/ECT-i ~ Front-Wheel Drive ~ 390CCA Maintenance-Free Battery w/Run Down Protection ~ 80 Amp Alternator ~ Gas-Pressurized Shock Absorbers ~ Front And Rear Anti-Roll Bars ~ Electric Power-Assist Speed-Sensing Steering ~ 13.2 Gal. Fuel Tank ~ Single Stainless Steel Exhaust ~ Strut Front Suspension w/Coil Springs ~ Torsion Beam Rear Suspension w/Coil Springs ~ Front Disc/Rear Drum Brakes w/4-Wheel ABS; Front Vented Discs and Brake Assist ~ Wheels: 15'' x 6.0'' Steel;  wheel covers ~ Tires: P195/65R15 All-Season ~ Steel Spare Wheel ~ Compact Spare Tire Mounted Inside Under Cargo ~ Clearcoat Paint",
+    "listPrice": "$14,700"
+  }
+]

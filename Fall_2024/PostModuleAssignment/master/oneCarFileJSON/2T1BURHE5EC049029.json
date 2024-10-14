@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE5EC049029",
+    "trueCarID": "EC049029",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE5EC049029/2014-toyota-corolla/",
+    "listingDateDiff": "162 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 4,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "117,382",
+    "interiorColor": "Amber",
+    "exteriorColor": "Black Sand Mica",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 4 owners",
+    "location": "Raleigh, NC",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$215/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$8 ",
+    "priceClassDiffAmt": "(0.1%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Air filtration ~ Front air conditioning zones: Single ~ Front air conditioning: Automatic climate control ~ Airbag deactivation: Occupant sensing passenger ~ Front airbags: Dual ~ Knee airbags: Driver ~ Seat cushion airbags: Passenger front ~ Side airbags: Front ~ Side curtain airbags: Front- Rear ~ Interior accents: Color keyed- Metallic-tone ~ Assist handle: Front- Rear ~ Cargo area light ~ Center console: Front console with armrest and storage ~ Cruise control ~ Cupholders: Front- Rear ~ Multi-function remote: Keyless entry- Panic alarm- Trunk release ~ One-touch windows: 1 ~ Power outlet(s): 12v front",
+    "listPrice": "$12,990"
+  }
+]

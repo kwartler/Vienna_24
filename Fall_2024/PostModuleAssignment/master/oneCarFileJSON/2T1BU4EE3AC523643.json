@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BU4EE3AC523643",
+    "trueCarID": "22-2936",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BU4EE3AC523643/2010-toyota-corolla/",
+    "listingDateDiff": "39 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 6,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "183,990",
+    "interiorColor": "Black",
+    "exteriorColor": "Red",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 6 owners",
+    "location": "Whitman, MA",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$103/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "4-Cyl 1.8 Liter ~ Automatic 4-Spd w/Overdrive ~ FWD ~ Traction Control ~ Stability Control ~ ABS (4-Wheel) ~ Air Conditioning ~ Power Windows ~ Power Door Locks ~ Cruise Control ~ Power Steering ~ Tilt Wheel ~ AM/FM Stereo ~ CD/MP3 (Single Disc) ~ Satellite Feature ~ Dual Air Bags ~ Side Air Bags ~ F&R Head Curtain Air Bags",
+    "listPrice": "$6,199"
+  }
+]

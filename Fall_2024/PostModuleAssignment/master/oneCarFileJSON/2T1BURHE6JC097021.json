@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE6JC097021",
+    "trueCarID": "CP102250",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE6JC097021/2018-toyota-corolla/",
+    "listingDateDiff": "76 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 5,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "105,158",
+    "interiorColor": "Black Mixed Media Fabric, Leat",
+    "exteriorColor": "Falcon Gray Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 5 owners",
+    "location": "Cincinnati, OH",
+    "mileageRating": "28 cty / 35 hwy",
+    "monthlyPayment": "$232/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$344 ",
+    "priceClassDiffAmt": "(2.5%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "ABS Brakes ~ Alloy Wheels ~ Child Safety Door Locks ~ Cruise Control ~ Driver Airbag ~ Front Side Airbag ~ Passenger Airbag ~ Power Windows ~ Run Flat Tires ~ Side Head Curtain Airbag ~ Telescopic Steering Column",
+    "listPrice": "$13,993"
+  }
+]

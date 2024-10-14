@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPRAE2LP103785",
+    "trueCarID": 103785,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPRAE2LP103785/2020-toyota-corolla/",
+    "listingDateDiff": "187 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "27,222",
+    "interiorColor": "Light Gray",
+    "exteriorColor": "Barcelona Red Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "Marietta, GA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$331/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$1,165 ",
+    "priceClassDiffAmt": "(5.8%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Air Conditioning ~  Climate Control ~  Cruise Control ~  Power Steering ~  Power Windows ~  Power Door Locks ~  Power Mirrors ~  Clock ~  Tachometer ~  Tilt Steering Wheel ~  Telescoping Steering Wheel ~  Steering Wheel Radio Controls ~  Driver Airbag ~  Passenger Airbag ~  Side Airbags ~  Keyless Entry ~  Security System ~  ABS Brakes",
+    "listPrice": "$19,995"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBU4EE6DP214219",
+    "trueCarID": "DP214219",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBU4EE6DP214219/2013-toyota-corolla/",
+    "listingDateDiff": "2 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "39,349",
+    "interiorColor": "Bisque",
+    "exteriorColor": "Sandy Beach Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 2 owners",
+    "location": "Edgemont, PA",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$266/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$259 ",
+    "priceClassDiffAmt": "(1.6%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ Front Disc/Rear Drum Brakes ~ Wheel Covers ~ Steel Wheels ~ Tires - Front Performance ~ Tires - Rear Performance ~ Temporary Spare Tire ~ Heated Mirrors ~ Power Mirror(s) ~ Intermittent Wipers ~ Variable Speed Intermittent Wipers ~ AM/FM Stereo ~ CD Player ~ MP3 Player ~ Steering Wheel Audio Controls ~ Bluetooth Connection ~ Auxiliary Audio Input",
+    "listPrice": "$16,023"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE4KC215231",
+    "trueCarID": "W8043",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE4KC215231/2019-toyota-corolla/",
+    "listingDateDiff": "23 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "83,858",
+    "interiorColor": "Ash/Dark Gray, Premium Cloth",
+    "exteriorColor": "Blizzard Pearl",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Woodbridge, VA",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$282/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$428 ",
+    "priceClassDiffAmt": "(2.5%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Engine: 1.8L I-4 DOHC Dual VVT-i ~ Front-Wheel Drive ~ 390CCA Maintenance-Free Battery w/Run Down Protection ~ 80 Amp Alternator ~ Gas-Pressurized Shock Absorbers ~ Front And Rear Anti-Roll Bars ~ Electric Power-Assist Speed-Sensing Steering ~ 13.2 Gal. Fuel Tank ~ Strut Front Suspension w/Coil Springs ~ Torsion Beam Rear Suspension w/Coil Springs ~ Steel Spare Wheel ~ Compact Spare Tire Mounted Inside Under Cargo ~ Clearcoat Paint ~ Body-Colored Front Bumper ~ Body-Colored Rear Bumper ~ Black Side Windows Trim ~ Body-Colored Door Handles ~ Fixed Rear Window w/Defroster",
+    "listPrice": "$16,995"
+  }
+]

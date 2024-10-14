@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEBRBE2LJ029821",
+    "trueCarID": 20300,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEBRBE2LJ029821/2020-toyota-corolla/",
+    "listingDateDiff": "216 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Theft Recovery + Salvage",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Hybrid",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Hybrid",
+    "mileage": "59,364",
+    "interiorColor": "Black",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "Houston, TX",
+    "mileageRating": "53 cty / 52 hwy",
+    "monthlyPayment": "$315/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "High Price",
+    "allFeatures": "ABS Brakes ~ Child Safety Door Locks ~ Cruise Control ~ Driver Airbag ~ Front Side Airbag ~ Passenger Airbag ~ Power Windows ~ Run Flat Tires ~ Side Head Curtain Airbag ~ Telescopic Steering Column",
+    "listPrice": "$18,999"
+  }
+]

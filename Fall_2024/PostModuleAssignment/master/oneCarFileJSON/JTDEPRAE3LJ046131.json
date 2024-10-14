@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAE3LJ046131",
+    "trueCarID": 17472,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAE3LJ046131/2020-toyota-corolla/",
+    "listingDateDiff": "79 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "91,705",
+    "interiorColor": "Light Gray",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Phoenix, AZ",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$215/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Airbags - Front - Dual ~ Air Conditioning - Front - Single Zone ~ Airbags - Passenger - Occupant Sensing Deactivation ~ Airbags - Front - Side ~ Airbags - Front - Side Curtain ~ Air Conditioning - Front - Automatic Climate Control ~ Air Conditioning - Air Filtration ~ Airbags - Driver - Knee ~ Audio Streaming: Bluetooth ~ Emergency Interior Trunk Release ~ Armrests - Rear Center ~ Audio - Antenna: Mast ~ Power Brakes ~ Airbags - Rear - Side Curtain ~ Audio Voice Recognition ~ Audio Auxiliary Input: USB ~ Audio Auxiliary Input: Jack ~ Audio Auxiliary Input: IPod/IPhone Integration",
+    "listPrice": "$13,000"
+  }
+]

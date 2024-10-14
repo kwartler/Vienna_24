@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BU4EEXBC753861",
+    "trueCarID": null,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BU4EEXBC753861/2011-toyota-corolla/",
+    "listingDateDiff": "118 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "178,500",
+    "interiorColor": "Black",
+    "exteriorColor": "Blue",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Alexandria, VA",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$108/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": null,
+    "allFeatures": "Exhaust - Dual Tip ~  Door Handle Color - Body-Color ~  Exhaust Tip Color - Chrome ~  Grille Color - Body-Color ~  Mirror Color - Body-Color ~  Mudguards - Rear ~  Rear Spoiler - Wing ~  Rear Spoiler Color - Body-Color ~  Rocker Panel Color - Body-Color ~  Steering Ratio - 17.4 ~  Turns Lock-To-Lock - 3.40 ~  Air Filtration ~  Front Air Conditioning ~  Front Air Conditioning Zones - Single ~  Interior Accents - Metallic-Tone ~  Cargo Area Light ~  Center Console - Front Console With Storage ~  Cruise Control",
+    "listPrice": "$6,500"
+  }
+]

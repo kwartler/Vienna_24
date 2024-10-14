@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BR32E47C791108",
+    "trueCarID": "MV*3997",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BR32E47C791108/2007-toyota-corolla/",
+    "listingDateDiff": "13 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "99,853",
+    "interiorColor": "Gray",
+    "exteriorColor": "Black",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 3 owners",
+    "location": "Sierra Vista, AZ",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$149/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Air Filtration ~  Front Air Conditioning ~  Front Air Conditioning Zones - Single ~  Center Console - Front Console With Storage ~  Cupholders - Front ~  Cupholders - Rear ~  Multi-Function Remote - Trunk Release ~  Power Outlet(S) - 12v Front ~  Power Steering - Variable/Speed-Proportional ~  Steering Wheel - Tilt ~  Storage - Door Pockets ~  Vanity Mirrors - Dual ~  Front Brake Type - Ventilated Disc ~  Front Shock Type - Gas ~  Front Spring Type - Coil ~  Front Struts - Macpherson ~  Front Suspension Type - Lower Control Arms ~  Rear Brake Type - Drum",
+    "listPrice": "$8,995"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE8MP186532",
+    "trueCarID": 323514,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE8MP186532/2021-toyota-corolla/",
+    "listingDateDiff": "14 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "61,985",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Barcelona Red Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Ludington, MI",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$331/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Security System ~ Daytime Running Lights ~ Power Windows ~ Traction Control ~ 4 Wheel Disc Brakes ~ Tire-Pressure Monitoring System ~ Steering Wheel Stereo Controls ~ Seat-Rear Pass-Through ~ Cloth Seats ~ Mirrors-Pwr Driver ~ Mirrors-Vanity-Driver Illuminated ~ Air Bags - Head ~ Air Bag - Side",
+    "listPrice": "$19,990"
+  }
+]

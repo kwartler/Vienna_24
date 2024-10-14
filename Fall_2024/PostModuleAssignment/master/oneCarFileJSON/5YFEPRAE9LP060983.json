@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPRAE9LP060983",
+    "trueCarID": 23096311,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPRAE9LP060983/2020-toyota-corolla/?zipcode=33172",
+    "listingDateDiff": "63 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "36,750",
+    "interiorColor": "Light Gray",
+    "exteriorColor": "Blueprint",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Miami, FL",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$365/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$655 ",
+    "priceClassDiffAmt": "(3%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Rear View Camera ~ Auxiliary Audio Input ~ Overhead Airbags ~ Traction Control ~ Side Airbags ~ Air Conditioning ~ ABS Brakes ~ Power Locks ~ Power Mirrors ~ AM/FM Stereo ~ Rear Defroster ~ Power Windows ~ Cloth Seats ~ Automatic Transmission ~ Automated Cruise Control ~ Apple CarPlay ~ Entune ~ Bluetooth Technology",
+    "listPrice": "$21,998"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE7MP218449",
+    "trueCarID": "I19213",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE7MP218449/2021-toyota-corolla/",
+    "listingDateDiff": "31 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "55,701",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Hackensack, NJ",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$348/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$600 ",
+    "priceClassDiffAmt": "(2.9%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "**** 2014.5 MODEL EQUIPPED WITH A BACK UP CAMERA **** ~ **** NAVIGATION **** ~ 4-Wheel Disc Brakes ~ 6 Speakers ~ ABS (4-wheel) ~ ABS brakes ~ AM/FM radio: SiriusXM ~ Adaptive cruise control ~ Adaptive stop and go cruise control (semi-automatic) ~ Air Conditioning ~ Air filtration ~ Airbag deactivation (occupant sensing passenger) ~ Antenna type (diversity) ~ Antenna type (mast) ~ Anti-theft system (vehicle immobilizer) ~ Apple CarPlay/Android Auto ~ Armrests (rear center with cupholders) ~ Armrests (rear folding)",
+    "listPrice": "$20,991"
+  }
+]

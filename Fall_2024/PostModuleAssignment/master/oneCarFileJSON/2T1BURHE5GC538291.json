@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE5GC538291",
+    "trueCarID": "GC538291A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE5GC538291/2016-toyota-corolla/",
+    "listingDateDiff": "33 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 5,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "85,875",
+    "interiorColor": "Ash",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "San Antonio, TX",
+    "mileageRating": "27 cty / 36 hwy",
+    "monthlyPayment": "$281/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "High Price",
+    "allFeatures": "6 Speakers ~ AM/FM radio ~ CD player ~ Radio data system ~ Radio: AM/FM/CD Player w/6.1'' Touch Screen ~ Air Conditioning ~ Rear window defroster ~ Power steering ~ Power windows ~ Steering wheel mounted audio controls ~ Speed-sensing steering ~ Traction control ~ ABS brakes ~ Dual front impact airbags ~ Dual front side impact airbags ~ Front anti-roll bar ~ Front wheel independent suspension ~ Knee airbag",
+    "listPrice": "$16,962"
+  }
+]

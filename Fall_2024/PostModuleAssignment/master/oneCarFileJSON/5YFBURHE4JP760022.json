@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE4JP760022",
+    "trueCarID": "DNP18757",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE4JP760022/2018-toyota-corolla/",
+    "listingDateDiff": "53 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "99,416",
+    "interiorColor": "Steel Gray",
+    "exteriorColor": "Gray",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Plano, TX",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$265/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "Fair Price",
+    "allFeatures": "Air filtration ~ Front air conditioning ~ Front air conditioning zones: single ~ Airbag deactivation: occupant sensing passenger ~ Front airbags: dual ~ Knee airbags: driver ~ Seat cushion airbags: passenger front ~ Side airbags: front ~ Side curtain airbags: front ~  rear ~ Antenna type: element ~ Auxiliary audio input: Bluetooth ~  USB ~  iPod/iPhone ~  jack ~ In-Dash CD: MP3 Playback ~  single disc ~ Radio: AM/FM",
+    "listPrice": "$15,995"
+  }
+]

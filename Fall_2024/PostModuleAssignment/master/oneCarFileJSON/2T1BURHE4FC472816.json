@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE4FC472816",
+    "trueCarID": 15389,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE4FC472816/2015-toyota-corolla/",
+    "listingDateDiff": "5 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Salvage",
+    "vehicleHistNumOwners": 4,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "92,437",
+    "interiorColor": "Gray",
+    "exteriorColor": "Black Sand Mica",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "Atlanta, GA",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$214/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$950 ",
+    "priceClassDiffAmt": "(7.4%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "ABS Brakes ~ Air Conditioning ~ Alloy Wheels ~ AM/FM Radio ~ Child Safety Door Locks ~ Cruise Control ~ Daytime Running Lights ~ Driver Airbag ~ Driver Multi-Adjustable Power Seat ~ Electronic Brake Assistance ~ First Aid Kit ~ Fog Lights ~ Front Side Airbag ~ Interval Wipers ~ Leather Steering Wheel ~ Navigation Aid ~ Passenger Airbag ~ Power Sunroof",
+    "listPrice": "$12,899"
+  }
+]

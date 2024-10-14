@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDS4RCE4LJ009274",
+    "trueCarID": "LJ009274",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDS4RCE4LJ009274/2020-toyota-corolla/",
+    "listingDateDiff": "6 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "69,721",
+    "interiorColor": "Moonstone",
+    "exteriorColor": "Celestite",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Sanford, FL",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$334/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$248 ",
+    "priceClassDiffAmt": "(1.2%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Lane Keeping Assist ~ Bluetooth Connection ~ Rear Spoiler ~ Moonstone ~  Premium Fabric Seat Trim -Inc: Sport Fabric Inserts ~ Celestite ~ 50 State Emissions",
+    "listPrice": "$20,149"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE8JC069785",
+    "trueCarID": 7057259,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE8JC069785/2018-toyota-corolla/",
+    "listingDateDiff": "94 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "73,927",
+    "interiorColor": "Black",
+    "exteriorColor": "Silver",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Pittsburg, CA",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$286/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$109 ",
+    "priceClassDiffAmt": "(0.6%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "ABS (4-Wheel) ~  Air Conditioning ~  AM/FM Stereo ~  Backup Camera ~  Bluetooth Wireless ~  CD/MP3 (Single Disc) ~  Daytime Running Lights ~  Dual Air Bags ~  Dynamic Cruise Control ~  Entune ~  F&amp;R Head Curtain Air Bags ~  Hill Start Assist Control ~  Knee Air Bags ~  Lane Departure Alert ~  LED Headlamps ~  Power Door Locks ~  Power Steering ~  Power Windows",
+    "listPrice": "$17,237"
+  }
+]

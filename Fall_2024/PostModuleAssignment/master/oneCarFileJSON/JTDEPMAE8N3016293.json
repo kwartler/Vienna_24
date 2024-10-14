@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPMAE8N3016293",
+    "trueCarID": "HPU9366A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPMAE8N3016293/2022-toyota-corolla/",
+    "listingDateDiff": "Adaptive Cruise Control",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "5,483",
+    "interiorColor": "Light Gray",
+    "exteriorColor": "White",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Hillsborough, NC",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$398/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ 4-Wheel Disc Brakes ~ Brake Assist ~ Steel Wheels ~ Tires - Front Performance ~ Tires - Rear Performance ~ Wheel Covers ~ Temporary Spare Tire ~ Power Mirror(s) ~ Rear Defrost ~ Intermittent Wipers ~ Variable Speed Intermittent Wipers ~ Daytime Running Lights ~ Automatic Headlights ~ LED Headlights ~ Automatic Highbeams",
+    "listPrice": "$23,999"
+  }
+]

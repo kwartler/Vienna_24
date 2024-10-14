@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPRAE1LP138625",
+    "trueCarID": "LP138625",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPRAE1LP138625/2020-toyota-corolla/",
+    "listingDateDiff": "115 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "21,228",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Colton, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$360/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$612 ",
+    "priceClassDiffAmt": "(2.8%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "( Rear Backup Camera & Bluetooth Connection ) ~ 50 State Emissions ~ All-Weather Floor Liner Package",
+    "listPrice": "$21,699"
+  }
+]

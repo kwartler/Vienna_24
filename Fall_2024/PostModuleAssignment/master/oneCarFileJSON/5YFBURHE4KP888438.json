@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE4KP888438",
+    "trueCarID": 5616,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE4KP888438/2019-toyota-corolla/",
+    "listingDateDiff": "411 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "44,386",
+    "interiorColor": "Black",
+    "exteriorColor": "White",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Fremont, CA",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$331/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$908 ",
+    "priceClassDiffAmt": "(4.5%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "AM/FM Stereo ~  1 8 L liter inline 4 cylinder DOHC engine with variable valve timing ~  4 Doors ~  4-wheel ABS brakes ~  Bluetooth ~  Center Console - Full with covered storage ~  Clock - In-dash ~  Daytime running lights ~  External temperature display ~  Front-wheel drive ~  Head airbags - Curtain 1st and 2nd row ~  Interior air filtration ~  Intermittent window wipers ~  Knee airbags - Driver ~  Passenger Airbag ~  Power windows with 1 one-touch ~  Rear bench seats ~  Rear defogger",
+    "listPrice": "$19,991"
+  }
+]

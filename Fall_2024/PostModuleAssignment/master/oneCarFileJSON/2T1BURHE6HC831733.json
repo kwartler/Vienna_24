@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE6HC831733",
+    "trueCarID": 23357904,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE6HC831733/2017-toyota-corolla/",
+    "listingDateDiff": "6 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 3,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "117,362",
+    "interiorColor": "Tan",
+    "exteriorColor": "Blue",
+    "style": "Sedan",
+    "accidentOwnership": "3 accidents, 1 owner",
+    "location": "Gainesville, FL",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$249/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$226 ",
+    "priceClassDiffAmt": "(1.5%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Rear View Camera ~ Auxiliary Audio Input ~ Overhead Airbags ~ Traction Control ~ Side Airbags ~ Air Conditioning ~ ABS Brakes ~ Power Locks ~ Power Mirrors ~ AM/FM Stereo ~ Rear Defroster ~ CD Audio ~ Power Windows ~ Cloth Seats ~ Automatic Transmission ~ Bluetooth Technology ~ Lane Departure Warning ~ Entune",
+    "listPrice": "$14,998"
+  }
+]

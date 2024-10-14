@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPMAE1MJ134504",
+    "trueCarID": "134504P",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPMAE1MJ134504/2021-toyota-corolla/",
+    "listingDateDiff": "37 days ago",
+    "vehicleHistUseType": "Mixed Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "45,468",
+    "interiorColor": "Black",
+    "exteriorColor": "Blueprint",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Bronx, NY",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$265/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$1,107 ",
+    "priceClassDiffAmt": "(6.9%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ 4-Wheel Disc Brakes ~ Brake Assist ~ Steel Wheels ~ Tires - Front Performance ~ Tires - Rear Performance ~ Wheel Covers ~ Temporary Spare Tire ~ Power Mirror(s) ~ Rear Defrost ~ Intermittent Wipers ~ Variable Speed Intermittent Wipers ~ Daytime Running Lights ~ Automatic Headlights ~ LED Headlights ~ Automatic Highbeams",
+    "listPrice": "$15,990"
+  }
+]

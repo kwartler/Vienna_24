@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPMAE3MJ134598",
+    "trueCarID": "F22437A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPMAE3MJ134598/2021-toyota-corolla/",
+    "listingDateDiff": "16 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "41,778",
+    "interiorColor": "Light Gray",
+    "exteriorColor": "Blueprint",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Titusville, FL",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$328/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$334 ",
+    "priceClassDiffAmt": "(1.7%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Wifi Capable ~ Phone Wireless Data Link Bluetooth ~ Phone Hands Free ~ Electronic Messaging Assistance With Read Function ~ Electronic Messaging Assistance With Voice Recognition ~ Vehicle Assistance App - Roadside Assistance ~ Audio - SiriusXM Satellite Radio ~ Audio System 6 Speakers ~ Audio Streaming: Bluetooth ~ Audio Auxiliary Input: USB ~ Audio Auxiliary Input: IPod/IPhone Integration ~ Audio Auxiliary Input: Jack ~ Audio Voice Recognition ~ Audio - Radio: Touch Screen Display ~ Audio - Radio: AM/FM ~ Audio - Radio Data System ~ Audio - Speed Sensitive Volume Control ~ Audio - Antenna: Mast",
+    "listPrice": "$19,790"
+  }
+]

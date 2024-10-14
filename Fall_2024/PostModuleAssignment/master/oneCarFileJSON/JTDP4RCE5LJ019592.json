@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDP4RCE5LJ019592",
+    "trueCarID": "049870A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDP4RCE5LJ019592/2020-toyota-corolla/",
+    "listingDateDiff": "1 day ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "35,958",
+    "interiorColor": "Moonstone",
+    "exteriorColor": "Celestite",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Gaithersburg, MD",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$381/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$92 ",
+    "priceClassDiffAmt": "(0.4%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "4 ~ Cylinder ~ Engine. ~ 4-Wheel ~ Disc ~ Brakes. ~ A/C. ~ A/T. ~ ABS. ~ Adjustable ~ Steering ~ Wheel. ~ Aluminum ~ Wheels. ~ AM/FM ~ Stereo. ~ Automatic ~ Headlights.",
+    "listPrice": "$22,995"
+  }
+]

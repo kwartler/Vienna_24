@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE0GP473088",
+    "trueCarID": 1562,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE0GP473088/2016-toyota-corolla/",
+    "listingDateDiff": "78 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "104,026",
+    "interiorColor": "Black",
+    "exteriorColor": "White",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Roseville, CA",
+    "mileageRating": "29 cty / 37 hwy",
+    "monthlyPayment": "$249/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$326 ",
+    "priceClassDiffAmt": "(2.2%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Door Handle Color - Body-Color ~  Exhaust Tip Color - Chrome ~  Front Bumper Color - Body-Color ~  Grille Color - Black ~  Grille Color - Chrome Surround ~  Mirror Color - Body-Color ~  Rear Bumper Color - Body-Color ~  Rear Spoiler - Lip ~  Rear Spoiler Color - Body-Color ~  Window Trim - Black ~  Steering Ratio - 17.8 ~  Turns Lock-To-Lock - 3.2 ~  Air Filtration ~  Armrests - Rear Center With Cupholders ~  Floor Material - Carpet ~  Front Air Conditioning - Automatic Climate Control ~  Front Air Conditioning Zones - Single ~  Interior Accents - Color Keyed",
+    "listPrice": "$14,999"
+  }
+]

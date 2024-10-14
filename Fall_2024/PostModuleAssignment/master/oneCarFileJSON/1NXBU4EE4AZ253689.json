@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "1NXBU4EE4AZ253689",
+    "trueCarID": 253689,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/1NXBU4EE4AZ253689/2010-toyota-corolla/",
+    "listingDateDiff": "8 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "88,993",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Unknown",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Portland, OR",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$193/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$23 ",
+    "priceClassDiffAmt": "(0.2%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "4-Cyl 1.8 Liter ~ Automatic 4-Spd w/Overdrive ~ FWD ~ Traction Control ~ Stability Control ~ ABS (4-Wheel) ~ Anti-Theft System ~ Keyless Entry ~ Air Conditioning ~ Power Windows ~ Power Door Locks ~ Cruise Control ~ Power Steering ~ Tilt Wheel ~ AM/FM Stereo ~ CD/MP3 (Single Disc) ~ Dual Air Bags ~ Side Air Bags",
+    "listPrice": "$11,621"
+  }
+]

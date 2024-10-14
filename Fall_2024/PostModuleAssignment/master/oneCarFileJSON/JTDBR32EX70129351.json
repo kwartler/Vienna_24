@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDBR32EX70129351",
+    "trueCarID": 9351,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDBR32EX70129351/2007-toyota-corolla/",
+    "listingDateDiff": "118 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "146,144",
+    "interiorColor": "Gray",
+    "exteriorColor": "Red",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Louisville, KY",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$124/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$225 ",
+    "priceClassDiffAmt": "(3%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "Air Filtration ~  Center Console Trim - Simulated Wood ~  Dash Trim - Simulated Wood ~  Door Trim - Simulated Wood ~  Front Air Conditioning ~  Front Air Conditioning Zones - Single ~  Center Console - Front Console With Storage ~  Cupholders - Front ~  Multi-Function Remote - Keyless Entry ~  Power Outlet(S) - 12v Front ~  Power Steering - Variable/Speed-Proportional ~  Vanity Mirrors - Dual ~  Steering Wheel - Tilt ~  Cargo Area Light ~  Reading Lights - Front ~  One-Touch Windows - 1 ~  Front Brake Diameter - 10.8 ~  Front Brake Width - 1.0",
+    "listPrice": "$7,495"
+  }
+]

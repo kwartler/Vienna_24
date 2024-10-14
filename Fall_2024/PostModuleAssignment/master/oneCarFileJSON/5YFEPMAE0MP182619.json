@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE0MP182619",
+    "trueCarID": "B0943",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE0MP182619/2021-toyota-corolla/",
+    "listingDateDiff": "59 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "60,404",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Sewell, NJ",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$331/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$82 ",
+    "priceClassDiffAmt": "(0.4%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "50 State Emissions ~ Fleet Credit",
+    "listPrice": "$19,998"
+  }
+]

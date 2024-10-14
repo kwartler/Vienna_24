@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDP4RCE1LJ012655",
+    "trueCarID": 12247,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDP4RCE1LJ012655/2020-toyota-corolla/",
+    "listingDateDiff": "206 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "12,153",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Blueprint",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Pahrump, NV",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$462/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$1,290 ",
+    "priceClassDiffAmt": "(4.6%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "1 12V DC Power Outlet ~  13.2 Gal. Fuel Tank ~  2 LCD Monitors In The Front ~  3.79 Axle Ratio ~  4-Wheel Disc Brakes w/4-Wheel ABS  Front Vented Discs  Brake Assist  Hill Hold Control and Electric Parking Brake ~  60-40 Folding Bench Front Facing Fold Forward Seatback Rear Seat ~  ABS And Driveline Traction Control ~  Air Filtration ~  Airbag Occupancy Sensor ~  Analog Appearance ~  Auto On/Off Projector Beam Led Low/High Beam Daytime Running Auto High-Beam Headlamps w/Delay-Off ~  Automatic Air Conditioning ~  Back-Up Camera ~  Battery w/Run Down Protection ~  Black Side Windows Trim ~  Body-Colored Door Handles ~  Body-Colored Front Bumper w/Black Rub Strip/Fascia Accent and Body-Colored Bumper Insert ~  Body-Colored Power Heated Side Mirrors w/Manual Folding and Turn Signal Indicator",
+    "listPrice": "$27,888"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE8KP902776",
+    "trueCarID": 23005,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE8KP902776/2019-toyota-corolla/",
+    "listingDateDiff": "26 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Theft Recovery",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "42,752",
+    "interiorColor": "Black",
+    "exteriorColor": "Gray",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Lawndale, CA",
+    "mileageRating": "28 cty / 35 hwy",
+    "monthlyPayment": "$298/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$623 ",
+    "priceClassDiffAmt": "(3.5%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "Alarm System ~ Alloy Wheels ~ Anti-Lock Brakes ~ Aux Audio Jack ~ Backup Camera ~ Bluetooth ~ Child Seat ~ Handsfree Wireless ~ Keyless Entry ~ Blind Spot Assist ~ Lane change warning ~ New Tires ~ Push to Start",
+    "listPrice": "$17,990"
+  }
+]

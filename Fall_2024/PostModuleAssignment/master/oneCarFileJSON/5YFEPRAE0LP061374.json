@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPRAE0LP061374",
+    "trueCarID": 61374,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPRAE0LP061374/2020-toyota-corolla/",
+    "listingDateDiff": "44 days ago",
+    "vehicleHistUseType": "Mixed Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "37,176",
+    "interiorColor": "Black",
+    "exteriorColor": "Barcelona Red Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Stafford, VA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "No Price Available",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": null,
+    "allFeatures": "Knee Air Bags ~ Power Door Locks ~ Lane Departure Alert ~ Daytime Running Lights ~ LED Headlamps ~ Steel Wheels ~ Dynamic Cruise Control ~ Power Steering ~ 4-Cyl 1.8 Liter ~ Tilt & Telescoping Wheel ~ Automatic CVTi-S ~ FWD ~ Hill Start Assist Control ~ Traction Control ~ Stability Control ~ Vehicle Dynamic Control ~ ABS (4-Wheel) ~ Keyless Entry",
+    "listPrice": "No Price Available"
+  }
+]

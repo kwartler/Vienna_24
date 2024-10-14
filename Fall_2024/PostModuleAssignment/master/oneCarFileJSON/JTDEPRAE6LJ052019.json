@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAE6LJ052019",
+    "trueCarID": "PR6299",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAE6LJ052019/2020-toyota-corolla/",
+    "listingDateDiff": "7 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "132,703",
+    "interiorColor": "Black",
+    "exteriorColor": "Grey",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Hemet, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$265/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$308 ",
+    "priceClassDiffAmt": "(1.9%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "6 Speakers ~ AM/FM radio: SiriusXM ~ Radio data system ~ Radio: Audio AM/FM w/Navigation ~ Air Conditioning ~ Automatic temperature control ~ Rear window defroster ~ Power steering ~ Power windows ~ Remote keyless entry ~ Steering wheel mounted audio controls ~ Four wheel independent suspension ~ Traction control ~ 4-Wheel Disc Brakes ~ ABS brakes ~ Dual front impact airbags ~ Dual front side impact airbags ~ Emergency communication system: Safety Connect with 3-year trial",
+    "listPrice": "$15,995"
+  }
+]

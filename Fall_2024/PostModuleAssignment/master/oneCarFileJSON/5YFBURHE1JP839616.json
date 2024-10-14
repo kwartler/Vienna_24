@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE1JP839616",
+    "trueCarID": "20204P",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE1JP839616/2018-toyota-corolla/",
+    "listingDateDiff": "2 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "59,700",
+    "interiorColor": "Steel Gray",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Raleigh, NC",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$314/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$89 ",
+    "priceClassDiffAmt": "(0.5%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "6 Speakers ~ AM/FM radio ~ CD player ~ Radio data system ~ Radio: Entune Audio w/6.1'' Screen ~ Air Conditioning ~ Rear window defroster ~ Power steering ~ Power windows ~ Steering wheel mounted audio controls ~ Speed-sensing steering ~ Traction control ~ ABS brakes ~ Dual front impact airbags ~ Dual front side impact airbags ~ Front anti-roll bar ~ Front wheel independent suspension ~ Knee airbag",
+    "listPrice": "$18,960"
+  }
+]

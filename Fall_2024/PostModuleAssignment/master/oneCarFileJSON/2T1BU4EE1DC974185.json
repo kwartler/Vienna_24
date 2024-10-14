@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BU4EE1DC974185",
+    "trueCarID": "H2370130",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BU4EE1DC974185/2013-toyota-corolla/",
+    "listingDateDiff": "39 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 4,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "93,087",
+    "interiorColor": "Beige",
+    "exteriorColor": "Black Currant Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 4 owners",
+    "location": "Tucson, AZ",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$205/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$574 ",
+    "priceClassDiffAmt": "(4.6%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "Audio:6 Speakers ~ Audio:AM/FM radio ~ Audio:AM/FM/CD Player w/MP3/WMA Capability ~ Audio:CD player ~ Audio:MP3 decoder ~ Audio:Radio data system ~ Climate Control:Air Conditioning ~ Climate Control:Rear window defroster ~ Convenience:Power steering ~ Convenience:Power windows ~ Convenience:Remote keyless entry ~ Convenience:Steering wheel mounted audio controls ~ Cruise Control:Speed control ~ Driving Assist:Brake assist ~ Driving Assist:Electronic Stability Control ~ Handling:Speed-sensing steering ~ Handling:Traction control ~ Misc. Exterior:Bumpers: body-color",
+    "listPrice": "$12,370"
+  }
+]

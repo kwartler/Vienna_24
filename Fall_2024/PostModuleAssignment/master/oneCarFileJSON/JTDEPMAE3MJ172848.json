@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPMAE3MJ172848",
+    "trueCarID": 20707,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPMAE3MJ172848/2021-toyota-corolla/",
+    "listingDateDiff": "51 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Salvage",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "17,560",
+    "interiorColor": "Black",
+    "exteriorColor": "Blizzard Pearl",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Houston, TX",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$303/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "High Price",
+    "allFeatures": "ABS Brakes ~ Child Safety Door Locks ~ Cruise Control ~ Driver Airbag ~ Front Side Airbag ~ Passenger Airbag ~ Power Windows ~ Run Flat Tires ~ Side Head Curtain Airbag ~ Telescopic Steering Column",
+    "listPrice": "$18,299"
+  }
+]

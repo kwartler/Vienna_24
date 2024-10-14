@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE7GC651546",
+    "trueCarID": 23833010,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE7GC651546/2016-toyota-corolla/?zipcode=20165",
+    "listingDateDiff": "2 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "54,143",
+    "interiorColor": "Black",
+    "exteriorColor": "Blue Crush Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 2 owners",
+    "location": "Sterling, VA",
+    "mileageRating": "29 cty / 37 hwy",
+    "monthlyPayment": "$315/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$38 ",
+    "priceClassDiffAmt": "(0.2%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Rear View Camera ~ Cruise Control ~ Auxiliary Audio Input ~ Rear Spoiler ~ Alloy Wheels ~ Overhead Airbags ~ Traction Control ~ Side Airbags ~ Air Conditioning ~ ABS Brakes ~ Power Locks ~ Power Mirrors ~ AM/FM Stereo ~ Rear Defroster ~ CD Audio ~ Power Windows ~ Automatic Transmission ~ Bluetooth Technology",
+    "listPrice": "$18,998"
+  }
+]

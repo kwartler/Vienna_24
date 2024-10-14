@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE3FP357656",
+    "trueCarID": 357656,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE3FP357656/2015-toyota-corolla/",
+    "listingDateDiff": "44 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "110,974",
+    "interiorColor": "Black",
+    "exteriorColor": "Gray",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 3 owners",
+    "location": "Corona, CA",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$220/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$79 ",
+    "priceClassDiffAmt": "(0.6%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "4-Cyl 1.8 Liter ~ Automatic CVTi-S ~ FWD ~ Traction Control ~ Stability Control ~ ABS (4-Wheel) ~ Keyless Entry ~ Air Conditioning ~ Power Windows ~ Power Door Locks ~ Cruise Control ~ Power Steering ~ Tilt & Telescoping Wheel ~ AM/FM Stereo ~ CD/MP3 (Multi Disc) ~ Bluetooth Wireless ~ Entune ~ Backup Camera",
+    "listPrice": "$13,295"
+  }
+]

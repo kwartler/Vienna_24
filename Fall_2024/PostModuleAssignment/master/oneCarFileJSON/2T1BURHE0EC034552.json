@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE0EC034552",
+    "trueCarID": 34552,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE0EC034552/2014-toyota-corolla/",
+    "listingDateDiff": "27 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "90,976",
+    "interiorColor": "Black",
+    "exteriorColor": "Burgundy",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Tampa, FL",
+    "mileageRating": "29 cty / 37 hwy",
+    "monthlyPayment": "$248/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$452 ",
+    "priceClassDiffAmt": "(3%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "AIR Filter AIR Conditioning ~ Automatic AIR Conditioning ~ Pollen Sensor AIR Conditioning ~ Controls ~  Voice-Activated Audio ~ Digital Media Auxiliary Jack Audio ~ Ipod Adapter Audio ~ Entune Audio - Brand ~ CD Audio - CD/MP3 ~ AM/FM Audio - Radio ~ 6 Audio - Speakers ~ USB Port Capabilities/Wiring ~ Digital Clock ~ Bluetooth ~  Hands-Free Phone Communication ~ Wireless Communication ~ Center Consoles ~ Overhead Consoles",
+    "listPrice": "$14,995"
+  }
+]

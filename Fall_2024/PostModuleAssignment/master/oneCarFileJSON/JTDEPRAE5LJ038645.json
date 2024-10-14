@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAE5LJ038645",
+    "trueCarID": 5413,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAE5LJ038645/2020-toyota-corolla/",
+    "listingDateDiff": "63 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "58,419",
+    "interiorColor": "Black",
+    "exteriorColor": "Blueprint",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Vallejo, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$348/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$804 ",
+    "priceClassDiffAmt": "(3.8%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Apple CarPlay/Android Auto ~  ABS ~  4-Wheel ~  Air Conditioning ~  AM FM Stereo ~  Backup Camera ~  Bluetooth Wireless ~  Daytime Running Lights ~  Dual Air Bags ~  Dynamic Cruise Control ~  Entune ~  F R Head Curtain Air Bags ~  Hill Start Assist Control ~  Keyless Entry ~  Knee Air Bags ~  Lane Departure Alert ~  LED Headlamps ~  Power Door Locks",
+    "listPrice": "$20,995"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDBCMFE7P3003982",
+    "trueCarID": "TNU18555",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDBCMFE7P3003982/2023-toyota-corolla/",
+    "listingDateDiff": "42 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 0,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Hybrid",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Hybrid",
+    "mileage": 6,
+    "interiorColor": "Black",
+    "exteriorColor": "Midnight Black Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Daphne, AL",
+    "mileageRating": "53 cty / 46 hwy",
+    "monthlyPayment": "$480/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$741 ",
+    "priceClassDiffAmt": "(2.6%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "6 Speakers ~ AM/FM radio: SiriusXM ~ Radio data system ~ Radio: 8'' Toyota Audio Multimedia ~ Air Conditioning ~ Automatic temperature control ~ Rear window defroster ~ Power steering ~ Power windows ~ Remote keyless entry ~ Steering wheel mounted audio controls ~ Four wheel independent suspension ~ Traction control ~ 4-Wheel Disc Brakes ~ ABS brakes ~ Dual front impact airbags ~ Dual front side impact airbags ~ Emergency communication system: Safety Connect (up to 10-year trial subscription)",
+    "listPrice": "$28,995"
+  }
+]

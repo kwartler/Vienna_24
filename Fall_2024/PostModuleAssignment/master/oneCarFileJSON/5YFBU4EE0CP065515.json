@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBU4EE0CP065515",
+    "trueCarID": 42241,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBU4EE0CP065515/2012-toyota-corolla/",
+    "listingDateDiff": "65 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "67,844",
+    "interiorColor": "Bisque",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Webster, TX",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$232/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "High Price",
+    "allFeatures": "(4) cup holders ~  1.8L DOHC SFI 16-valve VVT-i I4 engine ~  12V aux pwr outlet ~  15\" x 6\" steel wheels -inc: full wheel covers ~  3-spoke tilt/telescoping steering wheel ~  4-speed automatic transmission w/OD -inc: intelligence (ECT-i) ~  4-wheel anti-lock brakes -inc: brake assist  electronic brake force distribution ~  60/40 split-folding rear bench seat ~  Air conditioning w/air filtration ~  ALR/ELR 3-point front & rear seatbelts -inc: front adjustable shoulder belt anchors  pretensioners  force limiters ~  AM/FM stereo w/CD player -inc: MP3/WMA capability  satellite radio capability  aux audio input  auto sound leveling  CD-text display  (4) speakers ~  Auto-locking pwr door locks ~  Black instrumentation -inc: tachometer  twin tripmeters  outside temp indicator ~  Center console -inc: side pockets  storage ~  Child protector rear door locks ~  Child restraint system w/LATCH anchors ~  Chrome rear license plate garnish ~  Color-keyed door handles",
+    "listPrice": "$13,999"
+  }
+]

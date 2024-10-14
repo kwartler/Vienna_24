@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE7HP597358",
+    "trueCarID": "PHP597358",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE7HP597358/2017-toyota-corolla/",
+    "listingDateDiff": "29 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "47,470",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Brown",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 3 owners",
+    "location": "Vacaville, CA",
+    "mileageRating": "28 cty / 35 hwy",
+    "monthlyPayment": "$331/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$399 ",
+    "priceClassDiffAmt": "(2%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ 4-Wheel Disc Brakes ~ Brake Assist ~ Aluminum Wheels ~ Tires - Front Performance ~ Tires - Rear Performance ~ Temporary Spare Tire ~ Heated Mirrors ~ Power Mirror(s) ~ Integrated Turn Signal Mirrors ~ Rear Defrost ~ Intermittent Wipers ~ Variable Speed Intermittent Wipers ~ Rear Spoiler ~ Daytime Running Lights ~ Automatic Headlights",
+    "listPrice": "$19,990"
+  }
+]

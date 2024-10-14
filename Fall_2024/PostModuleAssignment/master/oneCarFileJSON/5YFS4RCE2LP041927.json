@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFS4RCE2LP041927",
+    "trueCarID": "LP041927-1085",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFS4RCE2LP041927/2020-toyota-corolla/",
+    "listingDateDiff": "57 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "23,796",
+    "interiorColor": "Black",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Norcross, GA",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$323/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$180 ",
+    "priceClassDiffAmt": "(0.9%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "CARPET MAT PACKAGE (TMS) ~ REAR BUMPER PROTECTOR (TMS) (PPO)",
+    "listPrice": "$19,500"
+  }
+]

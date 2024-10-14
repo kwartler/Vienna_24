@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE1HP703223",
+    "trueCarID": 913,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE1HP703223/2017-toyota-corolla/",
+    "listingDateDiff": "159 days ago",
+    "vehicleHistUseType": "Mixed Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "67,945",
+    "interiorColor": "Black",
+    "exteriorColor": "Red",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Manteca, CA",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$323/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$257 ",
+    "priceClassDiffAmt": "(1.3%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Driver Air Bag ~ Passenger Air Bag ~ Side Air Bag ~ Power Door Locks ~ Heated Mirrors ~ Traction Control ~ Vehicle Anti-Theft System ~ Integrated Turn Signal Mirrors ~ Tire Pressure Monitoring ~ Electronic Stability Control ~ Climate Control ~ Air Conditioning ~ Cruise Control ~ Keyless Entry ~ Power Driver Mirror ~ Power Steering ~ Tilt Wheel ~ Steering wheel controls",
+    "listPrice": "$19,499"
+  }
+]

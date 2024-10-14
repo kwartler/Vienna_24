@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE2HC816758",
+    "trueCarID": "68938A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE2HC816758/2017-toyota-corolla/",
+    "listingDateDiff": "2 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "71,166",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Unknown",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Hooksett, NH",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$274/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$132 ",
+    "priceClassDiffAmt": "(0.8%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Wheels: 16'' x 6.5'' Wide Vent Steel ~ Front Bucket Seats ~ Fabric Seat Trim ~ Radio: Entune Audio w/6.1'' Screen ~ LED Daytime Running Lights (DRL) ~ 6 Speakers ~ Air Conditioning ~ Electronic Stability Control ~ Tachometer ~ ABS brakes ~ AM/FM radio ~ Automatic temperature control ~ Brake assist ~ Bumpers: body-color ~ CD player ~ Delay-off headlights ~ Driver door bin ~ Driver vanity mirror",
+    "listPrice": "$16,511"
+  }
+]

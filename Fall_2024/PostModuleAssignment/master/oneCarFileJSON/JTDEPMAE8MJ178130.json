@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPMAE8MJ178130",
+    "trueCarID": "T10549A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPMAE8MJ178130/2021-toyota-corolla/",
+    "listingDateDiff": "Adaptive Cruise Control",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "7,880",
+    "interiorColor": "Light Gray",
+    "exteriorColor": "Celestite",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Westminster, VT",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$398/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$268 ",
+    "priceClassDiffAmt": "(1.1%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Engine: 1.8L I-4 DOHC 16-Valve -inc: Valvematic ~ Transmission: Continuously Variable (CVTi-S) ~ Engine Auto Stop-Start Feature ~ Front-wheel drive ~ 4.76 Axle Ratio ~ Battery w/Run Down Protection ~ Gas-Pressurized Shock Absorbers ~ Front And Rear Anti-Roll Bars ~ Electric Power-Assist Steering ~ 13.2 Gal. Fuel Tank ~ Single Stainless Steel Exhaust ~ Strut Front Suspension w/Coil Springs ~ Multi-Link Rear Suspension w/Coil Springs ~ 4-Wheel Disc Brakes w/4-Wheel ABS Front Vented Discs Brake Assist Hill Hold Control and Electric Parking Brake ~ Tires: P205/55R16 All-Season ~ Steel Spare Wheel ~ Compact Spare Tire Mounted Inside Under Cargo ~ Clearcoat Paint",
+    "listPrice": "$23,988"
+  }
+]

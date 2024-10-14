@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE6HP641849",
+    "trueCarID": "0C30106A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE6HP641849/2017-toyota-corolla/",
+    "listingDateDiff": "13 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "122,775",
+    "interiorColor": "Steel Gray",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Westminster, MD",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$240/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$234 ",
+    "priceClassDiffAmt": "(1.6%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ Front Disc/Rear Drum Brakes ~ Brake Assist ~ Wheel Covers ~ Steel Wheels ~ Temporary Spare Tire ~ Power Mirror(s) ~ Rear Defrost ~ Intermittent Wipers ~ Daytime Running Lights ~ Automatic Headlights ~ LED Headlights ~ Automatic Highbeams ~ AM/FM Stereo ~ CD Player ~ MP3 Player",
+    "listPrice": "$14,500"
+  }
+]

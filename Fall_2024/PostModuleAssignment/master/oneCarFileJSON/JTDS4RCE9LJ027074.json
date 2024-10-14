@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDS4RCE9LJ027074",
+    "trueCarID": 2441,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDS4RCE9LJ027074/2020-toyota-corolla/",
+    "listingDateDiff": "155 days ago",
+    "vehicleHistUseType": "Mixed Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "60,535",
+    "interiorColor": "Black",
+    "exteriorColor": "Silver",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Dinuba, CA",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$381/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$299 ",
+    "priceClassDiffAmt": "(1.3%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "ABS (4-Wheel) ~  Air Conditioning ~  Alloy Wheels ~  AM/FM Stereo ~  Backup Camera ~  Blind-Spot Warning System ~  Bluetooth Wireless ~  Color: Silver ~  Daytime Running Lights ~  Dual Air Bags ~  Dynamic Cruise Control ~  Entune ~  F&amp;R Head Curtain Air Bags ~  Hill Start Assist Control ~  Keyless Entry ~  Knee Air Bags ~  Lane Departure Alert ~  LED Headlamps",
+    "listPrice": "$22,999"
+  }
+]

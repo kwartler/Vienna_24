@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE0FC360448",
+    "trueCarID": "P2088",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE0FC360448/2015-toyota-corolla/",
+    "listingDateDiff": "42 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "115,931",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Not Specified",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Spring Hope, NC",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$224/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$561 ",
+    "priceClassDiffAmt": "(4.2%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "ABS Brakes ~ Air Conditioning ~ Alloy Wheels ~ AM/FM Radio ~ Automatic Headlights ~ Child Safety Door Locks ~ Cruise Control ~ Daytime Running Lights ~ Driver Airbag ~ Driver Multi-Adjustable Power Seat ~ Electronic Brake Assistance ~ Electronic Parking Aid ~ Fog Lights ~ Front Heated Seat ~ Front Power Lumbar Support ~ Front Side Airbag ~ Front Side Airbag with Head Protection ~ Interval Wipers",
+    "listPrice": "$13,499"
+  }
+]

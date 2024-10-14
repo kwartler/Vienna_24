@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPRAE4LP041032",
+    "trueCarID": 41032,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPRAE4LP041032/2020-toyota-corolla/",
+    "listingDateDiff": "28 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "62,224",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Placentia, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$291/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$301 ",
+    "priceClassDiffAmt": "(1.7%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "(Lane Departure Alert ~  Bluetooth)",
+    "listPrice": "$17,588"
+  }
+]

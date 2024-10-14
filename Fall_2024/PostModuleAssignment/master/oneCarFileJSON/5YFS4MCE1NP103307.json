@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFS4MCE1NP103307",
+    "trueCarID": "P7389",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFS4MCE1NP103307/2022-toyota-corolla/",
+    "listingDateDiff": "Premium Wheels",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "10,887",
+    "interiorColor": "Black",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Rockwall, TX",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$446/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "Great Price",
+    "allFeatures": "Spoiler ~ Tachometer ~ 1st row LCD monitors:  2 ~ 4 wheel disc brakes ~ ABS brakes ~ AM/FM radio:  SiriusXM ~ Adaptive Cruise Control:  Full-Speed Range Dynamic Radar Cruise Control (DRCC) ~ Air conditioning ~ Appearance:  analog ~ Auto high-beam headlights ~ Automatic temperature control ~ Brake assist ~ Bumpers:  body-color ~ Delay-off headlights ~ Door mirrors:  body-color ~ Driver door bin ~ Driver vanity mirror ~ Dual front impact airbags",
+    "listPrice": "$26,885"
+  }
+]

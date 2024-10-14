@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHEXFP355984",
+    "trueCarID": "FP355984",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHEXFP355984/2015-toyota-corolla/",
+    "listingDateDiff": "16 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "80,002",
+    "interiorColor": "Steel Blue",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 3 owners",
+    "location": "Hayward, CA",
+    "mileageRating": "29 cty / 37 hwy",
+    "monthlyPayment": "$248/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$268 ",
+    "priceClassDiffAmt": "(1.8%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Carpeted Floor Mats &amp; Trunk Mat (Ppo) ~ Body Side Moldings (Ppo) ~ Bluetooth Connection ~ Rear Spoiler ~ Steel Blue ~  Sport Fabric Seat Trim -Inc: Sport Bolsters And Sport Inserts ~ Super White ~ 50 State Emissions ~ S Plus Package -Inc: Sport Package Option 1",
+    "listPrice": "$14,955"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE6HC908973",
+    "trueCarID": null,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE6HC908973/2017-toyota-corolla/",
+    "listingDateDiff": "105 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 4,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "76,025",
+    "interiorColor": "Gray",
+    "exteriorColor": "Champagne",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 4 owners",
+    "location": "Tallahassee, FL",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$265/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$142 ",
+    "priceClassDiffAmt": "(0.9%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Door Handle Color - Body-Color ~  Front Bumper Color - Body-Color ~  Grille Color - Black ~  Mirror Color - Body-Color ~  Window Trim - Black ~  Steering Ratio - 17.8 ~  Turns Lock-To-Lock - 3.2 ~  Air Filtration ~  Floor Material - Carpet ~  Front Air Conditioning - Automatic Climate Control ~  Front Air Conditioning Zones - Single ~  Shift Knob Trim - Alloy ~  Steering Wheel Trim - Urethane ~  Interior Accents - Chrome ~  Interior Accents - Color Keyed ~  Interior Accents - Metallic-Tone ~  Armrests - Rear Folding ~  Armrests - Rear Center With Cupholders",
+    "listPrice": "$15,988"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE8KP932263",
+    "trueCarID": 23016,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE8KP932263/2019-toyota-corolla/",
+    "listingDateDiff": "13 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "47,614",
+    "interiorColor": "Black",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Mesa, AZ",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$375/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$1,605 ",
+    "priceClassDiffAmt": "(7.1%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Engine: 1.8L I-4 DOHC Dual VVT-i ~ Transmission: Continuously Variable (CVTi-S) ~ Front-Wheel Drive ~ 4.76 Axle Ratio ~ 390CCA Maintenance-Free Battery w/Run Down Protection ~ 80 Amp Alternator ~ Gas-Pressurized Shock Absorbers ~ Front And Rear Anti-Roll Bars ~ Electric Power-Assist Speed-Sensing Steering ~ 13.2 Gal. Fuel Tank ~ Single Stainless Steel Exhaust ~ Strut Front Suspension w/Coil Springs ~ Torsion Beam Rear Suspension w/Coil Springs ~ Front Disc/Rear Drum Brakes w/4-Wheel ABS; Front Vented Discs; Brake Assist and Hill Hold Control ~ Tires: P205/55R16 All-Season ~ Steel Spare Wheel ~ Compact Spare Tire Mounted Inside Under Cargo ~ Clearcoat Paint",
+    "listPrice": "$22,608"
+  }
+]

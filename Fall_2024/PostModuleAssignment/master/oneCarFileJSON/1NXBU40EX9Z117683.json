@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "1NXBU40EX9Z117683",
+    "trueCarID": "D23016",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/1NXBU40EX9Z117683/2009-toyota-corolla/",
+    "listingDateDiff": "31 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "114,999",
+    "interiorColor": "Unspecified",
+    "exteriorColor": "Silver",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Durham, NC",
+    "mileageRating": "27 cty / 35 hwy",
+    "monthlyPayment": "$172/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$260 ",
+    "priceClassDiffAmt": "(2.5%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Option List:Exhaust Tip Color - Chrome ~ Grille Color - Black ~ Mudguards - Rear ~ Steering Ratio - 17.4 ~ Turns Lock-To-Lock - 3.40 ~ Air Filtration ~ Front Air Conditioning Zones - Single ~ Interior Accents - Metallic-Tone ~ Steering Wheel Trim - Leather ~ Cargo Area Light ~ Center Console - Front Console With Storage ~ Cupholders - Front ~ Cupholders - Rear ~ Power Steering ~ Reading Lights - Front ~ Storage - Door Pockets ~ Storage - Front Seatback ~ Front Brake Type - Ventilated Disc",
+    "listPrice": "$10,395"
+  }
+]

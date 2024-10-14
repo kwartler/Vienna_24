@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BU4EE6BC709727",
+    "trueCarID": 709727,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BU4EE6BC709727/2011-toyota-corolla/",
+    "listingDateDiff": "166 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "85,838",
+    "interiorColor": "Bisque",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "Winter Park, FL",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$182/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$7 ",
+    "priceClassDiffAmt": "(0.1%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "4 Cylinder Engine ~ 4-Speed A/T ~ ABS ~ A/C ~ Adjustable Steering Wheel ~ Security System ~ AM/FM Stereo ~ Auxiliary Audio Input ~ Power Outlet ~ Brake Assist ~ Bucket Seats ~ CD Player ~ Child Safety Locks ~ Cloth Seats ~ Temporary Spare Tire ~ Daytime Running Lights ~ Driver Air Bag ~ Driver Vanity Mirror",
+    "listPrice": "$10,991"
+  }
+]

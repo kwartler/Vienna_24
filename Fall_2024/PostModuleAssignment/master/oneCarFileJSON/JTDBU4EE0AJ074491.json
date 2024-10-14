@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDBU4EE0AJ074491",
+    "trueCarID": 74491,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDBU4EE0AJ074491/2010-toyota-corolla/",
+    "listingDateDiff": "3 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "112,747",
+    "interiorColor": "Tan",
+    "exteriorColor": "White",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Perris, CA",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$149/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$69 ",
+    "priceClassDiffAmt": "(0.8%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "4-Cyl 1.8 Liter ~ Automatic 4-Spd w/Overdrive ~ FWD ~ Stability Control ~ Air Conditioning ~ Power Steering ~ Power Windows ~ Power Door Locks ~ Tilt Wheel ~ Cruise Control ~ AM/FM Stereo ~ CD/MP3 (Single Disc) ~ Dual Air Bags ~ Side Air Bags ~ ABS (4-Wheel) ~ Traction Control ~ Rear Spoiler ~ Alloy Wheels",
+    "listPrice": "$8,995"
+  }
+]

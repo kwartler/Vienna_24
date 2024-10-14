@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAE5LJ096173",
+    "trueCarID": "14U00093",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAE5LJ096173/2020-toyota-corolla/",
+    "listingDateDiff": "2 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "69,488",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Unknown",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 2 owners",
+    "location": "Gainesville, GA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$300/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$289 ",
+    "priceClassDiffAmt": "(1.6%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Wheels: 16'' Wide Vent Steel ~ Front Bucket Seats ~ Premium Fabric Seat Trim ~ Radio: Audio AM/FM w/Navigation ~ 4-Wheel Disc Brakes ~ 6 Speakers ~ Air Conditioning ~ Electronic Stability Control ~ Front Center Armrest ~ Tachometer ~ ABS brakes ~ Automatic temperature control ~ Brake assist ~ Bumpers: body-color ~ Delay-off headlights ~ Driver door bin ~ Driver vanity mirror ~ Dual front impact airbags",
+    "listPrice": "$18,076"
+  }
+]

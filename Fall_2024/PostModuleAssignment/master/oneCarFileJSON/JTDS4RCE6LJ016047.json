@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDS4RCE6LJ016047",
+    "trueCarID": "LJ016047P",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDS4RCE6LJ016047/2020-toyota-corolla/",
+    "listingDateDiff": "22 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "47,234",
+    "interiorColor": "Black",
+    "exteriorColor": "Blue Crush Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Torrance, CA",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$356/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "4 Cylinder Engine ~ 4-Wheel ABS ~ 4-Wheel Disc Brakes ~ A/C ~ Adaptive Cruise Control ~ Adjustable Steering Wheel ~ Aluminum Wheels ~ AM/FM Stereo ~ Apple CarPlay ~ Auto-Off Headlights ~ Back-Up Camera ~ Brake Assist ~ Bucket Seats ~ Child Safety Locks ~ Climate Control ~ Cloth Seats ~ Compact Spare Tire ~ Continuously Variable Trans",
+    "listPrice": "$21,488"
+  }
+]

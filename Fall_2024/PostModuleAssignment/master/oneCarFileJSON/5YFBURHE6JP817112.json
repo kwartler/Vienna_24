@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE6JP817112",
+    "trueCarID": 20414,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE6JP817112/2018-toyota-corolla/",
+    "listingDateDiff": "157 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Salvage",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "74,536",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": 2,
+    "location": "Houston, TX",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$232/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "High Price",
+    "allFeatures": "ABS Brakes ~ Child Safety Door Locks ~ Cruise Control ~ Driver Airbag ~ Front Side Airbag ~ Passenger Airbag ~ Power Windows ~ Run Flat Tires ~ Side Head Curtain Airbag ~ Telescopic Steering Column",
+    "listPrice": "$13,999"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE5MP246881",
+    "trueCarID": 23733379,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE5MP246881/2021-toyota-corolla/?zipcode=37204",
+    "listingDateDiff": "2 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "39,404",
+    "interiorColor": "Black",
+    "exteriorColor": "Gray",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Nashville, TN",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$381/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$115 ",
+    "priceClassDiffAmt": "(0.5%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Rear View Camera ~ Auxiliary Audio Input ~ Overhead Airbags ~ Traction Control ~ Side Airbags ~ Air Conditioning ~ ABS Brakes ~ Power Locks ~ Power Mirrors ~ AM/FM Stereo ~ Satellite Radio Ready ~ Rear Defroster ~ Power Windows ~ Cloth Seats ~ Automatic Transmission ~ Bluetooth Technology ~ Automated Cruise Control ~ Lane Departure Warning",
+    "listPrice": "$22,998"
+  }
+]

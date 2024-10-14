@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "1NXBU4EE8AZ285111",
+    "trueCarID": 211356,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/1NXBU4EE8AZ285111/2010-toyota-corolla/",
+    "listingDateDiff": "441 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "98,750",
+    "interiorColor": "Ash",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "2 accidents, 2 owners",
+    "location": "Honolulu, HI",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$149/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$783 ",
+    "priceClassDiffAmt": "(8.7%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "Air filtration ~ Front air conditioning ~ Front air conditioning zones: single ~ Airbag deactivation: occupant sensing passenger ~ Front airbags: dual ~ Side airbags: front ~ Side curtain airbags: front ~ Antenna type: element ~ Auxiliary audio input: jack ~ In-Dash CD: MP3 Playback ~ Radio: AM/FM ~ Satellite radio: SiriusXM ready ~ Speed sensitive volume control ~ Total speakers: 4 ~ ABS: 4-wheel ~ Braking assist ~ Electronic brakeforce distribution ~ Front brake diameter: 10.8",
+    "listPrice": "$8,995"
+  }
+]

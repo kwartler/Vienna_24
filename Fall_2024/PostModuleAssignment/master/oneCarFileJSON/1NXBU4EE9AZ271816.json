@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "1NXBU4EE9AZ271816",
+    "trueCarID": 13832,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/1NXBU4EE9AZ271816/2010-toyota-corolla/",
+    "listingDateDiff": "56 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 4,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "93,000",
+    "interiorColor": "Bisque",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 4 owners",
+    "location": "Rancho Cordova, CA",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$182/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$336 ",
+    "priceClassDiffAmt": "(3.1%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Air filtration ~ Front air conditioning ~ Front air conditioning zones: single ~ Airbag deactivation: occupant sensing passenger ~ Front airbags: dual ~ Side airbags: front ~ Side curtain airbags: front ~  rear ~ Antenna type: element ~ Auxiliary audio input: jack ~ In-Dash CD: MP3 Playback ~  single disc ~ Radio: AM/FM ~ Satellite radio: SiriusXM ready ~ Speed sensitive volume control ~ Total speakers: 4 ~ ABS: 4-wheel ~ Braking assist",
+    "listPrice": "$10,999"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BU4EE2DC108351",
+    "trueCarID": "DC108351",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BU4EE2DC108351/2013-toyota-corolla/",
+    "listingDateDiff": "2 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "74,460",
+    "interiorColor": "Gray",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Las Vegas, NV",
+    "mileageRating": "27 cty / 34 hwy",
+    "monthlyPayment": "$215/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$221 ",
+    "priceClassDiffAmt": "(1.7%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Carpeted Front/Rear Floor Mats &amp; Trunk Mat (Ppo) ~ Super White ~ 50 State Emissions",
+    "listPrice": "$12,998"
+  }
+]

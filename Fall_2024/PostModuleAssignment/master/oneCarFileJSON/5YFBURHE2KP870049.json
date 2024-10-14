@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE2KP870049",
+    "trueCarID": "KP870049",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE2KP870049/2019-toyota-corolla/",
+    "listingDateDiff": "48 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "38,548",
+    "interiorColor": "Ash",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "Melbourne, FL",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$315/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$257 ",
+    "priceClassDiffAmt": "(1.4%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "WHEELS: 16\" ~ LE PREMIUM PACKAGE ~ CARPET MAT PACKAGE (TMS) ~ BLACK FABRIC SEAT TRIM",
+    "listPrice": "$18,995"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE8KP886305",
+    "trueCarID": "KP886305",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE8KP886305/2019-toyota-corolla/",
+    "listingDateDiff": "112 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "64,617",
+    "interiorColor": "Steel Gray",
+    "exteriorColor": "Slate Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Fontana, CA",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$278/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$284 ",
+    "priceClassDiffAmt": "(1.7%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "(Back-Up Camera ~  Remote Keyless Entry) ~ 50 State Emissions ~ Carpet Mat Package (Tms) ~ Fleet Credit ~ Slate Metallic ~ Air Conditioning: A/C ~ Air Filtration ~ Audio: Am/Fm Stereo ~ Audio: Mp3 Player ~ Brakes: Abs ~ Clearcoat Paint ~ Convenience: Cruise Control ~ Convenience: Trip Computer ~ Engine: 1.8L I-4 Dohc Dual Vvt-I ~ Front Disc/Rear Drum Brakes W/4-Wheel Abs ~  Front Vented Discs ~  Brake Assist And Hill Hold Control",
+    "listPrice": "$16,799"
+  }
+]

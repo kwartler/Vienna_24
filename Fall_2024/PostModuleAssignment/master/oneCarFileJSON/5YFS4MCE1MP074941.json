@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFS4MCE1MP074941",
+    "trueCarID": 74941,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFS4MCE1MP074941/2021-toyota-corolla/",
+    "listingDateDiff": "23 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Theft Recovery",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "29,000",
+    "interiorColor": "Black",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Woodbridge, VA",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$348/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$44 ",
+    "priceClassDiffAmt": "(0.2%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Child Safety Door Locks ~ Vehicle Anti-Theft ~ ABS Brakes ~ Driver Airbag ~ Front Side Airbag ~ Passenger Airbag ~ Side Head Curtain Airbag ~ Cruise Control ~ Telescopic Steering Column ~ Alloy Wheels ~ Run Flat Tires ~ Anti-Brake System: 4-Wheel ABS ~ Steering Type: R&P ~ Front Brake Type: Disc ~ Rear Brake Type: Drum ~ Front Suspension: IND ~ Rear Suspension: Semi ~ Front Spring Type: Coil",
+    "listPrice": "$20,997"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE1NP336787",
+    "trueCarID": "RR2110",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE1NP336787/2022-toyota-corolla/",
+    "listingDateDiff": "62 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "9,337",
+    "interiorColor": "Light Gray",
+    "exteriorColor": "White",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "Manassas, VA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$364/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$915 ",
+    "priceClassDiffAmt": "(4.2%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "A/C Front ~ Anti-Lock Brakes ~ Driver Air Bag ~ Power Mirrors ~ Power Steering ~ Power Windows ~ Side Air Bag ~ Tilt Wheel ~ Traction Control ~ MP3 Player ~ Backup Camera ~ Keyless Entry  ~ Bluetooth Capable ~ Passenger Air Bag ~ Rear Air Bags ~ Power Door Locks ~ Cruise Control ~ AM/FM Stereo",
+    "listPrice": "$21,995"
+  }
+]

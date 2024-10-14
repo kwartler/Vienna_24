@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE7MP168796",
+    "trueCarID": 168796,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE7MP168796/2021-toyota-corolla/",
+    "listingDateDiff": "36 days ago",
+    "vehicleHistUseType": "Mixed Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "55,946",
+    "interiorColor": "Black",
+    "exteriorColor": "Blueprint",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "Roswell, GA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$331/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$215 ",
+    "priceClassDiffAmt": "(1.1%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Lane Departure Alert ~ Daytime Running Lights ~ LED Headlamps ~ Steel Wheels ~ 4-Cyl 1.8 Liter ~ Automatic CVT ~ FWD ~ Hill Start Assist Control ~ Traction Control ~ Stability Control ~ Vehicle Dynamic Control ~ ABS (4-Wheel) ~ Keyless Entry ~ Air Conditioning ~ Power Windows ~ Power Door Locks ~ Dynamic Cruise Control ~ Remote Trunk Release",
+    "listPrice": "$19,999"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDS4MCE6MJ057217",
+    "trueCarID": "MJ057217-260",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDS4MCE6MJ057217/2021-toyota-corolla/",
+    "listingDateDiff": "Premium Wheels",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "29,859",
+    "interiorColor": "Black",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Norcross, GA",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$348/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$944 ",
+    "priceClassDiffAmt": "(4.5%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "ALL-WEATHER ~ FLOOR ~ LINER ~ PACKAGE ~ (TMS)",
+    "listPrice": "$21,000"
+  }
+]

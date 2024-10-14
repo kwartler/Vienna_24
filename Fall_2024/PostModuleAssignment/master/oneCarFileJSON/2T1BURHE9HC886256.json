@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE9HC886256",
+    "trueCarID": "2T1BURHE9HC886256",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE9HC886256/2017-toyota-corolla/",
+    "listingDateDiff": "107 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 4,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Manual",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "88,161",
+    "interiorColor": "Black",
+    "exteriorColor": "Black",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 4 owners",
+    "location": "Baltimore, MD",
+    "mileageRating": "27 cty / 35 hwy",
+    "monthlyPayment": "$265/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$909 ",
+    "priceClassDiffAmt": "(5.7%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Door Handle Color - Body-Color ~  Exhaust Tip Color - Chrome ~  Front Bumper Color - Body-Color ~  Rear Bumper Color - Body-Color ~  Rear Spoiler - Lip ~  Rear Spoiler Color - Body-Color ~  Window Trim - Black ~  Steering Ratio - 17.8 ~  Turns Lock-To-Lock - 3.2 ~  Air Filtration ~  Floor Material - Carpet ~  Front Air Conditioning - Automatic Climate Control ~  Front Air Conditioning Zones - Single ~  Shift Knob Trim - Alloy ~  Steering Wheel Trim - Leather ~  Interior Accents - Color Keyed ~  Armrests - Rear Folding ~  Armrests - Rear Center With Cupholders",
+    "listPrice": "$15,999"
+  }
+]

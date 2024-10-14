@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE2KC156874",
+    "trueCarID": "V2889A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE2KC156874/2019-toyota-corolla/",
+    "listingDateDiff": "52 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "56,211",
+    "interiorColor": "Gray",
+    "exteriorColor": "Black",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Philadelphia, PA",
+    "mileageRating": "28 cty / 35 hwy",
+    "monthlyPayment": "$318/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "4-Cyl 1.8 Liter ~ Automatic CVTi-S ~ FWD ~ Alloy Wheels",
+    "listPrice": "$19,199"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEAMDE9MJ032199",
+    "trueCarID": 23210468,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEAMDE9MJ032199/2021-toyota-corolla/?zipcode=33064",
+    "listingDateDiff": "3 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Hybrid",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Hybrid",
+    "mileage": "29,276",
+    "interiorColor": "Light Gray",
+    "exteriorColor": "Blueprint",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Pompano Beach, FL",
+    "mileageRating": "53 cty / 52 hwy",
+    "monthlyPayment": "$431/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Rear View Camera ~ Auxiliary Audio Input ~ Alloy Wheels ~ Overhead Airbags ~ Traction Control ~ Side Airbags ~ Air Conditioning ~ ABS Brakes ~ Power Locks ~ Power Mirrors ~ AM/FM Stereo ~ Satellite Radio Ready ~ Rear Defroster ~ Power Windows ~ Cloth Seats ~ Automatic Transmission ~ Automated Cruise Control ~ Bluetooth Technology",
+    "listPrice": "$25,998"
+  }
+]

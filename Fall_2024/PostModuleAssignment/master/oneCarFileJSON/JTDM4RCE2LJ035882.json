@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDM4RCE2LJ035882",
+    "trueCarID": 23253484,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDM4RCE2LJ035882/2020-toyota-corolla/?zipcode=28134",
+    "listingDateDiff": "6 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": null,
+    "fuelType": null,
+    "driveType": null,
+    "engineInfo": null,
+    "mileage": "51,595",
+    "interiorColor": "Moonstone",
+    "exteriorColor": "Celestite",
+    "style": "Unknown",
+    "accidentOwnership": 0,
+    "location": "Pineville, NC",
+    "mileageRating": "L - ",
+    "monthlyPayment": "$381/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": null,
+    "allFeatures": "Sunroof(s) ~ Rear View Camera ~ Navigation System ~ Cruise Control ~ Auxiliary Audio Input ~ Rear Spoiler ~ Alloy Wheels ~ Overhead Airbags ~ Traction Control ~ Side Airbags ~ Air Conditioning ~ ABS Brakes ~ Power Locks ~ Power Mirrors ~ AM/FM Stereo ~ Satellite Radio Ready ~ Rear Defroster ~ Power Windows",
+    "listPrice": "$22,998"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPRAE0LP011302",
+    "trueCarID": 11302,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPRAE0LP011302/2020-toyota-corolla/",
+    "listingDateDiff": "19 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "33,285",
+    "interiorColor": "Black",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "Inwood, NY",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$265/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$49 ",
+    "priceClassDiffAmt": "(0.3%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "4 Cylinder Engine ~ ABS ~ 4-Wheel Disc Brakes ~ A/C ~ A/T ~ Adaptive Cruise Control ~ Adjustable Steering Wheel ~ Security System ~ AM/FM Stereo ~ Transmission w/Dual Shift Mode ~ Automatic Headlights ~ Auxiliary Audio Input ~ Back-Up Camera ~ Brake Assist ~ Bucket Seats ~ Child Safety Locks ~ Climate Control ~ Cloth Seats",
+    "listPrice": "$15,999"
+  }
+]

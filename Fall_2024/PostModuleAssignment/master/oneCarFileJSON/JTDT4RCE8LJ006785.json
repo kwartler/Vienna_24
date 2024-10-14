@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDT4RCE8LJ006785",
+    "trueCarID": 23764846,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDT4RCE8LJ006785/2020-toyota-corolla/?zipcode=93036",
+    "listingDateDiff": "3 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "39,092",
+    "interiorColor": "Black",
+    "exteriorColor": "Blizzard Pearl",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Oxnard, CA",
+    "mileageRating": "31 cty / 38 hwy",
+    "monthlyPayment": "$414/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$377 ",
+    "priceClassDiffAmt": "(1.5%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Sunroof(s) ~ Rear View Camera ~ Front Seat Heaters ~ Auxiliary Audio Input ~ Rear Spoiler ~ Alloy Wheels ~ Overhead Airbags ~ Traction Control ~ Side Airbags ~ Air Conditioning ~ ABS Brakes ~ Power Locks ~ Power Mirrors ~ AM/FM Stereo ~ Satellite Radio Ready ~ Rear Defroster ~ Power Windows ~ Rear Sunshade",
+    "listPrice": "$24,998"
+  }
+]

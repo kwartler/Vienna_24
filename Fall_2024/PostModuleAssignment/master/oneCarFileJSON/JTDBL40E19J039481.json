@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDBL40E19J039481",
+    "trueCarID": null,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDBL40E19J039481/2009-toyota-corolla/",
+    "listingDateDiff": "22 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "130,712",
+    "interiorColor": "Beige",
+    "exteriorColor": "Black",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "San Diego, CA",
+    "mileageRating": "27 cty / 35 hwy",
+    "monthlyPayment": "$157/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$627 ",
+    "priceClassDiffAmt": "(6.6%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Door Handle Color - Body-Color ~  Grille Color - Black ~  Air Filtration ~  Front Air Conditioning ~  Front Air Conditioning Zones - Single ~  Center Console - Front Console With Storage ~  Cupholders - Front ~  Cupholders - Rear ~  Power Outlet(S) - Two 12v ~  Power Steering ~  Steering Wheel - Tilt And Telescopic ~  Vanity Mirrors - Dual ~  Cargo Area Light ~  Abs - 4-Wheel ~  Braking Assist ~  Electronic Brakeforce Distribution ~  Front Brake Diameter - 10.8 ~  Front Suspension Classification - Independent",
+    "listPrice": "$9,495"
+  }
+]

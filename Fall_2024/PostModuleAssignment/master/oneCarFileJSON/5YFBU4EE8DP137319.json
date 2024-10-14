@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBU4EE8DP137319",
+    "trueCarID": 11411,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBU4EE8DP137319/2013-toyota-corolla/",
+    "listingDateDiff": "22 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "104,292",
+    "interiorColor": "Black",
+    "exteriorColor": "White",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Las Vegas, NV",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$182/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$831 ",
+    "priceClassDiffAmt": "(7.6%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "Cloth Seats ~  Daytime Running Lights ~  CD Player ~  Remote Trunk Release ~  One-Touch Windows ~  12v Front Power Outlets ~  4-Wheel ABS ~  Latch System Child Seat Anchor ~  Alarm ~  Power Door Locks ~  Stability Control ~  Traction Control ~  Auxiliary Jack ~  MP3 ~  Power Side Mirror ~  Steel Wheels ~  Power Windows ~  Rear Defogger",
+    "listPrice": "$10,999"
+  }
+]

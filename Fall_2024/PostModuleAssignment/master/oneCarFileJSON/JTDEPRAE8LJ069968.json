@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAE8LJ069968",
+    "trueCarID": 23892065,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAE8LJ069968/2020-toyota-corolla/?zipcode=30144",
+    "listingDateDiff": "7 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "35,941",
+    "interiorColor": "Black",
+    "exteriorColor": "Blueprint",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "Kennesaw, GA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$365/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$434 ",
+    "priceClassDiffAmt": "(2%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Rear View Camera ~ Auxiliary Audio Input ~ Overhead Airbags ~ Traction Control ~ Side Airbags ~ Air Conditioning ~ ABS Brakes ~ Power Locks ~ Power Mirrors ~ AM/FM Stereo ~ Rear Defroster ~ Power Windows ~ Cloth Seats ~ Automatic Transmission ~ Lane Departure Warning ~ Bluetooth Technology ~ Entune ~ Apple CarPlay",
+    "listPrice": "$21,998"
+  }
+]

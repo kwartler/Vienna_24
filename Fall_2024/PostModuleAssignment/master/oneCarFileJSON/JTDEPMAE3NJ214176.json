@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPMAE3NJ214176",
+    "trueCarID": 19073,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPMAE3NJ214176/2022-toyota-corolla/",
+    "listingDateDiff": "198 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Salvage",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "1,509",
+    "interiorColor": "Black",
+    "exteriorColor": "Celestite",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Miami, FL",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$347/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$1,571 ",
+    "priceClassDiffAmt": "(7.5%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "J.D. Power Retail: $30 ~ 750 ~ 50 State Emissions ~ Black ~  Premium Fabric Seat Trim ~ Celestite ~ Southeast Region Admin Fee",
+    "listPrice": "$20,950"
+  }
+]

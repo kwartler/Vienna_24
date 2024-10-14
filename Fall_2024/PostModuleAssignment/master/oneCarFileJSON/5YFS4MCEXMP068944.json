@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFS4MCEXMP068944",
+    "trueCarID": "MP068944",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFS4MCEXMP068944/2021-toyota-corolla/",
+    "listingDateDiff": "26 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "16,815",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Santa Ana, CA",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$384/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$226 ",
+    "priceClassDiffAmt": "(1%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "(Hill Start Assist/ Back-Up Camera) ~ 50 State Emissions ~ Carpet Mat Package (Tms) ~ Rear Bumper Protector (Tms) ~ Super White ~ Air Bag - Frontal : Driver Air Bag ~ Air Bag - Frontal : Passenger Air Bag ~ Air Conditioning : A/C ~ Audio : Am/Fm Stereo ~ Audio : Mp3 Player ~ Brakes : 4-Wheel Disc Brakes ~ Brakes : Abs ~ Clearcoat Paint ~ Convenience : Back-Up Camera ~ Convenience : Cruise Control ~ Convenience : Trip Computer ~ Engine Type : 4 Cylinder Engine ~ Front-Wheel Drive",
+    "listPrice": "$23,199"
+  }
+]

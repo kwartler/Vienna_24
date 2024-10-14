@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHEXGC712033",
+    "trueCarID": 22884231,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHEXGC712033/2016-toyota-corolla/?zipcode=20877",
+    "listingDateDiff": "16 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "99,660",
+    "interiorColor": "Gray",
+    "exteriorColor": "Gray",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Gaithersburg, MD",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$282/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$327 ",
+    "priceClassDiffAmt": "(1.9%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Rear View Camera ~ Cruise Control ~ Auxiliary Audio Input ~ Overhead Airbags ~ Traction Control ~ Side Airbags ~ Air Conditioning ~ ABS Brakes ~ Power Locks ~ Power Mirrors ~ AM/FM Stereo ~ Rear Defroster ~ CD Audio ~ Power Windows ~ Cloth Seats ~ Automatic Transmission ~ Bluetooth Technology ~ Entune",
+    "listPrice": "$16,998"
+  }
+]

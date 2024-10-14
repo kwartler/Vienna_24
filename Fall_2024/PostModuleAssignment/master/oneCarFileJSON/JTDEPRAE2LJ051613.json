@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAE2LJ051613",
+    "trueCarID": "LJ051613",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAE2LJ051613/2020-toyota-corolla/",
+    "listingDateDiff": "70 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "62,253",
+    "interiorColor": "Black",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Santa Ana, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$316/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$834 ",
+    "priceClassDiffAmt": "(4.4%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "(Back-Up Camera/ Remote Keyless Entry) ~ 50 State Emissions ~ Black Sand Pearl ~ Carpet Mat Package (Tms) ~ Fleet Credit ~ Air Bag - Frontal: Driver Air Bag ~ Air Conditioning: A/C ~ Audio: Am/Fm Stereo ~ Audio: Mp3 Player ~ Brakes: 4-Wheel Disc Brakes ~ Brakes: Abs ~ Convenience: Cruise Control ~ Convenience: Trip Computer ~ Engine: 1.8L I-4 Dohc 16-Valve -Inc: Valvematic ~ Front-Wheel Drive ~ Locks: Power Door Locks ~ Mirrors: Power Mirror(S) ~ Telephone: Bluetooth Connection",
+    "listPrice": "$19,099"
+  }
+]

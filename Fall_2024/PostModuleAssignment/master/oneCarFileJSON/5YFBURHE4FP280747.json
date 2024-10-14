@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE4FP280747",
+    "trueCarID": 7402,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE4FP280747/2015-toyota-corolla/",
+    "listingDateDiff": "29 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "27,120",
+    "interiorColor": "Unspecified",
+    "exteriorColor": "Unspecified",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 2 owners",
+    "location": "Pasadena, CA",
+    "mileageRating": "27 cty / 36 hwy",
+    "monthlyPayment": "$232/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$224 ",
+    "priceClassDiffAmt": "(1.6%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "ABS Brakes : Std. ~ Air Conditioning : Std. ~ Anti-Brake System : 4-Wheel ABS ~ Cargo Net : Opt. ~ Cargo Volume : 13.00 ~ Child Safety Door Locks : Std. ~ Curb Weight-automatic : 2820 ~ Daytime Running Lights : Std. ~ Dealer Invoice : $16 ~ 538 ~ Destination Charge : $825 ~ Driver Airbag : Std. ~ Electronic Brake Assistance : Std. ~ Front Brake Type : Disc ~ Front Headroom : 38.30 ~ Front Hip Room : 53.00 ~ Front Legroom : 42.30 ~ Front Shoulder Room : 54.80",
+    "listPrice": "$13,995"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAE5LJ009954",
+    "trueCarID": "LJ009954",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAE5LJ009954/2020-toyota-corolla/",
+    "listingDateDiff": "265 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "92,306",
+    "interiorColor": "Black",
+    "exteriorColor": "Blueprint",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "Montebello, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$276/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "(Back-Up Camera & Bluetooth) ~ 50 State Emissions ~ Blueprint ~ Carpet Mat Package (Tms) ~ Door Edge Guards ~ Rear Bumper Protector (Tms) ~ Air Bag - Frontal: Driver Air Bag ~ Air Conditioning: A/C ~ Audio: Am/Fm Stereo ~ Audio: Mp3 Player ~ Convenience: Back-Up Camera ~ Convenience: Steering Wheel Audio Controls ~ Convenience: Trip Computer ~ Engine: 4 Cylinder Engine ~ Led Brakelights ~ Light Tinted Glass ~ Mirrors: Power Mirror(S) ~ Safety Features: Automatic Headlights",
+    "listPrice": "$16,648"
+  }
+]

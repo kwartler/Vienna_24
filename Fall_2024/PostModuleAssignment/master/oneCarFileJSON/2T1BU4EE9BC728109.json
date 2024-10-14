@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BU4EE9BC728109",
+    "trueCarID": "BC728109",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BU4EE9BC728109/2011-toyota-corolla/",
+    "listingDateDiff": "10 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "160,000",
+    "interiorColor": "Ash",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "2 accidents, 2 owners",
+    "location": "Columbia, SC",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$157/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$15 ",
+    "priceClassDiffAmt": "(0.2%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Ash ~  Fabric Seat Trim ~ Classic Silver Metallic ~ 50 State Emissions",
+    "listPrice": "$9,490"
+  }
+]

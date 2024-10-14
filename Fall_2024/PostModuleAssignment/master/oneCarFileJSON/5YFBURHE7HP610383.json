@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE7HP610383",
+    "trueCarID": "HP610383",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE7HP610383/2017-toyota-corolla/",
+    "listingDateDiff": "36 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "43,485",
+    "interiorColor": "Steel Gray",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "2 accidents, 2 owners",
+    "location": "Norco, CA",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$282/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$143 ",
+    "priceClassDiffAmt": "(0.8%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "(Back-Up Camera & Remote Keyless) ~ 50 State Emissions ~ Classic Silver Metallic ~ Door Edge Guards ~ Protection Package ~ Standard Paint",
+    "listPrice": "$16,999"
+  }
+]

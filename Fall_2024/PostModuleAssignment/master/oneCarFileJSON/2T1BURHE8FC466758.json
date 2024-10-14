@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE8FC466758",
+    "trueCarID": "A3259",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE8FC466758/2015-toyota-corolla/",
+    "listingDateDiff": "50 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "77,412",
+    "interiorColor": "Black",
+    "exteriorColor": "Black Sand Mica",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Spotsylvania, VA",
+    "mileageRating": "29 cty / 37 hwy",
+    "monthlyPayment": "$257/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$199 ",
+    "priceClassDiffAmt": "(1.3%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "A/C Front ~ Alloy Wheels ~ CD Player ~ Anti-Lock Brakes ~ Compact Disc /AM/FM ~ Driver Air Bag ~ Entertainment System ~ Power Mirrors ~ Power Steering ~ Power Windows ~ Premium Sound System ~ Side Air Bag ~ Tilt Wheel ~ CD Changer ~ Traction Control ~ MP3 Player ~ Satellite Radio  ~ Bluetooth Capable",
+    "listPrice": "$15,495"
+  }
+]

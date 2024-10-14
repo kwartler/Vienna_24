@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFS4MCE4MP075940",
+    "trueCarID": 127146,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFS4MCE4MP075940/2021-toyota-corolla/",
+    "listingDateDiff": "Premium Wheels",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "46,443",
+    "interiorColor": "Moonstone",
+    "exteriorColor": "Cement W/Black Sand Pearl Roof",
+    "style": "Sedan",
+    "accidentOwnership": "Certified Pre-Owned",
+    "location": "Las Vegas, NV",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$404/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$60 ",
+    "priceClassDiffAmt": "(0.2%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Airbags - Front - Dual ~ Air Conditioning - Front - Single Zone ~ Airbags - Passenger - Occupant Sensing Deactivation ~ Airbags - Front - Side ~ Airbags - Rear - Side ~ Airbags - Front - Side Curtain ~ Air Conditioning - Front - Automatic Climate Control ~ Air Conditioning - Air Filtration ~ Airbags - Driver - Knee ~ Audio Streaming: Bluetooth ~ Emergency Interior Trunk Release ~ Armrests - Rear Center ~ Audio - Antenna: Mast ~ Audio - Antenna: Diversity ~ Power Brakes ~ Airbags - Rear - Side Curtain ~ Audio Voice Recognition ~ Audio Auxiliary Input: USB",
+    "listPrice": "$24,388"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFS4MCEXNP124558",
+    "trueCarID": "T25343T",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFS4MCEXNP124558/2022-toyota-corolla/",
+    "listingDateDiff": "30 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "2,139",
+    "interiorColor": "Moonstone",
+    "exteriorColor": "Blue Crush Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "San Antonio, TX",
+    "mileageRating": "31 cty / 38 hwy",
+    "monthlyPayment": "$441/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "Fair Price",
+    "allFeatures": "Gas Engine Type ~ Regular Unleaded Fuel Type ~ 169 Horsepower ~ 6600 Horsepower RPM ~ 151 Torque ~ 4400 Torque RPM ~ 2.0 Engine Displacement ~ Inline Engine Configuration ~ 4 Cylinders ~ Variable Valvetrain ~ Double Overhead Valvetrain ~ 16 Number of Valves ~ 13.0 Compression Ratio ~ 31 EPA City Fuel Economy ~ 38 EPA Highway Fuel Economy ~ 34 EPA Combined Fuel Economy ~ Automatic Transmission Type ~ Paddles Shiftable Automatic",
+    "listPrice": "$26,591"
+  }
+]

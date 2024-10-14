@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBU4EE6DP154474",
+    "trueCarID": 4268,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBU4EE6DP154474/2013-toyota-corolla/",
+    "listingDateDiff": "2 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "92,219",
+    "interiorColor": "Gray - Ash",
+    "exteriorColor": "Red - Barcelona Red Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Bell Gardens, CA",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$207/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$139 ",
+    "priceClassDiffAmt": "(1.1%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Air filtration ~ Front air conditioning ~ Front air conditioning zones - single ~ Airbag deactivation - occupant sensing passenger ~ Front airbags - dual ~ Side airbags - front ~ Side curtain airbags - front  ~  rear ~ Antenna type - element ~ Auxiliary audio input - Bluetooth  ~  USB  ~  iPod / iPhone  ~  jack ~ In-Dash CD - MP3 Playback  ~  single disc ~ Radio - AM / FM  ~  touch screen display ~ Speed sensitive volume control",
+    "listPrice": "$12,495"
+  }
+]

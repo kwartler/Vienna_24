@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE6HP703993",
+    "trueCarID": 7977,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE6HP703993/2017-toyota-corolla/",
+    "listingDateDiff": "3 days ago",
+    "vehicleHistUseType": "Mixed Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 4,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "72,070",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Blue",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Humble, TX",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$265/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "Great Price",
+    "allFeatures": "Radio w/Seek-Scan ~  MP3 Player ~  Clock ~  Speed Compensated Volume Control ~  Steering Wheel Controls and Radio Data System ~ Window Grid Antenna ~ Automatic Equalizer ~ Radio: Entune Audio w/6.1 Screen -inc: Entune Multimedia Bundle (6.1 touch-screen display ~  AM/FM CD player ~  MP3/WMA playback capability ~  6 speakers ~  auxiliary audio jack ~  USB 2.0 port w/iPod connectivity and control ~  advanced voice recognition ~  hands-free phone capability ~  phone book access and music streaming via Bluetooth wireless technology) and Siri Eyes Free ~ Streaming Audio ~ 6 Speakers",
+    "listPrice": "$15,991"
+  }
+]

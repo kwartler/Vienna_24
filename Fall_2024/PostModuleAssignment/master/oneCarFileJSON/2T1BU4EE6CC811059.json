@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BU4EE6CC811059",
+    "trueCarID": 811059,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BU4EE6CC811059/2012-toyota-corolla/",
+    "listingDateDiff": "65 days ago",
+    "vehicleHistUseType": "Mixed Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "92,634",
+    "interiorColor": "Gray",
+    "exteriorColor": "Black",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Waukegan, IL",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$215/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$1,207 ",
+    "priceClassDiffAmt": "(9.3%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "(4) cup holders ~ 12V aux pwr outlet ~ 4-wheel anti-lock brakes -inc: brake assist- electronic brake force distribution ~ 60/40 split-folding rear bench seat ~ Air conditioning w/air filtration ~ ALR/ELR 3-point front & rear seatbelts -inc: front adjustable shoulder belt anchors- pretensioners- force limiters ~ Child protector rear door locks ~ Child restraint system w/LATCH anchors ~ Color-keyed door handles ~ Daytime Running Lamps ~ Direct tire pressure monitor ~ Driver seat height adjustment ~ Dual front airbags w/occupant sensors ~ Dual front map lights ~ Dual glove compartments ~ Dual visor vanity mirrors ~ Electric-assist pwr steering ~ Energy-absorbing steering column",
+    "listPrice": "$12,999"
+  }
+]

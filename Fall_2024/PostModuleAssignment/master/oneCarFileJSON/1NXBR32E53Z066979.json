@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "1NXBR32E53Z066979",
+    "trueCarID": "R30889",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/1NXBR32E53Z066979/2003-toyota-corolla/",
+    "listingDateDiff": "21 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "45,394",
+    "interiorColor": "Light Gray",
+    "exteriorColor": "Charcoal Gray Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Tulsa, OK",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$172/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$293 ",
+    "priceClassDiffAmt": "(2.8%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "4 Speakers ~ AM/FM radio ~ AM/FM Stereo w/CD & 4 Speakers ~ CD player ~ Air Conditioning ~ Rear window defroster ~ Power steering ~ Power windows ~ Remote keyless entry ~ Speed-sensing steering ~ Dual front impact airbags ~ Front anti-roll bar ~ Front wheel independent suspension ~ Rear anti-roll bar ~ Panic alarm ~ Bodyside moldings ~ Bumpers: body-color ~ Power door mirrors",
+    "listPrice": "$10,407"
+  }
+]

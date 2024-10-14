@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE6HC808839",
+    "trueCarID": "320958A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE6HC808839/2017-toyota-corolla/",
+    "listingDateDiff": "8 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "107,956",
+    "interiorColor": "Steel Gray",
+    "exteriorColor": "Maroon",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 2 owners",
+    "location": "Swanzey, NH",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$232/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Gas Engine Type ~ Regular Unleaded Fuel Type ~ 132 Horsepower ~ 6000 Horsepower RPM ~ 128 Torque ~ 4400 Torque RPM ~ 1.8 Engine Displacement ~ Inline Engine Configuration ~ 4 Cylinders ~ Variable Valvetrain ~ Double Overhead Valvetrain ~ 16 Number of Valves ~ 10.0 Compression Ratio ~ 28 EPA City Fuel Economy ~ 36 EPA Highway Fuel Economy ~ 32 EPA Combined Fuel Economy ~ Automatic Transmission Type ~ Continuously Variable",
+    "listPrice": "$13,995"
+  }
+]

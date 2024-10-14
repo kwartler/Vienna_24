@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFS4MCE8MP089355",
+    "trueCarID": "MP089355",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFS4MCE8MP089355/2021-toyota-corolla/",
+    "listingDateDiff": "63 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Theft Recovery",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "75,970",
+    "interiorColor": "Black",
+    "exteriorColor": "Blizzard Pearl",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Fort Lauderdale, FL",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$315/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$43 ",
+    "priceClassDiffAmt": "(0.2%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Lane Keeping Assist ~ Bluetooth Connection ~ Rear Spoiler ~ Black ~  Premium Fabric Seat Trim -Inc: Sport Fabric Inserts ~ Blizzard Pearl",
+    "listPrice": "$18,997"
+  }
+]

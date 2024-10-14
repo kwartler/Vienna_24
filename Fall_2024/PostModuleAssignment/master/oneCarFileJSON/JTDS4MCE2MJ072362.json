@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDS4MCE2MJ072362",
+    "trueCarID": "MJ072362",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDS4MCE2MJ072362/2021-toyota-corolla/",
+    "listingDateDiff": "7 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "42,100",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "Certified Pre-Owned",
+    "location": "Danvers, MA",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$381/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$46 ",
+    "priceClassDiffAmt": "(0.2%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "4 Cylinder Engine ~ 4-Wheel ABS ~ 4-Wheel Disc Brakes ~ A/C ~ Adaptive Cruise Control ~ Adjustable Steering Wheel ~ Aluminum Wheels ~ AM/FM Stereo ~ Apple CarPlay ~ Auto-Off Headlights ~ Back-Up Camera ~ Brake Assist ~ Bucket Seats ~ Child Safety Locks ~ Climate Control ~ Cloth Seats ~ Compact Spare Tire ~ Continuously Variable Trans",
+    "listPrice": "$22,997"
+  }
+]

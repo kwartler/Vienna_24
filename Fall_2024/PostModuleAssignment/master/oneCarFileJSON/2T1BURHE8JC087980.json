@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE8JC087980",
+    "trueCarID": 322407,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE8JC087980/2018-toyota-corolla/",
+    "listingDateDiff": "77 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "89,988",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": 2,
+    "location": "Redford, MI",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$247/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$76 ",
+    "priceClassDiffAmt": "(0.5%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "ABS (4-wheel) ~ Adaptive cruise control ~ Air filtration ~ Airbag deactivation (occupant sensing passenger) ~ Antenna type (element) ~ Anti-theft system (vehicle immobilizer) ~ Armrests (rear center with cupholders) ~ Armrests (rear folding) ~ Assist handle (front) ~ Assist handle (rear) ~ Automatic emergency braking (front pedestrian) ~ Automatic emergency braking (front) ~ Axle ratio (4.76) ~ Battery (maintenance-free) ~ Battery saver ~ Braking assist ~ Camera system (rearview) ~ Cargo area light",
+    "listPrice": "$14,899"
+  }
+]

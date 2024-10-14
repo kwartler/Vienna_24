@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFS4MCE0NP120938",
+    "trueCarID": 120938,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFS4MCE0NP120938/2022-toyota-corolla/?zipcode=02818",
+    "listingDateDiff": "Premium Wheels",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "6,430",
+    "interiorColor": "Black",
+    "exteriorColor": "Celestite",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Online Retailer",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$431/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Rear-View Camera ~ Adjustable Seats ~ Air Conditioning ~ Daytime Running Lights ~ Handsfree/Bluetooth Integration ~ Turn Signal Mirrors ~ 3-Point Seat Belts ~ 4-Wheel Disc Brakes ~ 5-Passenger Seating ~ Adjustable Steering Wheel ~ Anti-Lock Brakes ~ Auto Climate Control ~ Body Colored Door Handles ~ Cloth Seats ~ Dual Exhaust ~ Electric Parking Brake ~ Folding Mirrors ~ Front Airbags (Driver)",
+    "listPrice": "$25,999"
+  }
+]

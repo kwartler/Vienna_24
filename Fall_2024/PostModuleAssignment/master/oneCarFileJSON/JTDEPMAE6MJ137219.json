@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPMAE6MJ137219",
+    "trueCarID": 12832,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPMAE6MJ137219/2021-toyota-corolla/",
+    "listingDateDiff": "43 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "16,292",
+    "interiorColor": "Tan",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Sherman Oaks, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$371/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$236 ",
+    "priceClassDiffAmt": "(1.1%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Air filtration ~ Front air conditioning: automatic climate control ~ Front air conditioning zones: single ~ Airbag deactivation: occupant sensing passenger ~ Front airbags: dual ~ Knee airbags: driver ~ Seat cushion airbags: passenger front ~ Side airbags: front ~  rear ~ Side curtain airbags: front ~  rear ~ Antenna type: diversity ~  mast ~ Auxiliary audio input: Bluetooth ~  USB ~  iPod/iPhone ~  jack ~ Radio: AM/FM",
+    "listPrice": "$22,395"
+  }
+]

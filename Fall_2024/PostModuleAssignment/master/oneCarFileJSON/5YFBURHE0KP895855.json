@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE0KP895855",
+    "trueCarID": 895855,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE0KP895855/2019-toyota-corolla/",
+    "listingDateDiff": "2 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "46,366",
+    "interiorColor": "Ash",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "Tucson, AZ",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$298/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$397 ",
+    "priceClassDiffAmt": "(2.2%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Air filtration ~ Front air conditioning: automatic climate control ~ Front air conditioning zones: single ~ Airbag deactivation: occupant sensing passenger ~ Front airbags: dual ~  passenger seat cushion ~ Knee airbags: driver ~ Side airbags: front ~ Side curtain airbags: front ~  rear ~ Side-curtain airbag rollover sensor ~ Antenna type: element ~ Auxiliary audio input: Bluetooth ~  USB ~  iPod/iPhone ~  jack ~ In-Dash CD: MP3 Playback ~  single disc",
+    "listPrice": "$17,997"
+  }
+]

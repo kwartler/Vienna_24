@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFDPMAE8MP169113",
+    "trueCarID": 169113,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFDPMAE8MP169113/2021-toyota-corolla/",
+    "listingDateDiff": "30 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "34,512",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Hanover, MD",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$343/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$726 ",
+    "priceClassDiffAmt": "(3.5%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "4-Cyl 1.8 Liter ~ Automatic CVT ~ FWD ~ Hill Start Assist Control ~ Traction Control ~ Stability Control ~ Vehicle Dynamic Control ~ ABS (4-Wheel) ~ Air Conditioning ~ Power Windows ~ Power Door Locks ~ Dynamic Cruise Control ~ Remote Trunk Release ~ Power Steering ~ Tilt & Telescoping Wheel ~ AM/FM Stereo ~ SiriusXM Satellite ~ Bluetooth Wireless",
+    "listPrice": "$20,700"
+  }
+]

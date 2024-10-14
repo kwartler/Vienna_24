@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDBU4EE1B9133308",
+    "trueCarID": 133308,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDBU4EE1B9133308/2011-toyota-corolla/",
+    "listingDateDiff": "83 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "79,066",
+    "interiorColor": "Ash",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "Marietta, GA",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$199/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$632 ",
+    "priceClassDiffAmt": "(5.3%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Air Conditioning ~  Power Steering ~  Power Windows ~  Power Door Locks ~  Power Mirrors ~  Clock ~  Tachometer ~  Telescoping Steering Wheel ~  Driver Airbag ~  Passenger Airbag ~  Side Airbags ~  ABS Brakes ~  Traction Control ~  Dynamic Stability ~  Rear Defogger ~  Intermittent Wipers ~  AM/FM ~  CD Player",
+    "listPrice": "$11,995"
+  }
+]

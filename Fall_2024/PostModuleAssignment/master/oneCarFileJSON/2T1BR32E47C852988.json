@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BR32E47C852988",
+    "trueCarID": null,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BR32E47C852988/2007-toyota-corolla/",
+    "listingDateDiff": "8 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Salvage",
+    "vehicleHistNumOwners": 5,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "177,510",
+    "interiorColor": "Tan",
+    "exteriorColor": "Gold",
+    "style": "Sedan",
+    "accidentOwnership": "2 accidents, 5 owners",
+    "location": "Minneapolis, MN",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$83/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$70 ",
+    "priceClassDiffAmt": "(1.4%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Air Filtration ~  Center Console Trim - Simulated Wood ~  Dash Trim - Simulated Wood ~  Door Trim - Simulated Wood ~  Front Air Conditioning ~  Front Air Conditioning Zones - Single ~  Center Console - Front Console With Storage ~  Cupholders - Front ~  Multi-Function Remote - Keyless Entry ~  Power Outlet(S) - 12v Front ~  Power Steering - Variable/Speed-Proportional ~  Vanity Mirrors - Dual ~  Steering Wheel - Tilt ~  Cargo Area Light ~  Reading Lights - Front ~  One-Touch Windows - 1 ~  Front Brake Diameter - 10.8 ~  Front Brake Width - 1.0",
+    "listPrice": "$4,995"
+  }
+]

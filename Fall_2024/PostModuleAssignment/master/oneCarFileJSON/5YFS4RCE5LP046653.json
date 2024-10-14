@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFS4RCE5LP046653",
+    "trueCarID": "LP046653",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFS4RCE5LP046653/2020-toyota-corolla/",
+    "listingDateDiff": "71 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "32,892",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "Fontana, CA",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$419/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$3,047 ",
+    "priceClassDiffAmt": "(12%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "(Xm Radio ~  Abs ~  Back Up Camera) ~ 50 State Emissions ~ Nightshade Edition",
+    "listPrice": "$25,299"
+  }
+]

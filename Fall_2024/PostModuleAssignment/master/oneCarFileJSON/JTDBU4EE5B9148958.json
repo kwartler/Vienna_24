@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDBU4EE5B9148958",
+    "trueCarID": "70148958T",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDBU4EE5B9148958/2011-toyota-corolla/",
+    "listingDateDiff": "10 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "58,858",
+    "interiorColor": "Dark Charcoal",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Glendale Heights, IL",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$223/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$269 ",
+    "priceClassDiffAmt": "(2%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ Front Disc/Rear Drum Brakes ~ Wheel Covers ~ Steel Wheels ~ Tires - Front All-Season ~ Tires - Rear All-Season ~ Temporary Spare Tire ~ Heated Mirrors ~ Power Mirror(s) ~ Power Folding Mirrors ~ Intermittent Wipers ~ Variable Speed Intermittent Wipers ~ AM/FM Stereo ~ CD Player ~ MP3 Player ~ Auxiliary Audio Input ~ Cloth Seats",
+    "listPrice": "$13,486"
+  }
+]

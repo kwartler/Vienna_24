@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEAMDE8MJ029584",
+    "trueCarID": "76191A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEAMDE8MJ029584/2021-toyota-corolla/",
+    "listingDateDiff": "Premium Wheels",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Hybrid",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Hybrid",
+    "mileage": "9,134",
+    "interiorColor": "Black",
+    "exteriorColor": "Barcelona Red Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "Certified Pre-Owned",
+    "location": "Vancouver, WA",
+    "mileageRating": "53 cty / 52 hwy",
+    "monthlyPayment": "$489/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "4 Cylinder Engine ~ 4-Wheel ABS ~ 4-Wheel Disc Brakes ~ A/C ~ Adaptive Cruise Control ~ Adjustable Steering Wheel ~ Aluminum Wheels ~ AM/FM Stereo ~ Apple CarPlay ~ Auto-Off Headlights ~ Back-Up Camera ~ Blind Spot Monitor ~ Brake Assist ~ Bucket Seats ~ Child Safety Locks ~ Climate Control ~ Cloth Seats ~ Continuously Variable Trans",
+    "listPrice": "$29,483"
+  }
+]

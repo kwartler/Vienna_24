@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "1NXBU4EEXAZ265460",
+    "trueCarID": "AZ265460",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/1NXBU4EEXAZ265460/2010-toyota-corolla/",
+    "listingDateDiff": "38 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 4,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "140,001",
+    "interiorColor": "Gray - Ash",
+    "exteriorColor": "Silver - Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "South Gate, CA",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$116/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": null,
+    "allFeatures": "Air filtration ~ Front air conditioning ~ Front air conditioning zones - single ~ Airbag deactivation - occupant sensing passenger ~ Front airbags - dual ~ Side airbags - front ~ Side curtain airbags - front  ~  rear ~ Antenna type - element ~ Auxiliary audio input - jack ~ In-Dash CD - MP3 Playback  ~  single disc ~ Radio - AM / FM ~ Satellite radio - SiriusXM ready ~ Speed sensitive volume control ~ Total speakers - 4 ~ ABS - 4-wheel ~ Braking assist",
+    "listPrice": "$6,995"
+  }
+]

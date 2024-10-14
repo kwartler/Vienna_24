@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE8JC022711",
+    "trueCarID": "JC022711",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE8JC022711/2018-toyota-corolla/",
+    "listingDateDiff": "4 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "36,967",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Buena Park, CA",
+    "mileageRating": "28 cty / 35 hwy",
+    "monthlyPayment": "$331/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$351 ",
+    "priceClassDiffAmt": "(1.8%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Lane Keeping Assist ~ Bluetooth Connection ~ Rear Bumper Protector (Tms) (Ppo) ~ Rear Spoiler ~ All-Weather Floor Liner Package -Inc: Cargo Tray ~  All-Weather Floor Liners (Ppo) ~ Black ~  Fabric Seat Trim W/Softex -Inc: Sport Fabric Inserts ~ Classic Silver Metallic ~ 50 State Emissions",
+    "listPrice": "$19,995"
+  }
+]

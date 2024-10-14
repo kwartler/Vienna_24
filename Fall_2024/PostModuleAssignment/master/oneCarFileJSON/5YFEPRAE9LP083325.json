@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPRAE9LP083325",
+    "trueCarID": null,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPRAE9LP083325/2020-toyota-corolla/",
+    "listingDateDiff": "118 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "37,500",
+    "interiorColor": "Black",
+    "exteriorColor": "Teal",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "Chantilly, VA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$298/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$394 ",
+    "priceClassDiffAmt": "(2.2%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Door Handle Color - Body-Color ~  Front Bumper Color - Body-Color ~  Grille Color - Black ~  Mirror Color - Body-Color ~  Rear Bumper Color - Body-Color ~  Window Trim - Black ~  Air Filtration ~  Floor Material - Carpet ~  Front Air Conditioning - Automatic Climate Control ~  Front Air Conditioning Zones - Single ~  Shift Knob Trim - Urethane ~  Steering Wheel Trim - Urethane ~  Interior Accents - Chrome ~  Interior Accents - Color Keyed ~  Interior Accents - Metallic-Tone ~  Armrests - Rear Folding ~  Armrests - Rear Center With Cupholders ~  Adaptive Cruise Control",
+    "listPrice": "$17,999"
+  }
+]

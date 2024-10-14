@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE7FP207386",
+    "trueCarID": null,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE7FP207386/2015-toyota-corolla/",
+    "listingDateDiff": "79 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 3,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "93,287",
+    "interiorColor": "Charcoal",
+    "exteriorColor": "White",
+    "style": "Sedan",
+    "accidentOwnership": 3,
+    "location": "Dallas, TX",
+    "mileageRating": "29 cty / 37 hwy",
+    "monthlyPayment": "$212/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "Great Price",
+    "allFeatures": "Door Handle Color - Body-Color ~  Exhaust Tip Color - Chrome ~  Front Bumper Color - Body-Color ~  Grille Color - Black ~  Grille Color - Chrome Surround ~  Mirror Color - Body-Color ~  Rear Bumper Color - Body-Color ~  Rear Spoiler ~  Rear Spoiler Color - Body-Color ~  Window Trim - Black ~  Air Filtration ~  Front Air Conditioning - Automatic Climate Control ~  Front Air Conditioning Zones - Single ~  Steering Wheel Trim - Leather ~  Interior Accents - Color Keyed ~  Interior Accents - Metallic-Tone ~  Armrests - Rear Center With Cupholders ~  Assist Handle - Front",
+    "listPrice": "$12,799"
+  }
+]

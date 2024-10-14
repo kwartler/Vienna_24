@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEAMDE2NJ057981",
+    "trueCarID": "B18503",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEAMDE2NJ057981/2022-toyota-corolla/",
+    "listingDateDiff": "55 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Hybrid",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Hybrid",
+    "mileage": "4,354",
+    "interiorColor": "Black",
+    "exteriorColor": "Blueprint",
+    "style": "Sedan",
+    "accidentOwnership": "Certified Pre-Owned",
+    "location": "Vancouver, WA",
+    "mileageRating": "53 cty / 52 hwy",
+    "monthlyPayment": "$512/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$247 ",
+    "priceClassDiffAmt": "(0.8%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "4 Cylinder Engine ~ 4-Wheel ABS ~ 4-Wheel Disc Brakes ~ A/C ~ Adaptive Cruise Control ~ Adjustable Steering Wheel ~ Aluminum Wheels ~ AM/FM Stereo ~ Apple CarPlay ~ Auto-Off Headlights ~ Back-Up Camera ~ Blind Spot Monitor ~ Brake Assist ~ Bucket Seats ~ Child Safety Locks ~ Climate Control ~ Cloth Seats ~ Continuously Variable Trans",
+    "listPrice": "$30,884"
+  }
+]

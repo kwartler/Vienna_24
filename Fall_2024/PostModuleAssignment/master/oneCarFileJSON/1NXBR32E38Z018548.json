@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "1NXBR32E38Z018548",
+    "trueCarID": 18548,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/1NXBR32E38Z018548/2008-toyota-corolla/",
+    "listingDateDiff": "196 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 5,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "123,441",
+    "interiorColor": "Dark Charcoal",
+    "exteriorColor": "Silver Streak Mica",
+    "style": "Sedan",
+    "accidentOwnership": "2 accidents, 5 owners",
+    "location": "Vernon Rockville, CT",
+    "mileageRating": "28 cty / 37 hwy",
+    "monthlyPayment": "$99/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "$1 ",
+    "priceClassDiffAmt": "below",
+    "priceClassification": "Great Price",
+    "allFeatures": "4 Cylinder Engine ~ A/C ~ Adjustable Steering Wheel ~ AM/FM Stereo ~ Power Outlet ~ Bucket Seats ~ CD Player ~ Child Safety Locks ~ Cloth Seats ~ Temporary Spare Tire ~ Daytime Running Lights ~ Driver Air Bag ~ Driver Vanity Mirror ~ Emergency Trunk Release ~ Front Disc/Rear Drum Brakes ~ Front Wheel Drive ~ Gasoline Fuel ~ Intermittent Wipers",
+    "listPrice": "$5,997"
+  }
+]

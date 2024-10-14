@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBU4EE8DP154556",
+    "trueCarID": "DP154556",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBU4EE8DP154556/2013-toyota-corolla/",
+    "listingDateDiff": "52 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 5,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "155,657",
+    "interiorColor": "Ash",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 5 owners",
+    "location": "Winter Park, FL",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$179/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$746 ",
+    "priceClassDiffAmt": "(6.9%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Bluetooth Connection ~ Ash ~  Fabric Seat Trim ~ Classic Silver Metallic ~ 50 State Emissions",
+    "listPrice": "$10,795"
+  }
+]

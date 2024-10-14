@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPMAE6MJ164338",
+    "trueCarID": "68406A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPMAE6MJ164338/2021-toyota-corolla/",
+    "listingDateDiff": "7 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "33,966",
+    "interiorColor": "Black",
+    "exteriorColor": "Celestite",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "League City, TX",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$381/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "Fair Price",
+    "allFeatures": "Gas Engine Type ~ Regular Unleaded Fuel Type ~ 139 Horsepower ~ 6100 Horsepower RPM ~ 126 Torque ~ 3900 Torque RPM ~ 1.8 Engine Displacement ~ Inline Engine Configuration ~ 4 Cylinders ~ Variable Valvetrain ~ Double Overhead Valvetrain ~ 16 Number of Valves ~ 10.69 Compression Ratio ~ 30 EPA City Fuel Economy ~ 38 EPA Highway Fuel Economy ~ 33 EPA Combined Fuel Economy ~ Automatic Transmission Type ~ Continuously Variable",
+    "listPrice": "$22,994"
+  }
+]

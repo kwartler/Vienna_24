@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFS4RCE2LP035058",
+    "trueCarID": "UN16533",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFS4RCE2LP035058/2020-toyota-corolla/",
+    "listingDateDiff": "38 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "28,929",
+    "interiorColor": "Gray",
+    "exteriorColor": "Barcelona Red Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Jackson Heights, NY",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$381/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$1,137 ",
+    "priceClassDiffAmt": "(4.9%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Gas Engine Type ~ Regular Unleaded Fuel Type ~ 169 Horsepower ~ 6600 Horsepower RPM ~ 151 Torque ~ 4400 Torque RPM ~ 2.0 Engine Displacement ~ Inline Engine Configuration ~ 4 Cylinders ~ Variable Valvetrain ~ Double Overhead Valvetrain ~ 16 Number of Valves ~ 13.0 Compression Ratio ~ Sport Mode ~ 31 EPA City Fuel Economy ~ 40 EPA Highway Fuel Economy ~ 34 EPA Combined Fuel Economy ~ Automatic Transmission Type",
+    "listPrice": "$22,998"
+  }
+]

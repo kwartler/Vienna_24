@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDS4RCE4LJ024177",
+    "trueCarID": "KTDH024177",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDS4RCE4LJ024177/2020-toyota-corolla/",
+    "listingDateDiff": "55 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "56,661",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 2,
+    "location": "West Palm Beach, FL",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$290/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$622 ",
+    "priceClassDiffAmt": "(3.6%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "6 Speakers ~ Radio data system ~ Air Conditioning ~ Automatic temperature control ~ Rear window defroster ~ Power steering ~ Power windows ~ Remote keyless entry ~ Steering wheel mounted audio controls ~ Four wheel independent suspension ~ Traction control ~ 4-Wheel Disc Brakes ~ ABS brakes ~ Dual front impact airbags ~ Dual front side impact airbags ~ Front anti-roll bar ~ Knee airbag ~ Low tire pressure warning",
+    "listPrice": "$17,480"
+  }
+]

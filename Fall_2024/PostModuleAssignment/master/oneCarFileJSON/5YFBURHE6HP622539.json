@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE6HP622539",
+    "trueCarID": 22713,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE6HP622539/2017-toyota-corolla/",
+    "listingDateDiff": "51 days ago",
+    "vehicleHistUseType": "Mixed Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 6,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "117,844",
+    "interiorColor": "Steel Gray",
+    "exteriorColor": "Blue",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 6 owners",
+    "location": "Decatur, IN",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$224/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$26 ",
+    "priceClassDiffAmt": "(0.2%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Gas Engine Type ~ Regular Unleaded Fuel Type ~ 132 Horsepower ~ 6000 Horsepower RPM ~ 128 Torque ~ 4400 Torque RPM ~ 1.8 Engine Displacement ~ Inline Engine Configuration ~ 4 Cylinders ~ Variable Valvetrain ~ Double Overhead Valvetrain ~ 16 Number of Valves ~ 10.0 Compression Ratio ~ 28 EPA City Fuel Economy ~ 36 EPA Highway Fuel Economy ~ 32 EPA Combined Fuel Economy ~ Automatic Transmission Type ~ Continuously Variable",
+    "listPrice": "$13,495"
+  }
+]

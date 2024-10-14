@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "1NXBU4EE5AZ325774",
+    "trueCarID": "temp21105",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/1NXBU4EE5AZ325774/2010-toyota-corolla/",
+    "listingDateDiff": "11 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 6,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "108,376",
+    "interiorColor": "Gray",
+    "exteriorColor": "Green",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Raleigh, NC",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$192/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$709 ",
+    "priceClassDiffAmt": "(6.1%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "(2) 12V aux pwr outlets ~ (4) cup holders ~ 1.8L DOHC SFI 16-valve VVT-i 4-cyl engine ~ 4-wheel anti-lock brakes -inc: brake assist- electronic brake force distribution ~ 60/40 split-folding rear bench seat ~ ALR/ELR 3-point front & rear seatbelts -inc: front adjustable shoulder belt anchors- pretensioners- force limiters ~ Blackout front grille ~ Child protector rear door locks ~ Child restraint system w/LATCH anchors ~ Color-keyed door handles ~ Daytime running lamps ~ Digital clock ~ Direct tire pressure monitor ~ Driver seat height adjustment ~ Dual front airbags w/occupant sensors ~ Dual glove compartments ~ Dual visor vanity mirrors ~ Electric-assist pwr steering",
+    "listPrice": "$11,590"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BR12E4XC205754",
+    "trueCarID": "P5754",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BR12E4XC205754/1999-toyota-corolla/",
+    "listingDateDiff": "7 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "50,356",
+    "interiorColor": "Gray",
+    "exteriorColor": "Tan",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Stafford, VA",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$91/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$463 ",
+    "priceClassDiffAmt": "(8.4%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "Power Windows ~ Power Door Locks ~ Air Conditioning ~ Child Safety Door Locks ~ Tilt Steering Column ~ Rear Window Defogger ~ Cassette Player ~ Passenger Airbag ~ Tachometer",
+    "listPrice": "$5,495"
+  }
+]

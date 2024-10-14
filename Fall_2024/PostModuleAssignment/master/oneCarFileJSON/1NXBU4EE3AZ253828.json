@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "1NXBU4EE3AZ253828",
+    "trueCarID": "T5897C",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/1NXBU4EE3AZ253828/2010-toyota-corolla/",
+    "listingDateDiff": "16 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "116,495",
+    "interiorColor": "Bisque",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "Mount Airy, NC",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$206/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$685 ",
+    "priceClassDiffAmt": "(5.5%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "4-Wheel ABS ~ A/C ~ Adjustable Steering Wheel ~ AM/FM Stereo ~ Auxiliary Pwr Outlet ~ Brake Assist ~ Bucket Seats ~ CD Player ~ Child Safety Locks ~ Cloth Seats ~ Compact Spare Tire ~ Cruise Control ~ Daytime Running Lights ~ Driver Air Bag ~ Driver Vanity Mirror ~ Electronic Stability Control ~ Emergency Trunk Release ~ Front Disc/Rear Drum Brakes",
+    "listPrice": "$12,452"
+  }
+]

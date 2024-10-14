@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDFPRAE8LJ021620",
+    "trueCarID": "T230453A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDFPRAE8LJ021620/2020-toyota-corolla/",
+    "listingDateDiff": "12 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "27,697",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "Certified Pre-Owned",
+    "location": "Delaware, OH",
+    "mileageRating": "29 cty / 37 hwy",
+    "monthlyPayment": "$398/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$221 ",
+    "priceClassDiffAmt": "(0.9%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "All-Weather Floor Liner Package ~ 6 Speakers ~ AM/FM radio: SiriusXM ~ Radio data system ~ Radio: Audio Plus AM/FM/HD w/Navigation ~ Air Conditioning ~ Automatic temperature control ~ Rear window defroster ~ Power driver seat ~ Power steering ~ Power windows ~ Remote keyless entry ~ Steering wheel mounted audio controls ~ Four wheel independent suspension ~ Traction control ~ 4-Wheel Disc Brakes ~ ABS brakes ~ Dual front impact airbags",
+    "listPrice": "$23,999"
+  }
+]

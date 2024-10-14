@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDBU4EE5B9145378",
+    "trueCarID": "T145378",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDBU4EE5B9145378/2011-toyota-corolla/",
+    "listingDateDiff": "118 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 5,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "116,826",
+    "interiorColor": "Gray",
+    "exteriorColor": "Silver",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Anchorage, AK",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$199/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$67 ",
+    "priceClassDiffAmt": "(0.6%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Door Handle Color - Body-Color ~  Grille Color - Body-Color ~  Mirror Color - Black ~  Steering Ratio - 17.4 ~  Turns Lock-To-Lock - 3.40 ~  Air Filtration ~  Front Air Conditioning ~  Front Air Conditioning Zones - Single ~  Cargo Area Light ~  Center Console - Front Console With Storage ~  Cupholders - Front ~  Cupholders - Rear ~  Power Outlet(S) - 12v ~  Power Steering ~  Reading Lights - Front ~  Steering Wheel - Tilt And Telescopic ~  Storage - Door Pockets ~  Front Brake Type - Ventilated Disc",
+    "listPrice": "$11,995"
+  }
+]

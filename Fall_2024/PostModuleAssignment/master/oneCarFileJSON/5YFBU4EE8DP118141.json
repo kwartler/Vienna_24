@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBU4EE8DP118141",
+    "trueCarID": 22798012,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBU4EE8DP118141/2013-toyota-corolla/?zipcode=33064",
+    "listingDateDiff": "7 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "47,521",
+    "interiorColor": "Gray",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Pompano Beach, FL",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$282/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$230 ",
+    "priceClassDiffAmt": "(1.4%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Cruise Control ~ Auxiliary Audio Input ~ Overhead Airbags ~ Traction Control ~ Side Airbags ~ Air Conditioning ~ ABS Brakes ~ Power Locks ~ Power Mirrors ~ AM/FM Stereo ~ Rear Defroster ~ CD Audio ~ Power Windows ~ Cloth Seats ~ Automatic Transmission ~ 2 keys, guaranteed",
+    "listPrice": "$16,998"
+  }
+]

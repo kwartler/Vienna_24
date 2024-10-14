@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE3KC245854",
+    "trueCarID": "S8443T",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE3KC245854/2019-toyota-corolla/",
+    "listingDateDiff": "65 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 4,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "62,358",
+    "interiorColor": "Steel Gray",
+    "exteriorColor": "Galactic Aqua Mica",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 4 owners",
+    "location": "Columbus, OH",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$273/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$964 ",
+    "priceClassDiffAmt": "(5.8%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ Front Disc/Rear Drum Brakes ~ Brake Assist ~ Steel Wheels ~ Tires - Front Performance ~ Tires - Rear Performance ~ Wheel Covers ~ Temporary Spare Tire ~ Heated Mirrors ~ Power Mirror(s) ~ Rear Defrost ~ Intermittent Wipers ~ Variable Speed Intermittent Wipers ~ Automatic Highbeams ~ Automatic Headlights ~ LED Headlights",
+    "listPrice": "$16,500"
+  }
+]

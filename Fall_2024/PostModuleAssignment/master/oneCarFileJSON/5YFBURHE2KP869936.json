@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE2KP869936",
+    "trueCarID": "C869936",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE2KP869936/2019-toyota-corolla/",
+    "listingDateDiff": "5 days ago",
+    "vehicleHistUseType": "Mixed Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "122,981",
+    "interiorColor": "Ash/Dark Gray, Premium Cloth",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 3 owners",
+    "location": "Fairfield, OH",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$240/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "ABS Brakes ~ Adjustable Foot Pedals ~ Air Conditioning ~ Alloy Wheels ~ AM/FM Radio ~ Automatic Headlights ~ Automatic Load-Leveling ~ Captains Chair ~ Cargo Area Cover ~ Cargo Area Tiedowns ~ Cargo Net ~ CD Changer ~ CD Player ~ Child Safety Door Locks ~ Chrome Wheels ~ Cruise Control ~ Daytime Running Lights ~ Deep Tinted Glass",
+    "listPrice": "$14,500"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BR32E76C664271",
+    "trueCarID": null,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BR32E76C664271/2006-toyota-corolla/",
+    "listingDateDiff": "22 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "135,914",
+    "interiorColor": "Silver",
+    "exteriorColor": "Gray",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 3 owners",
+    "location": "Wrightsville, PA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$126/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Air Filtration ~  Center Console Trim - Simulated Wood ~  Dash Trim - Simulated Wood ~  Door Trim - Simulated Wood ~  Front Air Conditioning ~  Front Air Conditioning Zones - Single ~  Cargo Area Light ~  Center Console - Front Console With Storage ~  Cupholders ~  Multi-Function Remote - Keyless Entry ~  Multi-Function Remote - Trunk Release ~  Power Outlet(S) - Front ~  Power Steering ~  Reading Lights - Front ~  Steering Wheel - Tilt ~  Storage - Door Pockets ~  Front Brake Type - Ventilated Disc ~  Front Struts - Macpherson",
+    "listPrice": "$7,600"
+  }
+]

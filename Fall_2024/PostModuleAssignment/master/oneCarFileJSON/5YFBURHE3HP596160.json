@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE3HP596160",
+    "trueCarID": "A211212",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE3HP596160/2017-toyota-corolla/",
+    "listingDateDiff": "118 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "110,430",
+    "interiorColor": "Black",
+    "exteriorColor": "Blue",
+    "style": "Sedan",
+    "accidentOwnership": "2 accidents, 2 owners",
+    "location": "Fairfield, OH",
+    "mileageRating": "28 cty / 35 hwy",
+    "monthlyPayment": "$248/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$371 ",
+    "priceClassDiffAmt": "(2.5%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Door Handle Color - Body-Color ~  Front Bumper Color - Body-Color ~  Grille Color - Black ~  Mirror Color - Body-Color ~  Rear Bumper Color - Body-Color ~  Window Trim - Black ~  Steering Ratio - 17.8 ~  Turns Lock-To-Lock - 3.2 ~  Air Filtration ~  Floor Material - Carpet ~  Front Air Conditioning Zones - Single ~  Shift Knob Trim - Alloy ~  Adaptive Cruise Control ~  Assist Handle - Front ~  Assist Handle - Rear ~  Center Console - Front Console With Armrest And Storage ~  Cupholders - Front ~  One-Touch Windows - 1",
+    "listPrice": "$14,994"
+  }
+]

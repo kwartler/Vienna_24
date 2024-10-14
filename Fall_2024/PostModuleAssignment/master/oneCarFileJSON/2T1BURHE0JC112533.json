@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE0JC112533",
+    "trueCarID": 23707900,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE0JC112533/2018-toyota-corolla/?zipcode=04106",
+    "listingDateDiff": "2 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "39,573",
+    "interiorColor": "Black",
+    "exteriorColor": "Falcon Gray Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "South Portland, ME",
+    "mileageRating": "28 cty / 35 hwy",
+    "monthlyPayment": "$365/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$770 ",
+    "priceClassDiffAmt": "(3.5%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Rear View Camera ~ Auxiliary Audio Input ~ Rear Spoiler ~ Alloy Wheels ~ Overhead Airbags ~ Traction Control ~ Side Airbags ~ Air Conditioning ~ ABS Brakes ~ Power Locks ~ Power Mirrors ~ AM/FM Stereo ~ Satellite Radio Ready ~ Rear Defroster ~ CD Audio ~ Power Windows ~ Automatic Transmission ~ Automated Cruise Control",
+    "listPrice": "$21,998"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE2GP446541",
+    "trueCarID": 446541,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE2GP446541/2016-toyota-corolla/",
+    "listingDateDiff": "104 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "81,254",
+    "interiorColor": "Gray",
+    "exteriorColor": "White",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "San Diego, CA",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$265/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$197 ",
+    "priceClassDiffAmt": "(1.2%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Gas Engine Type ~ Regular Unleaded Fuel Type ~ 132 Horsepower ~ 6000 Horsepower RPM ~ 128 Torque ~ 4400 Torque RPM ~ 1.8 Engine Displacement ~ Inline Engine Configuration ~ 4 Cylinders ~ 29 EPA City Fuel Economy ~ 38 EPA Highway Fuel Economy ~ 32 EPA Combined Fuel Economy ~ Automatic Transmission Type ~ Continuously Variable ~ 1 Gear Number ~ 2.48 First Gear Ratio ~ 2.6 Reverse Gear Ratio ~ Disc Front Brakes",
+    "listPrice": "$15,995"
+  }
+]

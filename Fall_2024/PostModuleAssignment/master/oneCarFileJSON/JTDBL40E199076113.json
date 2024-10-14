@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDBL40E199076113",
+    "trueCarID": "B1073",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDBL40E199076113/2009-toyota-corolla/",
+    "listingDateDiff": "44 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "74,300",
+    "interiorColor": "Gray",
+    "exteriorColor": "Silver",
+    "style": "Sedan",
+    "accidentOwnership": "2 accidents, 2 owners",
+    "location": "Elkridge, MD",
+    "mileageRating": "27 cty / 35 hwy",
+    "monthlyPayment": "$182/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$24 ",
+    "priceClassDiffAmt": "(0.2%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "4-Cyl 1.8 Liter ~ Automatic 4-Spd w/Overdrive ~ FWD ~ Traction Control ~ Stability Control ~ ABS (4-Wheel) ~ Anti-Theft System ~ Keyless Entry ~ Air Conditioning ~ Power Windows ~ Power Door Locks ~ Cruise Control ~ Power Steering ~ Tilt Wheel ~ AM/FM Stereo ~ CD/MP3 (Multi Disc) ~ Dual Air Bags ~ Side Air Bags",
+    "listPrice": "$10,995"
+  }
+]

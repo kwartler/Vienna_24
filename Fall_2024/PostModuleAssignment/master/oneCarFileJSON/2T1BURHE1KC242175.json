@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE1KC242175",
+    "trueCarID": "LP00597A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE1KC242175/2019-toyota-corolla/",
+    "listingDateDiff": "24 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "128,705",
+    "interiorColor": "Black",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Silver Spring, MD",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$248/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "4 ~ Cylinder ~ Engine. ~ A/C. ~ A/T. ~ ABS. ~ Adjustable ~ Steering ~ Wheel. ~ Aluminum ~ Wheels. ~ AM/FM ~ Stereo. ~ Automatic ~ Headlights. ~ Auxiliary ~ Audio ~ Input.",
+    "listPrice": "$14,990"
+  }
+]

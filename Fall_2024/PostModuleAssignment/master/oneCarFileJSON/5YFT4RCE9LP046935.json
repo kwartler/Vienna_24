@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFT4RCE9LP046935",
+    "trueCarID": "L046935",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFT4RCE9LP046935/2020-toyota-corolla/",
+    "listingDateDiff": "119 days ago",
+    "vehicleHistUseType": "Mixed Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "42,366",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Lynnwood, WA",
+    "mileageRating": "31 cty / 38 hwy",
+    "monthlyPayment": "$462/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$1,250 ",
+    "priceClassDiffAmt": "(4.5%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "ABS (4-wheel) ~ Adaptive cruise control ~ Adaptive stop and go cruise control (semi-automatic) ~ Air filtration ~ Airbag deactivation (occupant sensing passenger) ~ Antenna type (diversity) ~ Antenna type (mast) ~ Anti-theft system (vehicle immobilizer) ~ Armrests (rear center with cupholders) ~ Armrests (rear folding) ~ Assist handle (front) ~ Assist handle (rear) ~ Automatic emergency braking (front pedestrian) ~ Automatic emergency braking (front) ~ Autonomous lane guidance (lane centering) ~ Axle ratio (3.79) ~ Battery (maintenance-free) ~ Battery saver",
+    "listPrice": "$27,895"
+  }
+]

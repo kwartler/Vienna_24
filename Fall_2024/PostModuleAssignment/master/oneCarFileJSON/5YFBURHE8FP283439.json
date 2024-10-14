@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE8FP283439",
+    "trueCarID": "FP283439T",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE8FP283439/2015-toyota-corolla/",
+    "listingDateDiff": "1 day ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "58,024",
+    "interiorColor": "Ash",
+    "exteriorColor": "Slate Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Milpitas, CA",
+    "mileageRating": "27 cty / 36 hwy",
+    "monthlyPayment": "$255/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$585 ",
+    "priceClassDiffAmt": "(3.8%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "4 Speakers ~ AM/FM radio ~ AM/FM/CD Player ~ CD player ~ MP3 decoder ~ Air Conditioning ~ Rear window defroster ~ Power steering ~ Power windows ~ Steering wheel mounted audio controls ~ Speed-sensing steering ~ Traction control ~ ABS brakes ~ Dual front impact airbags ~ Dual front side impact airbags ~ Front anti-roll bar ~ Front wheel independent suspension ~ Knee airbag",
+    "listPrice": "$15,398"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPRAE7LP004511",
+    "trueCarID": 21455,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPRAE7LP004511/2020-toyota-corolla/",
+    "listingDateDiff": "118 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "17,989",
+    "interiorColor": "Light Gray",
+    "exteriorColor": "Celestite",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Laguna Hills, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$413/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$1,337 ",
+    "priceClassDiffAmt": "(5.4%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Door Handle Color - Body-Color ~  Front Bumper Color - Body-Color ~  Grille Color - Black ~  Mirror Color - Body-Color ~  Rear Bumper Color - Body-Color ~  Window Trim - Black ~  Air Filtration ~  Armrests - Rear Center With Cupholders ~  Armrests - Rear Folding ~  Floor Material - Carpet ~  Front Air Conditioning - Automatic Climate Control ~  Front Air Conditioning Zones - Single ~  Interior Accents - Chrome ~  Interior Accents - Color Keyed ~  Interior Accents - Metallic-Tone ~  Shift Knob Trim - Urethane ~  Steering Wheel Trim - Urethane ~  Adaptive Cruise Control",
+    "listPrice": "$24,900"
+  }
+]

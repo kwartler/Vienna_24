@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE2FC441757",
+    "trueCarID": 2017,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE2FC441757/2015-toyota-corolla/",
+    "listingDateDiff": "82 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Theft Recovery",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "88,000",
+    "interiorColor": "Gray",
+    "exteriorColor": "Black",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 3 owners",
+    "location": "Manassas, VA",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$232/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$277 ",
+    "priceClassDiffAmt": "(2%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Door Handle Color - Body-Color ~  Front Bumper Color - Body-Color ~  Grille Color - Black ~  Mirror Color - Body-Color ~  Rear Bumper Color - Body-Color ~  Window Trim - Black ~  Steering Ratio - 17.8 ~  Turns Lock-To-Lock - 3.2 ~  Air Filtration ~  Armrests - Rear Center With Cupholders ~  Front Air Conditioning - Automatic Climate Control ~  Front Air Conditioning Zones - Single ~  Interior Accents - Color Keyed ~  Interior Accents - Metallic-Tone ~  Assist Handle - Front ~  Assist Handle - Rear ~  Cargo Area Light ~  Center Console - Front Console With Armrest And Storage",
+    "listPrice": "$13,990"
+  }
+]

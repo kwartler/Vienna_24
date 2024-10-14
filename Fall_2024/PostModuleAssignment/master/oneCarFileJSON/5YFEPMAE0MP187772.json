@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE0MP187772",
+    "trueCarID": "B31027",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE0MP187772/2021-toyota-corolla/",
+    "listingDateDiff": "31 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "44,719",
+    "interiorColor": "Black",
+    "exteriorColor": "Barcelona Red Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Burbank, IL",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$331/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Backup Cam - Car Play - Adaptive Cruise Control - Tire Pressure Monitor - Smart Device Integration - Bluetooth - Wifi Hotspot - Led Headlights - Lane Departure Warning - Lane Keeping Assist - Cruise Control Steering Assist - Driver Monitoring Alert - Front Collision Mitigation - Lane Tracing Assist - Brake Assist ~ 50 State Emissions ~ Barcelona Red Metallic ~ Fleet Credit",
+    "listPrice": "$19,995"
+  }
+]

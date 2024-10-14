@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDS4MCE4MJ068927",
+    "trueCarID": "B2753A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDS4MCE4MJ068927/2021-toyota-corolla/",
+    "listingDateDiff": "8 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "22,971",
+    "interiorColor": "Moonstone",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "Certified Pre-Owned",
+    "location": "Pompano Beach, FL",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$365/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$104 ",
+    "priceClassDiffAmt": "(0.5%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ 4-Wheel Disc Brakes ~ Brake Assist ~ Aluminum Wheels ~ Tires - Front Performance ~ Tires - Rear Performance ~ Temporary Spare Tire ~ Heated Mirrors ~ Power Mirror(s) ~ Integrated Turn Signal Mirrors ~ Rear Defrost ~ Intermittent Wipers ~ Variable Speed Intermittent Wipers ~ Rear Spoiler ~ Daytime Running Lights ~ Automatic Headlights",
+    "listPrice": "$21,998"
+  }
+]

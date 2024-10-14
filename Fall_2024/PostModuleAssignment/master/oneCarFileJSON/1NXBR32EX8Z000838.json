@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "1NXBR32EX8Z000838",
+    "trueCarID": "2023-009",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/1NXBR32EX8Z000838/2008-toyota-corolla/",
+    "listingDateDiff": "2 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "139,981",
+    "interiorColor": "Gray",
+    "exteriorColor": "Black",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 3 owners",
+    "location": "Gainesville, FL",
+    "mileageRating": "26 cty / 35 hwy",
+    "monthlyPayment": "$124/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$57 ",
+    "priceClassDiffAmt": "(0.8%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Air Conditioning ~ AM/FM Radio ~ CD Player ~ Child Safety Door Locks ~ Daytime Running Lights ~ Driver Airbag ~ Fog Lights ~ Front Air Dam ~ Interval Wipers ~ Leather Steering Wheel ~ Owners Manual ~ Passenger Airbag ~ Power Adjustable Exterior Mirror ~ Power Door Locks ~ Power Mirrors ~ Power Steering ~ Power Windows ~ Rear Defroster",
+    "listPrice": "$7,500"
+  }
+]

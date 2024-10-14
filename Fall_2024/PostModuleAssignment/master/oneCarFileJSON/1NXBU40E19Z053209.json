@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "1NXBU40E19Z053209",
+    "trueCarID": "C947",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/1NXBU40E19Z053209/2009-toyota-corolla/",
+    "listingDateDiff": "176 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 4,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "170,658",
+    "interiorColor": "Ash",
+    "exteriorColor": "Magnetic Gray Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Addison, IL",
+    "mileageRating": "27 cty / 35 hwy",
+    "monthlyPayment": "$115/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$79 ",
+    "priceClassDiffAmt": "(1.1%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Air Conditioning ~  Power Steering ~  Power Mirrors ~  Clock ~  Tachometer ~  Telescoping Steering Wheel ~  Driver Airbag ~  Passenger Airbag ~  Side Airbags ~  ABS Brakes ~  Rear Defogger ~  Intermittent Wipers ~  AM/FM ~  CD Player ~  Anti-Theft ~  Cloth Interior Surface ~  12v Power Outlet ~  Aux. Audio Input",
+    "listPrice": "$6,950"
+  }
+]

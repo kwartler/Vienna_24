@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE6MP194810",
+    "trueCarID": "24497A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE6MP194810/2021-toyota-corolla/",
+    "listingDateDiff": "23 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "45,365",
+    "interiorColor": "Black",
+    "exteriorColor": "Unknown",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Jacksonville, AR",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$348/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Wifi Capable ~ Phone Wireless Data Link Bluetooth ~ Phone Hands Free ~ Electronic Messaging Assistance With Read Function ~ Electronic Messaging Assistance With Voice Recognition ~ Vehicle Assistance App - Roadside Assistance ~ Audio - SiriusXM Satellite Radio ~ Audio System 6 Speakers ~ Audio Streaming: Bluetooth ~ Audio Auxiliary Input: USB ~ Audio Auxiliary Input: IPod/IPhone Integration ~ Audio Auxiliary Input: Jack ~ Audio Voice Recognition ~ Audio - Radio: Touch Screen Display ~ Audio - Radio: AM/FM ~ Audio - Radio Data System ~ Audio - Speed Sensitive Volume Control ~ Audio - Antenna: Mast",
+    "listPrice": "$20,998"
+  }
+]

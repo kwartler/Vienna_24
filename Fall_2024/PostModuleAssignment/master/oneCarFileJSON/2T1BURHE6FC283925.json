@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE6FC283925",
+    "trueCarID": 12848,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE6FC283925/2015-toyota-corolla/",
+    "listingDateDiff": "24 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 5,
+    "vehicleHistAccidents": 3,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "127,882",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Gry",
+    "style": "Sedan",
+    "accidentOwnership": "3 accidents, 5 owners",
+    "location": "Orlando, FL",
+    "mileageRating": "27 cty / 36 hwy",
+    "monthlyPayment": "$149/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Air Conditioning ~  Power Windows ~  Power Locks ~  Power Steering ~  Tilt Wheel ~  AM/FM CD/MP3 ~  Satellite ~  Immobilizer ~  Keyless Entry ~  Daytime Running Lights ~  Dual Front Airbags ~  Side Airbags ~  Head Airbags ~  Rear Head Airbags ~  Active Seatbelts ~  All Wheel ABS",
+    "listPrice": "$8,995"
+  }
+]

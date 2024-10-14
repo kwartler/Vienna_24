@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAE4LJ048096",
+    "trueCarID": "LJ048096",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAE4LJ048096/2020-toyota-corolla/",
+    "listingDateDiff": "40 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "48,924",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "Norco, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$302/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$384 ",
+    "priceClassDiffAmt": "(2.1%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "(W/Lane ~ Departure ~ Alert ~ W/ ~ Steering ~ Assist ~ & ~ 8\" ~ Touchscreen ~ Display ~ )",
+    "listPrice": "$18,199"
+  }
+]

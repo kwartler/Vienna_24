@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE4JC051669",
+    "trueCarID": "051669C",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE4JC051669/2018-toyota-corolla/",
+    "listingDateDiff": "44 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "62,643",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Wht",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 3 owners",
+    "location": "Augusta, GA",
+    "mileageRating": "28 cty / 35 hwy",
+    "monthlyPayment": "$313/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$701 ",
+    "priceClassDiffAmt": "(3.7%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "4-Cyl 1.8 Liter ~ Automatic CVTi-S ~ FWD ~ Hill Start Assist Control ~ Traction Control ~ Stability Control ~ ABS (4-Wheel) ~ Keyless Entry ~ Air Conditioning ~ Power Windows ~ Power Door Locks ~ Dynamic Cruise Control ~ Power Trunk Release ~ Power Steering ~ Tilt & Telescoping Wheel ~ AM/FM Stereo ~ CD/MP3 (Single Disc) ~ Bluetooth Wireless",
+    "listPrice": "$18,875"
+  }
+]

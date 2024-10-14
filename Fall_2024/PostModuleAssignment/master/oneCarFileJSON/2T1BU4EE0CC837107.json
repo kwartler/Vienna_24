@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BU4EE0CC837107",
+    "trueCarID": "230460A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BU4EE0CC837107/2012-toyota-corolla/",
+    "listingDateDiff": "26 days ago",
+    "vehicleHistUseType": "Mixed Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 4,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "99,078",
+    "interiorColor": "Bisque",
+    "exteriorColor": "Sandy Beach Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "Springfield, VA",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$197/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$270 ",
+    "priceClassDiffAmt": "(2.3%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "AM/FM radio ~ CD player ~ MP3 decoder ~ Air Conditioning ~ Rear window defroster ~ Power steering ~ Power windows ~ Remote keyless entry ~ Speed-sensing steering ~ Traction control ~ ABS brakes ~ Anti-whiplash front head restraints ~ Dual front impact airbags ~ Dual front side impact airbags ~ Front anti-roll bar ~ Front wheel independent suspension ~ Low tire pressure warning ~ Occupant sensing airbag",
+    "listPrice": "$11,895"
+  }
+]

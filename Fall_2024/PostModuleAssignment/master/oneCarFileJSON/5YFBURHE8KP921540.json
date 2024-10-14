@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE8KP921540",
+    "trueCarID": "U21540",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE8KP921540/2019-toyota-corolla/",
+    "listingDateDiff": "14 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "60,977",
+    "interiorColor": "Steel Gray",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Watertown, CT",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$306/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$72 ",
+    "priceClassDiffAmt": "(0.4%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Carpet Mat Package (TMS) ~ 6 Speakers ~ AM/FM radio ~ CD player ~ Radio data system ~ Radio: Entune Audio w/6.1'' Screen ~ Air Conditioning ~ Automatic temperature control ~ Rear window defroster ~ Power steering ~ Power windows ~ Remote keyless entry ~ Steering wheel mounted audio controls ~ Speed-sensing steering ~ Traction control ~ ABS brakes ~ Dual front impact airbags ~ Dual front side impact airbags",
+    "listPrice": "$18,495"
+  }
+]

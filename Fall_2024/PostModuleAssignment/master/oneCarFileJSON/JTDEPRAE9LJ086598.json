@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAE9LJ086598",
+    "trueCarID": "C032",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAE9LJ086598/2020-toyota-corolla/",
+    "listingDateDiff": "76 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "55,885",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Houston, TX",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$365/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "High Price",
+    "allFeatures": "Driver Air Bag ~ Passenger Air Bag ~ Side Air Bag ~ Alarm ~ Power Door Locks ~ Heated Mirrors ~ Traction Control ~ Vehicle Anti-Theft System ~ Tire Pressure Monitoring ~ Electronic Stability Control ~ Climate Control ~ Air Conditioning ~ Cruise Control ~ Keyless Entry ~ Power Driver Mirror ~ Power Steering ~ Tilt Wheel ~ Steering wheel controls",
+    "listPrice": "$21,998"
+  }
+]

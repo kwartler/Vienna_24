@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPMAE0MJ172094",
+    "trueCarID": "2762A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPMAE0MJ172094/2021-toyota-corolla/",
+    "listingDateDiff": "93 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "71,300",
+    "interiorColor": "Light Gray",
+    "exteriorColor": "Gray",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "Denver, CO",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$297/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$422 ",
+    "priceClassDiffAmt": "(2.4%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "ABS Brakes ~ Air Conditioning ~ AM/FM ~ AM/FM Radio ~ Aux Audio Jack ~ Back Up Sonar ~ Backup Camera ~ Bluetooth ~ CD ~ CD Player ~ Child Safety Door Locks ~ Chrome Wheels ~ Cruise Control ~ Driver Airbag ~ Front Side Airbag ~ Handsfree Wireless ~ Navigation Aid ~ Owners Manual",
+    "listPrice": "$17,900"
+  }
+]

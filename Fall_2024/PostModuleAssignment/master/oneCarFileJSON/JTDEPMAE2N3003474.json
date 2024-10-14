@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPMAE2N3003474",
+    "trueCarID": 11374,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPMAE2N3003474/2022-toyota-corolla/",
+    "listingDateDiff": "6 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "12,096",
+    "interiorColor": "Light Gray",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Gainesville, FL",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$411/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$18 ",
+    "priceClassDiffAmt": "(0.1%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Climate Control ~  Power Steering ~  Power Windows ~  Power Door Locks ~  Power Mirrors ~  Clock ~  Tachometer ~  Telescoping Steering Wheel ~  Steering Wheel Radio Controls ~  Driver Airbag ~  Passenger Airbag ~  Keyless Entry ~  Security System ~  Traction Control ~  Rear Defogger ~  Intermittent Wipers ~  AM/FM ~  Cloth Interior Surface",
+    "listPrice": "$24,785"
+  }
+]

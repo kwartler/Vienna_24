@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BU4EE6DC069490",
+    "trueCarID": "SM2407",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BU4EE6DC069490/2013-toyota-corolla/",
+    "listingDateDiff": "73 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "159,880",
+    "interiorColor": "Ash",
+    "exteriorColor": "Barcelona Red Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 3 owners",
+    "location": "Stafford, VA",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$141/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$172 ",
+    "priceClassDiffAmt": "(2%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "A/C Front ~ CD Player ~ Anti-Lock Brakes ~ Driver Air Bag ~ Power Mirrors ~ Power Steering ~ Power Windows ~ Side Air Bag ~ Tilt Wheel ~ Traction Control ~ MP3 Player ~ Keyless Entry  ~ Passenger Air Bag ~ Rear Air Bags ~ Power Door Locks ~ AM/FM Stereo ~ Heat/AC  ~ Auxiliary Audio Input",
+    "listPrice": "$8,495"
+  }
+]

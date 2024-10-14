@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE8MP240718",
+    "trueCarID": "P9320",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE8MP240718/2021-toyota-corolla/",
+    "listingDateDiff": "37 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "39,869",
+    "interiorColor": "Black",
+    "exteriorColor": "Unknown",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Jacksonville, AR",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$356/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Three Point Seat Belts ~ Cup Holder ~ Inside Hood Release ~ 12 Volt Power Source ~ Power Steering ~ Power Brakes ~ Power Door Locks ~ Power Windows ~ Lane Departure Warning ~ Audio - Satellite Radio Ready ~ Steering Wheel-Mounted Audio Controls ~ Integrated Phone ~ Backup  Camera ~ Radial Tires ~ Gauge Cluster ~ Trip Odometer ~ Tachometer ~ Air Conditioning",
+    "listPrice": "$21,494"
+  }
+]

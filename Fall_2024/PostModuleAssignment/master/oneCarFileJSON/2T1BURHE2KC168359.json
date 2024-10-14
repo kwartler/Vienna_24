@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE2KC168359",
+    "trueCarID": "PT7299",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE2KC168359/2019-toyota-corolla/",
+    "listingDateDiff": "9 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "61,310",
+    "interiorColor": "Black",
+    "exteriorColor": "Galactic Aqua Mica",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Prescott, AZ",
+    "mileageRating": "28 cty / 35 hwy",
+    "monthlyPayment": "$337/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ 4-Wheel Disc Brakes ~ Brake Assist ~ Aluminum Wheels ~ Tires - Front Performance ~ Tires - Rear Performance ~ Temporary Spare Tire ~ Heated Mirrors ~ Power Mirror(s) ~ Integrated Turn Signal Mirrors ~ Rear Defrost ~ Intermittent Wipers ~ Variable Speed Intermittent Wipers ~ Rear Spoiler ~ Daytime Running Lights ~ Automatic Headlights",
+    "listPrice": "$20,321"
+  }
+]

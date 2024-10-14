@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPRAE9LP142695",
+    "trueCarID": null,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPRAE9LP142695/2020-toyota-corolla/",
+    "listingDateDiff": "Adaptive Cruise Control",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "38,531",
+    "interiorColor": "Black",
+    "exteriorColor": "Barcelona Red Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Show Low, AZ",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$346/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "4-Cyl 1.8 Liter ~ Automatic CVTi-S ~ ABS (4-Wheel) ~ AM/FM Stereo ~ Air Bags (Side): Front ~ Air Bags: Dual Front ~ Air Bags: F&R Head Curtain ~ Air Bags: Knee ~ Air Conditioning ~ Bluetooth Connection ~ Camera: Backup/Rear View ~ Cruise Control: Dynamic ~ Daytime Running Lights ~ Entune ~ FWD ~ Hill Start Assist Control ~ LED Headlamps ~ Lane Departure Warning System",
+    "listPrice": "$20,900"
+  }
+]

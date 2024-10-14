@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE6EP145638",
+    "trueCarID": "FTP5219",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE6EP145638/2014-toyota-corolla/",
+    "listingDateDiff": "8 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "95,960",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Freehold, NJ",
+    "mileageRating": "29 cty / 37 hwy",
+    "monthlyPayment": "$243/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$89 ",
+    "priceClassDiffAmt": "(0.6%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "4-Wheel ABS ~ 4-Wheel Disc Brakes ~ A/C ~ Adjustable Steering Wheel ~ AM/FM Stereo ~ Auto-Off Headlights ~ Back-Up Camera ~ Bluetooth® ~ Brake Assist ~ Bucket Seats ~ CD Player ~ Child Safety Locks ~ Climate Control ~ Cloth Seats ~ Compact Spare Tire ~ Cruise Control ~ Daytime Running Lights ~ Driver Air Bag",
+    "listPrice": "$14,688"
+  }
+]

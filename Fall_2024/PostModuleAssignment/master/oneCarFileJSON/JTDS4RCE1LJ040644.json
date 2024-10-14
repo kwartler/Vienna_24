@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDS4RCE1LJ040644",
+    "trueCarID": "CT20164",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDS4RCE1LJ040644/2020-toyota-corolla/",
+    "listingDateDiff": "63 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "31,613",
+    "interiorColor": "Black",
+    "exteriorColor": "Blue Crush Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "Certified Pre-Owned",
+    "location": "San Jose, CA",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$411/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$287 ",
+    "priceClassDiffAmt": "(1.2%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Front ~ Wheel ~ Drive;Power ~ Steering;ABS;4-Wheel ~ Disc ~ Brakes;Brake ~ Assist;Aluminum ~ Wheels;Tires ~ - ~ Front ~ Performance;Tires ~ - ~ Rear ~ Performance;Temporary ~ Spare ~ Tire;Heated ~ Mirrors;Power ~ Mirror(s);Integrated",
+    "listPrice": "$24,795"
+  }
+]

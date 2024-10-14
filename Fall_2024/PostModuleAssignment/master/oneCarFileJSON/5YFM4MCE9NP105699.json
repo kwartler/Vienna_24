@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFM4MCE9NP105699",
+    "trueCarID": "K0264",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFM4MCE9NP105699/2022-toyota-corolla/",
+    "listingDateDiff": "Premium Wheels",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Manual",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "13,272",
+    "interiorColor": "Moonstone",
+    "exteriorColor": "Cement W/Black Sand Pearl Roof",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Wilsonville, OR",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$445/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "APEX Package ~ 6 Speakers ~ AM/FM radio: SiriusXM ~ Radio: Audio ~ Automatic temperature control ~ Rear window defroster ~ Remote keyless entry ~ Steering wheel mounted audio controls ~ Traction control ~ Dual front impact airbags ~ Dual front side impact airbags ~ Emergency communication system: Safety Connect with 1-year trial ~ Front Doors Smart Key System ~ Knee airbag ~ Low tire pressure warning ~ Occupant sensing airbag ~ Overhead airbag ~ Rear side impact airbag",
+    "listPrice": "$26,877"
+  }
+]

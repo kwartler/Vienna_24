@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBU4EE4DP131730",
+    "trueCarID": 131730,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBU4EE4DP131730/2013-toyota-corolla/",
+    "listingDateDiff": "22 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 5,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "134,237",
+    "interiorColor": "Gray",
+    "exteriorColor": "Silver",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Alpharetta, GA",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$174/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$64 ",
+    "priceClassDiffAmt": "(0.6%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Front Bumper Color - Body-Color ~  Grille Color - Body-Color ~  Mirror Color - Body-Color ~  Rear Bumper Color - Body-Color ~  Window Trim - Black ~  Air Filtration ~  Floor Material - Carpet ~  Front Air Conditioning ~  Front Air Conditioning Zones - Single ~  Interior Accents - Metallic-Tone ~  Assist Handle - Front ~  Assist Handle - Rear ~  Cargo Area Light ~  Center Console - Front Console With Storage ~  Cruise Control ~  Cupholders - Front ~  Cupholders - Rear ~  Multi-Function Remote - Keyless Entry",
+    "listPrice": "$10,490"
+  }
+]

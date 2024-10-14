@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE9NP331627",
+    "trueCarID": "p6456",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE9NP331627/2022-toyota-corolla/",
+    "listingDateDiff": "14 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "10,049",
+    "interiorColor": "White",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": "2 accidents, 1 owner",
+    "location": "Dumfries, VA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$331/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$273 ",
+    "priceClassDiffAmt": "(1.4%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "ABS Brakes ~ Air Conditioning ~ AM/FM Radio ~ Child Safety Door Locks ~ Cruise Control ~ Daytime Running Lights ~ Driver Airbag ~ Electronic Brake Assistance ~ Front Side Airbag ~ Front Side Airbag with Head Protection ~ Heated Exterior Mirror ~ Keyless Entry ~ Locking Pickup Truck Tailgate ~ Passenger Airbag ~ Power Door Locks ~ Power Windows ~ Separate Driver/Front Passenger Climate Controls ~ Steel Wheels",
+    "listPrice": "$19,997"
+  }
+]

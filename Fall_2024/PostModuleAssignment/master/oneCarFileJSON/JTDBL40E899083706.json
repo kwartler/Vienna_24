@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDBL40E899083706",
+    "trueCarID": "P12444",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDBL40E899083706/2009-toyota-corolla/",
+    "listingDateDiff": "16 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Theft Recovery",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "91,958",
+    "interiorColor": "Ash",
+    "exteriorColor": "Magnetic Gray Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "Tacoma, WA",
+    "mileageRating": "27 cty / 35 hwy",
+    "monthlyPayment": "$166/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$48 ",
+    "priceClassDiffAmt": "(0.5%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Air filtration ~ Front air conditioning ~ Front air conditioning zones: single ~ Airbag deactivation: occupant sensing passenger ~ Front airbags: dual ~ Side airbags: front ~ Side curtain airbags: front ~  rear ~ Antenna type: element ~ Auxiliary audio input: jack ~ In-Dash CD: MP3 Playback ~  single disc ~ Radio: AM/FM ~ Satellite radio: SiriusXM ready ~ Speed sensitive volume control ~ Total speakers: 4 ~ ABS: 4-wheel ~ Braking assist",
+    "listPrice": "$9,999"
+  }
+]

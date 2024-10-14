@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBU4EE8DP206140",
+    "trueCarID": "DP206140A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBU4EE8DP206140/2013-toyota-corolla/",
+    "listingDateDiff": "45 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Theft Recovery",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "176,470",
+    "interiorColor": "Ash",
+    "exteriorColor": "Magnetic Gray Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 3 owners",
+    "location": "Roseville, CA",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$166/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$182 ",
+    "priceClassDiffAmt": "(1.8%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "4 Cylinder Engine ~ 4-Speed A/T ~ 4-Wheel ABS ~ A/C ~ Adjustable Steering Wheel ~ AM/FM Stereo ~ Auxiliary Pwr Outlet ~ Bluetooth® ~ Brake Assist ~ Bucket Seats ~ CD Player ~ Child Safety Locks ~ Cloth Seats ~ Compact Spare Tire ~ Cruise Control ~ Daytime Running Lights ~ Driver Air Bag ~ Driver Vanity Mirror",
+    "listPrice": "$9,988"
+  }
+]

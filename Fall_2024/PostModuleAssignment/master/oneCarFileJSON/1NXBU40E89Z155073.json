@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "1NXBU40E89Z155073",
+    "trueCarID": 155073,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/1NXBU40E89Z155073/2009-toyota-corolla/",
+    "listingDateDiff": "54 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "128,408",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Red",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "Quakertown, PA",
+    "mileageRating": "27 cty / 35 hwy",
+    "monthlyPayment": "$149/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Air Conditioning ~  Power Windows ~  Power Locks ~  Power Steering ~  Tilt Wheel ~  AM/FM CD/MP3 ~  Satellite ~  Passive engine immobilizer ~  Daytime Running Lights ~  Dual Front Airbags ~  Side Airbags ~  Head Airbags ~  Rear Head Airbags ~  Active Seatbelts ~  All Wheel ABS",
+    "listPrice": "$8,999"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE6HP721474",
+    "trueCarID": 721474,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE6HP721474/2017-toyota-corolla/",
+    "listingDateDiff": "110 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "60,614",
+    "interiorColor": "Gray",
+    "exteriorColor": "Gray",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 2 owners",
+    "location": "Lilburn, GA",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$265/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$42 ",
+    "priceClassDiffAmt": "(0.3%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "ABS Brakes ~ Adjustable Foot Pedals ~ Air Conditioning ~ Alarm System ~ Alloy Wheels ~ AM/FM ~ AM/FM Radio ~ Anti-Lock Brakes ~ Aux Audio Jack ~ Backup Camera ~ Bluetooth ~ CD ~ Child Safety Door Locks ~ Cruise Control ~ Daytime Running Lights ~ Driver Airbag ~ First Aid Kit ~ Front Side Airbag",
+    "listPrice": "$15,995"
+  }
+]

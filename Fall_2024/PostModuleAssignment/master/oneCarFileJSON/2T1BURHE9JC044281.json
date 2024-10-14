@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE9JC044281",
+    "trueCarID": "JC044281B",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE9JC044281/2018-toyota-corolla/",
+    "listingDateDiff": "38 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Theft Recovery",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "129,262",
+    "interiorColor": "Ash",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Feasterville Trevose, PA",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$224/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "MUDGUARDS ~ REAR BUMPER PROTECTOR (TMS) ~ DOOR EDGE GUARDS ~ ALL-WEATHER FLOOR LINER PACKAGE ~ Front Wheel Drive ~ Power Steering ~ ABS ~ Front Disc/Rear Drum Brakes ~ Brake Assist ~ Wheel Covers ~ Steel Wheels ~ Tires - Front Performance ~ Tires - Rear Performance ~ Temporary Spare Tire ~ Heated Mirrors ~ Power Mirror(s) ~ Rear Defrost ~ Intermittent Wipers",
+    "listPrice": "$13,500"
+  }
+]

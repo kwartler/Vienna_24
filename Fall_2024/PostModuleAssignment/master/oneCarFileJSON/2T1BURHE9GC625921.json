@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE9GC625921",
+    "trueCarID": 25921,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE9GC625921/2016-toyota-corolla/",
+    "listingDateDiff": "15 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "77,729",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Egg Harbor Township, NJ",
+    "mileageRating": "27 cty / 36 hwy",
+    "monthlyPayment": "$232/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$602 ",
+    "priceClassDiffAmt": "(4.3%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "1 12V DC Power Outlet ~ 13.2 Gal. Fuel Tank ~ 15\" x 6.0\" Steel Wheels ~ 390CCA Maintenance-Free Battery w/Run Down Protection ~ 4-Way Passenger Seat ~ 6 Speakers ~ 6-Way Driver Seat ~ 60-40 Folding Bench Front Facing Fold Forward Seatback Rear Seat ~ 80 Amp Alternator ~ ABS And Driveline Traction Control ~ ABS brakes ~ AM/FM radio ~ Air Conditioning ~ Air Filtration ~ Airbag Occupancy Sensor ~ Analog Appearance ~ Auto Off Projector Beam Led Low Beam Daytime Running Headlamps w/Delay-Off ~ Automatic Equalizer",
+    "listPrice": "$13,995"
+  }
+]

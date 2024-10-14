@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE5HC916966",
+    "trueCarID": "CSA6163",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE5HC916966/2017-toyota-corolla/",
+    "listingDateDiff": "82 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "28,780",
+    "interiorColor": "Steel Gray",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "Stafford, VA",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$290/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$438 ",
+    "priceClassDiffAmt": "(2.5%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "A/C Front ~ Alloy Wheels ~ CD Player ~ Anti-Lock Brakes ~ Bose Sound System ~ Compact Disc /AM/FM ~ Driver Air Bag ~ Dual Climate Controls ~ Heated Front Seats ~ Power Mirrors ~ Power Steering ~ Power Windows ~ Side Air Bag ~ Tilt Wheel ~ Traction Control ~ MP3 Player ~ Backup Camera ~ Bluetooth Capable",
+    "listPrice": "$17,495"
+  }
+]

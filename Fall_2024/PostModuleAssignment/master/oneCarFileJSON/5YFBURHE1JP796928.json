@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE1JP796928",
+    "trueCarID": 66692,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE1JP796928/2018-toyota-corolla/",
+    "listingDateDiff": "50 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "37,229",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Slate Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Fontana, CA",
+    "mileageRating": "28 cty / 35 hwy",
+    "monthlyPayment": "$338/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$172 ",
+    "priceClassDiffAmt": "(0.8%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "50 State Emissions ~ Door Edge Guards ~ Keyless Entry System ~ Protection Package ~ Se Premium Package ~ Siriusxm Satellite Radio ~ Slate Metallic",
+    "listPrice": "$20,404"
+  }
+]

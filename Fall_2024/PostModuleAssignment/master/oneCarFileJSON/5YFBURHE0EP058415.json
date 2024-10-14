@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE0EP058415",
+    "trueCarID": 58415,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE0EP058415/2014-toyota-corolla/",
+    "listingDateDiff": "22 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "115,322",
+    "interiorColor": "Tan",
+    "exteriorColor": "Charcoal",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Burlington, NC",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$202/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$376 ",
+    "priceClassDiffAmt": "(3.1%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "Door Handle Color - Body-Color ~  Front Bumper Color - Body-Color ~  Grille Color - Black ~  Mirror Color - Body-Color ~  Rear Bumper Color - Body-Color ~  Window Trim - Black ~  Steering Ratio - 17.8 ~  Turns Lock-To-Lock - 3.2 ~  Air Filtration ~  Front Air Conditioning - Automatic Climate Control ~  Front Air Conditioning Zones - Single ~  Interior Accents - Color Keyed ~  Interior Accents - Metallic-Tone ~  Assist Handle - Front ~  Assist Handle - Rear ~  Center Console - Front Console With Armrest And Storage ~  Cruise Control ~  Cupholders - Front",
+    "listPrice": "$12,190"
+  }
+]

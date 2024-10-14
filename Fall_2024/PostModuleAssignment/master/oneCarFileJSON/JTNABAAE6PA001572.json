@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTNABAAE6PA001572",
+    "trueCarID": "1A001572",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTNABAAE6PA001572/2023-toyota-corolla/",
+    "listingDateDiff": "19 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": null,
+    "fuelType": null,
+    "driveType": null,
+    "engineInfo": null,
+    "mileage": 28,
+    "interiorColor": "Black",
+    "exteriorColor": "Midnight Black Metallic",
+    "style": "Hatchback",
+    "accidentOwnership": 0,
+    "location": "San Antonio, TX",
+    "mileageRating": "L - ",
+    "monthlyPayment": "$974/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": null,
+    "allFeatures": "Air Conditioning ~ Spoiler ~ Tachometer ~ AM/FM radio ~ Radio data system ~ Radio: Toyota Multimedia ~ Automatic temperature control ~ Rear window defroster ~ Power steering ~ Power windows ~ Remote keyless entry ~ Steering wheel mounted audio controls ~ Four wheel independent suspension ~ Speed-sensing steering ~ Traction control ~ 4-Wheel Disc Brakes ~ ABS brakes ~ Dual front impact airbags",
+    "listPrice": "$58,791"
+  }
+]

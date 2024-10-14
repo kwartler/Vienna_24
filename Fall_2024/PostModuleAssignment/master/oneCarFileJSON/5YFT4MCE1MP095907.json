@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFT4MCE1MP095907",
+    "trueCarID": "MP095907-595",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFT4MCE1MP095907/2021-toyota-corolla/",
+    "listingDateDiff": "25 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Lemon",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "30,939",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Norcross, GA",
+    "mileageRating": "31 cty / 38 hwy",
+    "monthlyPayment": "$348/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$467 ",
+    "priceClassDiffAmt": "(2.2%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Gas Engine Type ~ Regular Unleaded Fuel Type ~ 169 Horsepower ~ 6600 Horsepower RPM ~ 151 Torque ~ 4400 Torque RPM ~ 2.0 Engine Displacement ~ Inline Engine Configuration ~ 4 Cylinders ~ Variable Valvetrain ~ Double Overhead Valvetrain ~ 16 Number of Valves ~ 13.0 Compression Ratio ~ 31 EPA City Fuel Economy ~ 38 EPA Highway Fuel Economy ~ 34 EPA Combined Fuel Economy ~ Automatic Transmission Type ~ Continuously Variable",
+    "listPrice": "$21,000"
+  }
+]

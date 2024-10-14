@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBU4EEXDP142201",
+    "trueCarID": "D142201",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBU4EEXDP142201/2013-toyota-corolla/",
+    "listingDateDiff": "43 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "114,434",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Unknown",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Miami, FL",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$166/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$292 ",
+    "priceClassDiffAmt": "(2.9%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Bluetooth Wireless ~ Dual Air Bags ~ Side Air Bags ~ F&R Head Curtain Air Bags ~ Daytime Running Lights ~ Alloy Wheels ~ 4-Cyl 1.8 Liter ~ Automatic 4-Spd ~ FWD ~ Traction Control ~ Stability Control ~ ABS (4-Wheel) ~ Keyless Entry ~ Air Conditioning ~ Power Windows ~ Power Door Locks ~ Cruise Control ~ Power Steering",
+    "listPrice": "$9,990"
+  }
+]

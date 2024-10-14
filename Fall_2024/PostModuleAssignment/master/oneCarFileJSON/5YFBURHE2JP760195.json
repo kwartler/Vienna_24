@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE2JP760195",
+    "trueCarID": "WRN783",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE2JP760195/2018-toyota-corolla/",
+    "listingDateDiff": "155 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Salvage",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "31,079",
+    "interiorColor": "Silver",
+    "exteriorColor": "Silver",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Honolulu, HI",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$265/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$441 ",
+    "priceClassDiffAmt": "(2.8%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "1 12V DC Power Outlet ~ 13.2 Gal. Fuel Tank ~ 390CCA Maintenance-Free Battery w/Run Down Protection ~ 60-40 Folding Bench Front Facing Fold Forward Seatback Rear Seat ~ 80 Amp Alternator ~ Air Filtration ~ Airbag Occupancy Sensor ~ Analog Appearance ~ Automatic Equalizer ~ Back-Up Camera ~ Black Grille ~ Black Side Windows Trim ~ Body-Colored Door Handles ~ Body-Colored Front Bumper ~ Body-Colored Rear Bumper ~ Cargo Space Lights ~ Carpet Floor Trim and Carpet Trunk Lid/Rear Cargo Door Trim ~ Clearcoat Paint",
+    "listPrice": "$15,995"
+  }
+]

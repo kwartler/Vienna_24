@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE1KC239079",
+    "trueCarID": "KC239079",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE1KC239079/2019-toyota-corolla/",
+    "listingDateDiff": "107 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "47,842",
+    "interiorColor": "Black",
+    "exteriorColor": "Slate Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Montebello, CA",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$282/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$14 ",
+    "priceClassDiffAmt": "(0.1%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "(Back-Up Camera & Bluetooth) ~ 50 State Emissions ~ Fleet Credit ~ Keyless Entry System ~ Slate Metallic ~ Air Bag - Frontal: Driver Air Bag ~ Air Conditioning: A/C ~ Audio: Am/Fm Stereo ~ Audio: Mp3 Player ~ Convenience: Adaptive Cruise Control ~ Convenience: Back-Up Camera ~ Convenience: Steering Wheel Audio Controls ~ Convenience: Trip Computer ~ Drivetrain: Front Wheel Drive ~ Engine: 4 Cylinder Engine ~ Locks: Power Door Locks ~ Mirrors: Power Mirror(S) ~ Safety Features: Automatic Headlights",
+    "listPrice": "$16,996"
+  }
+]

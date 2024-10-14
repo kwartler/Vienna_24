@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BR32E85C375088",
+    "trueCarID": 3920,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BR32E85C375088/2005-toyota-corolla/",
+    "listingDateDiff": "39 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "118,123",
+    "interiorColor": "Gray",
+    "exteriorColor": "Gray",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 3 owners",
+    "location": "Portland, OR",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$124/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Air Conditioning ~ AM/FM Radio ~ CD Player ~ Child Safety Door Locks ~ Daytime Running Lights ~ Driver Airbag ~ Front Air Dam ~ Interval Wipers ~ Passenger Airbag ~ Power Adjustable Exterior Mirror ~ Rear Window Defogger ~ Second Row Folding Seat ~ Steel Wheels ~ Tachometer ~ Tilt Steering ~ Tilt Steering Column ~ Trunk Anti-Trap Device ~ Vehicle Anti-Theft",
+    "listPrice": "$7,495"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEAMDE3NJ045192",
+    "trueCarID": 23866072,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEAMDE3NJ045192/2022-toyota-corolla/?zipcode=93036",
+    "listingDateDiff": "7 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Hybrid",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Hybrid",
+    "mileage": "38,338",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Oxnard, CA",
+    "mileageRating": "53 cty / 52 hwy",
+    "monthlyPayment": "$447/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$132 ",
+    "priceClassDiffAmt": "(0.5%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Rear View Camera ~ Auxiliary Audio Input ~ Alloy Wheels ~ Overhead Airbags ~ Traction Control ~ Side Airbags ~ Air Conditioning ~ ABS Brakes ~ Power Locks ~ Power Mirrors ~ AM/FM Stereo ~ Satellite Radio Ready ~ Rear Defroster ~ Power Windows ~ Cloth Seats ~ Automatic Transmission ~ Smart Key ~ Apple CarPlay",
+    "listPrice": "$26,998"
+  }
+]

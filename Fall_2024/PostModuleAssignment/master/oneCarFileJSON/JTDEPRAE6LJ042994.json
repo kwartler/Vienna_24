@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAE6LJ042994",
+    "trueCarID": "LJ042994",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAE6LJ042994/2020-toyota-corolla/",
+    "listingDateDiff": "44 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "49,728",
+    "interiorColor": "Black",
+    "exteriorColor": "Grey",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 3 owners",
+    "location": "Santa Ana, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$330/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$108 ",
+    "priceClassDiffAmt": "(0.5%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "50 State Emissions ~ Fleet Credit ~ 13.2 Gal. Fuel Tank ~ 2 Lcd Monitors In The Front ~ Brakes: 4-Wheel Disc Brakes ~ Brakes: Abs ~ Cargo Space Lights ~ Carpet Floor Trim And Carpet Trunk Lid/Rear Cargo Door Trim ~ Convenience: Back-Up Camera ~ Convenience: Cruise Control ~ Convenience: Immobilizer ~ Convenience: Led Headlights ~ Convenience: Remote Trunk Release ~ Front-Wheel Drive ~ Seats W/Cloth Back Material ~ Systems Monitor ~ Telephone: Bluetooth Connection",
+    "listPrice": "$19,899"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE6EC008764",
+    "trueCarID": "M3T023977A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE6EC008764/2014-toyota-corolla/",
+    "listingDateDiff": "2 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "115,235",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Hialeah, FL",
+    "mileageRating": "29 cty / 37 hwy",
+    "monthlyPayment": "$199/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$168 ",
+    "priceClassDiffAmt": "(1.4%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "6 Speakers ~ AM/FM radio ~ CD player ~ MP3 decoder ~ Radio data system ~ Radio: AM/FM/CD Player w/6.1'' Touch Screen ~ Air Conditioning ~ Automatic temperature control ~ Rear window defroster ~ Power steering ~ Power windows ~ Remote keyless entry ~ Steering wheel mounted audio controls ~ Speed-sensing steering ~ Traction control ~ 4-Wheel Disc Brakes ~ ABS brakes ~ Dual front impact airbags",
+    "listPrice": "$11,981"
+  }
+]

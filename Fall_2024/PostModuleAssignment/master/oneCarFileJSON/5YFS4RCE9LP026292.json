@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFS4RCE9LP026292",
+    "trueCarID": "T7311S",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFS4RCE9LP026292/2020-toyota-corolla/",
+    "listingDateDiff": "Premium Wheels",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "2,442",
+    "interiorColor": "Moonstone",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Brooklyn, NY",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$404/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$49 ",
+    "priceClassDiffAmt": "(0.2%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "6 Speakers ~ Radio data system ~ Air Conditioning ~ Automatic temperature control ~ Rear window defroster ~ Power steering ~ Power windows ~ Remote keyless entry ~ Steering wheel mounted audio controls ~ Four wheel independent suspension ~ Traction control ~ 4-Wheel Disc Brakes ~ ABS brakes ~ Dual front impact airbags ~ Dual front side impact airbags ~ Front anti-roll bar ~ Knee airbag ~ Low tire pressure warning",
+    "listPrice": "$24,399"
+  }
+]

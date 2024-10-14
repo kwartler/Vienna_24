@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPMAE1MJ166899",
+    "trueCarID": "U9649",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPMAE1MJ166899/2021-toyota-corolla/",
+    "listingDateDiff": "22 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "43,496",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Midway City, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$313/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$380 ",
+    "priceClassDiffAmt": "(2%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Door Handle Color - Body-Color ~  Front Bumper Color - Body-Color ~  Grille Color - Black ~  Mirror Color - Body-Color ~  Rear Bumper Color - Body-Color ~  Window Trim - Black ~  Air Filtration ~  Armrests - Rear Center With Cupholders ~  Armrests - Rear Folding ~  Floor Material - Carpet ~  Front Air Conditioning - Automatic Climate Control ~  Front Air Conditioning Zones - Single ~  Interior Accents - Chrome ~  Interior Accents - Metallic-Tone ~  Shift Knob Trim - Urethane ~  Steering Wheel Trim - Urethane ~  Adaptive Cruise Control ~  Adaptive Stop And Go Cruise Control - Semi-Automatic",
+    "listPrice": "$18,880"
+  }
+]

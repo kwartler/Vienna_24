@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE9GC642394",
+    "trueCarID": "P67480",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE9GC642394/2016-toyota-corolla/",
+    "listingDateDiff": "32 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 4,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "66,292",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Gray",
+    "style": "Sedan",
+    "accidentOwnership": "2 accidents, 4 owners",
+    "location": "Seffner, FL",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$215/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$81 ",
+    "priceClassDiffAmt": "(0.6%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Gas Engine Type ~ Regular Unleaded Fuel Type ~ 132 Horsepower ~ 6000 Horsepower RPM ~ 128 Torque ~ 4400 Torque RPM ~ 1.8 Engine Displacement ~ Inline Engine Configuration ~ 4 Cylinders ~ 29 EPA City Fuel Economy ~ 38 EPA Highway Fuel Economy ~ 32 EPA Combined Fuel Economy ~ Automatic Transmission Type ~ Continuously Variable ~ 1 Gear Number ~ 2.48 First Gear Ratio ~ 2.6 Reverse Gear Ratio ~ Disc Front Brakes",
+    "listPrice": "$12,994"
+  }
+]

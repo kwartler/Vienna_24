@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPMAE3NJ220883",
+    "trueCarID": 220883,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPMAE3NJ220883/2022-toyota-corolla/?zipcode=02818",
+    "listingDateDiff": "0 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "5,562",
+    "interiorColor": "Black",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Online Retailer",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$423/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "High Price",
+    "allFeatures": "Rear-View Camera ~ Adjustable Seats ~ LED Lights ~ Daytime Running Lights ~ Center Console ~ Split/Folding Seats ~ Handsfree/Bluetooth Integration ~ 6 Speakers ~ Adaptive Cruise Control ~ Adjustable Steering Wheel ~ Android Auto ~ Apple Carplay ~ Armrest Storage ~ Black Grille ~ Body Colored Bumpers ~ Cloth Seats ~ Color Coded Mirrors ~ Folding Mirrors",
+    "listPrice": "$25,499"
+  }
+]

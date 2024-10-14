@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAEXLJ087971",
+    "trueCarID": 87971,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAEXLJ087971/2020-toyota-corolla/",
+    "listingDateDiff": "167 days ago",
+    "vehicleHistUseType": "Mixed Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "55,253",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Pensacola, FL",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$398/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$2,270 ",
+    "priceClassDiffAmt": "(9.5%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Front Wheel Drive ~ Lane Departure Warning ~ Rear Back Up Camera ~ AM/FM Stereo ~ Apple CarPlay ~ Android Auto ~ MP3 Sound System ~ Wheels-Steel ~ Wheels-Wheel Covers ~ Communications-Onboard Hands Free ~ Telephone-Hands-Free Wireless Connection ~ Remote Keyless Entry ~ Trip Computer ~ Tilt Wheel ~ Traction Control ~ Brakes-ABS-4 Wheel ~ 4 Wheel Disc Brakes ~ Tire-Pressure Monitoring System",
+    "listPrice": "$23,988"
+  }
+]

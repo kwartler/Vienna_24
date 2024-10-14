@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE4FC280764",
+    "trueCarID": 22605,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE4FC280764/2015-toyota-corolla/",
+    "listingDateDiff": "15 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "124,765",
+    "interiorColor": "Black",
+    "exteriorColor": "Black Sand Mica",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "Franklin, TN",
+    "mileageRating": "29 cty / 37 hwy",
+    "monthlyPayment": "$215/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$62 ",
+    "priceClassDiffAmt": "(0.5%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Cruise Control ~ Cloth Seats ~ Bucket Seats ~ Passenger Air Bag ~ Front Head Air Bag ~ Rear Head Air Bag ~ A/C ~ CD Player ~ 4-Wheel ABS ~ Child Safety Locks ~ Power Door Locks ~ Temporary Spare Tire ~ Traction Control ~ MP3 Player ~ Auto-Off Headlights ~ Passenger Vanity Mirror ~ Tire Pressure Monitor ~ Stability Control",
+    "listPrice": "$12,995"
+  }
+]

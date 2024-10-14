@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BU4EE4CC793497",
+    "trueCarID": "H18581",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BU4EE4CC793497/2012-toyota-corolla/",
+    "listingDateDiff": "73 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "114,000",
+    "interiorColor": "Gray",
+    "exteriorColor": "Silver",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "Longmont, CO",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$199/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$141 ",
+    "priceClassDiffAmt": "(1.2%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Bluetooth ~ Driver seat manual adjustments: height ~  6 ~ Front headrests: adjustable ~  2 ~ Front seat type: bucket ~ Passenger seat manual adjustments: 4 ~ Rear headrests: adjustable ~  3 ~ Rear seat folding:  ~ Rear seat type: 60-40 split bench ~ Upholstery: premium cloth ~ ABS: 4-wheel ~ Braking assist:  ~ Electronic brakeforce distribution:  ~ Front brake diameter: 10.7 ~ Front brake type: ventilated disc ~ Rear brake diameter: 9.0",
+    "listPrice": "$11,999"
+  }
+]

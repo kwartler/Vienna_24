@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPMAE6MJ130772",
+    "trueCarID": 2011352,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPMAE6MJ130772/2021-toyota-corolla/",
+    "listingDateDiff": "5 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "51,448",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Birmingham, AL",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$362/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Front Wheel Drive ~ Remote Keyless Entry ~ Brakes-ABS-4 Wheel ~ 4 Wheel Disc Brakes ~ Security System ~ Engine Immobilizer/Vehicle Anti-Theft System ~ Wipers-Variable Speed Intermittent ~ Headlights-Auto-Off ~ Bucket Seats ~ Air Bag - Driver ~ Air Bag-Side-Body-Rear ~ Rear Defrost ~ Climate Control - Auto ~ Daytime Running Lights ~ Power Windows",
+    "listPrice": "$21,816"
+  }
+]

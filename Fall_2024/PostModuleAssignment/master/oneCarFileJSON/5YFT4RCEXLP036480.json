@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFT4RCEXLP036480",
+    "trueCarID": "4N15913A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFT4RCEXLP036480/2020-toyota-corolla/",
+    "listingDateDiff": "16 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "28,513",
+    "interiorColor": "Black",
+    "exteriorColor": "Barcelona Red Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Winston Salem, NC",
+    "mileageRating": "31 cty / 38 hwy",
+    "monthlyPayment": "$397/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$40 ",
+    "priceClassDiffAmt": "(0.2%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ 4-Wheel Disc Brakes ~ Brake Assist ~ Aluminum Wheels ~ Tires - Front Performance ~ Tires - Rear Performance ~ Temporary Spare Tire ~ Sun/Moonroof ~ Generic Sun/Moonroof ~ Heated Mirrors ~ Power Mirror(s) ~ Integrated Turn Signal Mirrors ~ Rear Defrost ~ Intermittent Wipers ~ Variable Speed Intermittent Wipers ~ Rear Spoiler",
+    "listPrice": "$23,984"
+  }
+]

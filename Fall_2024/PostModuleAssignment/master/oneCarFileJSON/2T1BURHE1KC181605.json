@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE1KC181605",
+    "trueCarID": 9449,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE1KC181605/2019-toyota-corolla/",
+    "listingDateDiff": "61 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "42,803",
+    "interiorColor": "Gray",
+    "exteriorColor": "Gray",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "El Paso, TX",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$331/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "High Price",
+    "allFeatures": "ABS Brakes ~ Alloy Wheels ~ Child Safety Door Locks ~ Cruise Control ~ Driver Airbag ~ Driver Multi-Adjustable Power Seat ~ Front Heated Seat ~ Front Side Airbag ~ Passenger Airbag ~ Power Windows ~ Run Flat Tires ~ Side Head Curtain Airbag ~ Telescopic Steering Column ~ Vehicle Anti-Theft",
+    "listPrice": "$19,995"
+  }
+]

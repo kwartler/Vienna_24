@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BU4EE6DC940517",
+    "trueCarID": "FTP5195",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BU4EE6DC940517/2013-toyota-corolla/",
+    "listingDateDiff": "16 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "77,041",
+    "interiorColor": "Ash",
+    "exteriorColor": "Magnetic Gray Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Freehold, NJ",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$230/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$57 ",
+    "priceClassDiffAmt": "(0.4%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "4-Wheel ABS ~ A/C ~ Adjustable Steering Wheel ~ AM/FM Stereo ~ Auxiliary Pwr Outlet ~ Bluetooth® ~ Brake Assist ~ Bucket Seats ~ CD Player ~ Child Safety Locks ~ Cloth Seats ~ Compact Spare Tire ~ Cruise Control ~ Daytime Running Lights ~ Driver Air Bag ~ Driver Vanity Mirror ~ Electronic Stability Control ~ Front Disc/Rear Drum Brakes",
+    "listPrice": "$13,888"
+  }
+]

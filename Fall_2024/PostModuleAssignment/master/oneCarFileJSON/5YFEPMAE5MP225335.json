@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE5MP225335",
+    "trueCarID": "MP225335",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE5MP225335/2021-toyota-corolla/",
+    "listingDateDiff": "84 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "39,851",
+    "interiorColor": "Light Gray",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Fontana, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$351/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$1,613 ",
+    "priceClassDiffAmt": "(7.6%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "(139Hp ~  Cvt ~  Gas Saver) ~ 50 State Emissions ~ Black Sand Pearl ~ Carpet Mat Package (Tms) ~ Preferred Owners Portfolio (Tms) ~ Air Conditioning: A/C ~ Airbag Occupancy Sensor ~ Back-Up Camera ~ Body-Colored Rear Bumper W/Black Rub Strip/Fascia Accent And Body-Colored Bumper Insert ~ Brakes: Abs ~ Clearcoat Paint ~ Engine Valve Count: 4 ~ Engine: 1.8L I-4 Dohc 16-Valve -Inc: Valvematic ~ Passenger Volume: 88.6 Ft³ ~ Second Head Room: 37.1 In ~ Trans Type: 1",
+    "listPrice": "$21,199"
+  }
+]

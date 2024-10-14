@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPMAE0MJ157143",
+    "trueCarID": 15300,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPMAE0MJ157143/2021-toyota-corolla/",
+    "listingDateDiff": "44 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Salvage",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "37,699",
+    "interiorColor": "Light Gray",
+    "exteriorColor": "Blueprint",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Atlanta, GA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$290/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$856 ",
+    "priceClassDiffAmt": "(4.9%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "ABS Brakes ~ Child Safety Door Locks ~ Cruise Control ~ Driver Airbag ~ Front Side Airbag ~ Passenger Airbag ~ Power Windows ~ Run Flat Tires ~ Side Head Curtain Airbag ~ Telescopic Steering Column",
+    "listPrice": "$17,499"
+  }
+]

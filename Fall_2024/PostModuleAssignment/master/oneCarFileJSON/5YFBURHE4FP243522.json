@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE4FP243522",
+    "trueCarID": 243522,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE4FP243522/2015-toyota-corolla/",
+    "listingDateDiff": "77 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "29,520",
+    "interiorColor": "Gray",
+    "exteriorColor": "Red",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 3 owners",
+    "location": "Greensboro, NC",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$265/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$818 ",
+    "priceClassDiffAmt": "(5.1%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Door Handle Color - Body-Color ~  Front Bumper Color - Body-Color ~  Grille Color - Black ~  Mirror Color - Body-Color ~  Rear Bumper Color - Body-Color ~  Window Trim - Black ~  Steering Ratio - 17.8 ~  Turns Lock-To-Lock - 3.2 ~  Air Filtration ~  Front Air Conditioning - Automatic Climate Control ~  Front Air Conditioning Zones - Single ~  Interior Accents - Color Keyed ~  Interior Accents - Metallic-Tone ~  Armrests - Rear Center With Cupholders ~  Assist Handle - Front ~  Assist Handle - Rear ~  Center Console - Front Console With Armrest And Storage ~  Cruise Control",
+    "listPrice": "$15,999"
+  }
+]

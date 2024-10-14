@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BU40E59C161947",
+    "trueCarID": "14477P",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BU40E59C161947/2009-toyota-corolla/",
+    "listingDateDiff": "14 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Manual",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "55,029",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Unknown",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Raleigh, NC",
+    "mileageRating": "26 cty / 35 hwy",
+    "monthlyPayment": "$198/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$263 ",
+    "priceClassDiffAmt": "(2.2%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "15'' Steel Disc Wheels ~ Cloth Seat Trim ~ AM/FM Stereo w/CD/MP3 & 4 Speakers ~ 4 Speakers ~ Air Conditioning ~ Front Bucket Seats ~ Front Center Armrest ~ Tachometer ~ ABS brakes ~ AM/FM radio ~ Anti-whiplash front head restraints ~ Brake assist ~ Bumpers: body-color ~ CD player ~ Driver door bin ~ Driver vanity mirror ~ Dual front impact airbags ~ Dual front side impact airbags",
+    "listPrice": "$11,952"
+  }
+]

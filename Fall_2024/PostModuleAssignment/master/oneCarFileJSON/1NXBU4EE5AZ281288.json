@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "1NXBU4EE5AZ281288",
+    "trueCarID": "G22-292",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/1NXBU4EE5AZ281288/2010-toyota-corolla/",
+    "listingDateDiff": "66 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "147,709",
+    "interiorColor": "Gray",
+    "exteriorColor": "Barcelona Red Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "East Peoria, IL",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$149/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$353 ",
+    "priceClassDiffAmt": "(3.9%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Gas Engine Type ~ 132 Horsepower ~ 6000 Horsepower RPM ~ 128 Torque ~ 4400 Torque RPM ~ 1.8 Engine Displacement ~ Inline Engine Configuration ~ 4 Cylinders ~ 26 EPA City Fuel Economy ~ 34 EPA Highway Fuel Economy ~ 29 EPA Combined Fuel Economy ~ Automatic Transmission Type ~ 4 Gear Number ~ 2.85 First Gear Ratio ~ 1.55 Second Gear Ratio ~ 1.0 Third Gear Ratio ~ 0.7 Fourth Gear Ratio ~ 2.34 Reverse Gear Ratio",
+    "listPrice": "$8,995"
+  }
+]

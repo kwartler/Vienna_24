@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDBU4EE1B9128772",
+    "trueCarID": "N128772",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDBU4EE1B9128772/2011-toyota-corolla/",
+    "listingDateDiff": "44 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "200,006",
+    "interiorColor": "Gray",
+    "exteriorColor": "Red",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "San Antonio, TX",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$131/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "Great Price",
+    "allFeatures": "4-Cyl 1.8 Liter ~ Automatic 4-Spd w/Overdrive ~ FWD ~ Traction Control ~ Stability Control ~ ABS (4-Wheel) ~ Anti-Theft System ~ Keyless Entry ~ Air Conditioning ~ Power Windows ~ Power Door Locks ~ Cruise Control ~ Power Steering ~ Tilt Wheel ~ AM/FM Stereo ~ CD/MP3 (Single Disc) ~ Dual Air Bags ~ Side Air Bags",
+    "listPrice": "$7,884"
+  }
+]

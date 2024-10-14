@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPMAE5N3006997",
+    "trueCarID": "P5634",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPMAE5N3006997/2022-toyota-corolla/",
+    "listingDateDiff": "Adaptive Cruise Control",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "5,188",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Daytona Beach, FL",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$419/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$405 ",
+    "priceClassDiffAmt": "(1.6%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Trunk Rear Cargo Access ~ Compact Spare Tire Mounted Inside Under Cargo ~ Light Tinted Glass ~ Body-Colored Power Side Mirrors w/Manual Folding ~ Auto On/Off Projector Beam Led Low/High Beam Daytime Running Auto High-Beam Headlamps w/Delay-Off ~ Body-Colored Front Bumper w/Black Bumper Insert ~ Fixed Rear Window w/Defroster ~ Headlights-Automatic Highbeams ~ Black Side Windows Trim ~ Wheels w/Full Wheel Covers ~ Variable Intermittent Wipers ~ LED Brakelights ~ Black Grille ~ Tires: P205/55R16 All-Season ~ Body-Colored Door Handles ~ Fully Galvanized Steel Panels ~ Steel Spare Wheel ~ Clearcoat Paint",
+    "listPrice": "$25,288"
+  }
+]

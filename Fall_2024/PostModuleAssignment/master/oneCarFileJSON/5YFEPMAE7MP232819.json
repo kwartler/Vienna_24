@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE7MP232819",
+    "trueCarID": "FU7109",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE7MP232819/2021-toyota-corolla/",
+    "listingDateDiff": "45 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "38,579",
+    "interiorColor": "Light Gray",
+    "exteriorColor": "Gray",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Bronx, NY",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$347/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$56 ",
+    "priceClassDiffAmt": "(0.3%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Gas Engine Type ~ Regular Unleaded Fuel Type ~ 139 Horsepower ~ 6100 Horsepower RPM ~ 126 Torque ~ 3900 Torque RPM ~ 1.8 Engine Displacement ~ Inline Engine Configuration ~ 4 Cylinders ~ Variable Valvetrain ~ Double Overhead Valvetrain ~ 16 Number of Valves ~ 10.69 Compression Ratio ~ 30 EPA City Fuel Economy ~ 38 EPA Highway Fuel Economy ~ 33 EPA Combined Fuel Economy ~ Automatic Transmission Type ~ Continuously Variable",
+    "listPrice": "$20,925"
+  }
+]

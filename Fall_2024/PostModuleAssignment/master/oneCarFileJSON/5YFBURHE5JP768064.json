@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE5JP768064",
+    "trueCarID": "JP768064",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE5JP768064/2018-toyota-corolla/",
+    "listingDateDiff": "24 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Theft Recovery",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "95,181",
+    "interiorColor": "Black",
+    "exteriorColor": "Slate Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Winter Park, FL",
+    "mileageRating": "28 cty / 35 hwy",
+    "monthlyPayment": "$247/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$149 ",
+    "priceClassDiffAmt": "(1%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Sun/Moonroof ~ Lane Keeping Assist ~ Keyless Start ~ Bluetooth Connection ~ Rear Spoiler ~ Se Premium Package -Inc: Smart Key System W/Push Button Start ~  Panic And Trunk Releases ~  Tilt &amp; Slide Moonroof ~  Sliding Sunshade ~  Radio: Entune Audio Plus W/Connected Navigation ~  Entune Multimedia Bundle (7\" High Resolution Touch-Screen Display ~  AM/FM CD Player ~  6 Speakers ~  Auxiliary Audio Jack ~  Usb 2.0 Port W/Ipod Connectivity And Control ~  Advanced Voice Recognition ~  Hands-Free Phone Capability ~  Phone Book Access And Music Streaming Via Bluetooth Wireless Technology)",
+    "listPrice": "$14,887"
+  }
+]

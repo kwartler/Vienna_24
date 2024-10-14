@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAE6LJ030439",
+    "trueCarID": "LJ030439",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAE6LJ030439/2020-toyota-corolla/",
+    "listingDateDiff": "107 days ago",
+    "vehicleHistUseType": "Mixed Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "60,454",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 2 owners",
+    "location": "Montclair, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$312/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$149 ",
+    "priceClassDiffAmt": "(0.8%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "(Backup Camera & Bluetooth Audio) ~ 50 State Emissions ~ Fleet Credit",
+    "listPrice": "$18,819"
+  }
+]

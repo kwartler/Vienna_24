@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAEXLJ056705",
+    "trueCarID": 56705,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAEXLJ056705/2020-toyota-corolla/?zipcode=02818",
+    "listingDateDiff": "24 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "28,219",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Online Retailer",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$365/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$848 ",
+    "priceClassDiffAmt": "(3.9%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Rear-View Camera ~ Adjustable Seats ~ LED Lights ~ Air Conditioning ~ Braking Assist ~ Electronic Brake Force Distribution ~ Daytime Running Lights ~ Digital Instrument Cluster ~ Traction Control ~ Split/Folding Seats ~ Handsfree/Bluetooth Integration ~ 6 Speakers ~ Side Curtain Airbags ~ Child Seat Anchors ~ 16 Inch Wheels ~ 4-Wheel Disc Brakes ~ 8 Airbags ~ Adaptive Cruise Control",
+    "listPrice": "$21,999"
+  }
+]

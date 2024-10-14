@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE6GP502688",
+    "trueCarID": "GP502688T",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE6GP502688/2016-toyota-corolla/",
+    "listingDateDiff": "15 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "58,743",
+    "interiorColor": "Black",
+    "exteriorColor": "Slate Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Jacksonville, FL",
+    "mileageRating": "27 cty / 36 hwy",
+    "monthlyPayment": "$269/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$309 ",
+    "priceClassDiffAmt": "(1.9%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ Front Disc/Rear Drum Brakes ~ Brake Assist ~ Wheel Covers ~ Steel Wheels ~ Temporary Spare Tire ~ Power Mirror(s) ~ Rear Defrost ~ Intermittent Wipers ~ Daytime Running Lights ~ Automatic Headlights ~ LED Headlights ~ AM/FM Stereo ~ CD Player ~ Bluetooth Connection ~ Auxiliary Audio Input",
+    "listPrice": "$16,249"
+  }
+]

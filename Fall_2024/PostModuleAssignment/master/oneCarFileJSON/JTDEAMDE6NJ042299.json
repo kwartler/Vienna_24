@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEAMDE6NJ042299",
+    "trueCarID": "UN25924",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEAMDE6NJ042299/2022-toyota-corolla/",
+    "listingDateDiff": "65 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Hybrid",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Hybrid",
+    "mileage": "10,489",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Unknown",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "Antioch, CA",
+    "mileageRating": "53 cty / 52 hwy",
+    "monthlyPayment": "$504/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$199 ",
+    "priceClassDiffAmt": "(0.7%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ 4-Wheel Disc Brakes ~ Brake Assist ~ Aluminum Wheels ~ Tires - Front All-Season ~ Tires - Rear All-Season ~ Wheel Covers ~ Heated Mirrors ~ Power Mirror(s) ~ Rear Defrost ~ Intermittent Wipers ~ Variable Speed Intermittent Wipers ~ Automatic Highbeams ~ Daytime Running Lights ~ Automatic Headlights ~ LED Headlights",
+    "listPrice": "$30,399"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBU4EE9DP155098",
+    "trueCarID": null,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBU4EE9DP155098/2013-toyota-corolla/",
+    "listingDateDiff": "21 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "210,112",
+    "interiorColor": "Gray",
+    "exteriorColor": "Blue",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Chesapeake, VA",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$83/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": null,
+    "allFeatures": "Front Bumper Color - Body-Color ~  Grille Color - Body-Color ~  Mirror Color - Body-Color ~  Rear Bumper Color - Body-Color ~  Window Trim - Black ~  Air Filtration ~  Floor Material - Carpet ~  Front Air Conditioning ~  Front Air Conditioning Zones - Single ~  Interior Accents - Metallic-Tone ~  Assist Handle - Front ~  Assist Handle - Rear ~  Cargo Area Light ~  Center Console - Front Console With Storage ~  Cruise Control ~  Cupholders - Front ~  Cupholders - Rear ~  Multi-Function Remote - Keyless Entry",
+    "listPrice": "$4,998"
+  }
+]

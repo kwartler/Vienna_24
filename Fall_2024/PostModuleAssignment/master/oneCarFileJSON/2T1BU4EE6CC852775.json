@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BU4EE6CC852775",
+    "trueCarID": 852775,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BU4EE6CC852775/2012-toyota-corolla/",
+    "listingDateDiff": "22 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "118,104",
+    "interiorColor": "Gray",
+    "exteriorColor": "Red",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Alpharetta, GA",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$164/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$431 ",
+    "priceClassDiffAmt": "(4.4%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "Door Handle Color - Body-Color ~  Grille Color - Body-Color Surround ~  Mirror Color - Body-Color ~  Steering Ratio - 17.4 ~  Turns Lock-To-Lock - 3.40 ~  Air Filtration ~  Front Air Conditioning ~  Front Air Conditioning Zones - Single ~  Cargo Area Light ~  Center Console - Front Console With Storage ~  Cruise Control ~  Cupholders - Front ~  Cupholders - Rear ~  Multi-Function Remote - Keyless Entry ~  Multi-Function Remote - Panic Alarm ~  Multi-Function Remote - Trunk Release ~  One-Touch Windows - 1 ~  Power Outlet(S) - 12v",
+    "listPrice": "$9,901"
+  }
+]

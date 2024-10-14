@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFS4MCE4MP096447",
+    "trueCarID": 96447,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFS4MCE4MP096447/2021-toyota-corolla/?zipcode=83227",
+    "listingDateDiff": "Premium Wheels",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "7,225",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Online Retailer",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$447/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$675 ",
+    "priceClassDiffAmt": "(2.5%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Rear-View Camera ~ Adjustable Seats ~ LED Lights ~ Daytime Running Lights ~ 18 Inch Wheels ~ Integrated Garage Door Opener ~ Handsfree/Bluetooth Integration ~ 6 Speakers ~ Leather Steering Wheel ~ 10 Airbags ~ Adaptive Cruise Control ~ Android Auto ~ Apple Carplay ~ Black Grille ~ Cloth Seats ~ Dual Exhaust ~ Heated Mirrors ~ High-Beam Assist",
+    "listPrice": "$26,999"
+  }
+]

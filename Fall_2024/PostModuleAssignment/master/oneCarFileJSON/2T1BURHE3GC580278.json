@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE3GC580278",
+    "trueCarID": "22E7026C",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE3GC580278/2016-toyota-corolla/",
+    "listingDateDiff": "16 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "78,950",
+    "interiorColor": "Steel Blue",
+    "exteriorColor": "Blue Crush Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Baltimore, MD",
+    "mileageRating": "29 cty / 37 hwy",
+    "monthlyPayment": "$273/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$99 ",
+    "priceClassDiffAmt": "(0.6%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "S Premium Package ~ 6 Speakers ~ CD player ~ Radio data system ~ Air Conditioning ~ Rear window defroster ~ Power steering ~ Power windows ~ Steering wheel mounted audio controls ~ Speed-sensing steering ~ Traction control ~ ABS brakes ~ Dual front impact airbags ~ Dual front side impact airbags ~ Front anti-roll bar ~ Front wheel independent suspension ~ Knee airbag ~ Low tire pressure warning",
+    "listPrice": "$16,500"
+  }
+]

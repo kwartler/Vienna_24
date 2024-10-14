@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPRAE4LP107532",
+    "trueCarID": "LP107532",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPRAE4LP107532/2020-toyota-corolla/",
+    "listingDateDiff": "7 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "80,766",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Montclair, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$298/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "(Remote Keyless Entry & Bluetooth Connection) ~ 50 State Emissions ~ Fleet Credit",
+    "listPrice": "$17,999"
+  }
+]

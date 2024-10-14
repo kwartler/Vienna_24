@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE8HC934233",
+    "trueCarID": 9504,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE8HC934233/2017-toyota-corolla/",
+    "listingDateDiff": "336 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "135,273",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "Amarillo, TX",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$263/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "High Price",
+    "allFeatures": "Air Conditioning ~  Power Windows ~  Power Locks ~  Power Steering ~  Tilt Wheel ~  AM/FM CD/MP3 ~  Satellite ~  Immobilizer ~  Keyless Entry ~  Daytime Running Lights ~  Dual Front Airbags ~  Side Airbags ~  Head Airbags ~  Rear Head Airbags ~  Active Seatbelts ~  All Wheel ABS",
+    "listPrice": "$15,900"
+  }
+]

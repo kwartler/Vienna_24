@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDP4MCE8N3513665",
+    "trueCarID": "N3513665",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDP4MCE8N3513665/2022-toyota-corolla/",
+    "listingDateDiff": "3 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 0,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": 442,
+    "interiorColor": "Black",
+    "exteriorColor": "Celestite",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 0 owners",
+    "location": "Bellevue, WA",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$414/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$181 ",
+    "priceClassDiffAmt": "(0.7%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Sun/Moonroof ~ Preferred Owners Portfolio (Tms) (Ppo) ~ Frameless Homelink Mirror (Tms) (Ppo) ~ Blackout Emblem Overlays (Tms) (Ppo) ~ Lane Keeping Assist ~ Body Side Moldings (Tms) (Ppo) ~ All-Weather Floor Liner Package (Tms) -Inc: All-Weather Floor Liners (Ppo) ~ Keyless Start ~ Bluetooth Connection ~ Radio: Audio Plus -Inc:  ~  8\" Touchscreen ~  6 Speakers ~  Usb Media Port ~  1 Usb Charge Port ~  Hands-Free Phone Capability ~  Music Streaming Via Bluetooth Wireless Technology ~  Android Auto ~  Apple Carplay",
+    "listPrice": "$24,990"
+  }
+]

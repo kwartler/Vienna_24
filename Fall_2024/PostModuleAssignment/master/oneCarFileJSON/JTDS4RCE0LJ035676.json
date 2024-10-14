@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDS4RCE0LJ035676",
+    "trueCarID": "PMC-664",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDS4RCE0LJ035676/2020-toyota-corolla/",
+    "listingDateDiff": "66 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "42,326",
+    "interiorColor": "Gray",
+    "exteriorColor": "Celestite Gray Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Mount Orab, OH",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$360/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$147 ",
+    "priceClassDiffAmt": "(0.7%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Lip Spoiler ~ Compact Spare Tire Mounted Inside Under Cargo ~ Metal-Look Bodyside Insert ~ Light Tinted Glass ~ Auto On/Off Projector Beam Led Low/High Beam Daytime Running Auto High-Beam Headlamps w/Delay-Off ~ Body-Colored Front Bumper w/Black Rub Strip/Fascia Accent and Body-Colored Bumper Insert ~ Tires: P225/40R18 All-Season ~ Wheels: 18\" Machined Alloy -inc: dark gray painted accents ~ Fixed Rear Window w/Defroster ~ Headlights-Automatic Highbeams ~ Black Side Windows Trim ~ Gray Grille ~ Variable Intermittent Wipers ~ LED Brakelights ~ Body-Colored Door Handles ~ Fully Galvanized Steel Panels ~ Steel Spare Wheel ~ Body-Colored Power Heated Side Mirrors w/Manual Folding and Turn Signal Indicator",
+    "listPrice": "$21,708"
+  }
+]

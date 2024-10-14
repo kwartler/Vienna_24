@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPRAE3LP087239",
+    "trueCarID": 7272,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPRAE3LP087239/2020-toyota-corolla/",
+    "listingDateDiff": "219 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "42,590",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Sacramento, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$365/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$371 ",
+    "priceClassDiffAmt": "(1.7%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Gas Engine Type ~ Regular Unleaded Fuel Type ~ 139 Horsepower ~ 6100 Horsepower RPM ~ 126 Torque ~ 3900 Torque RPM ~ 1.8 Engine Displacement ~ Inline Engine Configuration ~ 4 Cylinders ~ Variable Valvetrain ~ Double Overhead Valvetrain ~ 16 Number of Valves ~ 10.69 Compression Ratio ~ 30 EPA City Fuel Economy ~ 38 EPA Highway Fuel Economy ~ 33 EPA Combined Fuel Economy ~ Automatic Transmission Type ~ Continuously Variable",
+    "listPrice": "$21,999"
+  }
+]

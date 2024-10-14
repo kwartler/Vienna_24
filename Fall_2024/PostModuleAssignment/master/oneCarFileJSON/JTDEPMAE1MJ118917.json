@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPMAE1MJ118917",
+    "trueCarID": "32415A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPMAE1MJ118917/2021-toyota-corolla/",
+    "listingDateDiff": "2 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "32,415",
+    "interiorColor": "Fb20",
+    "exteriorColor": "01k3",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "New Bern, NC",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$381/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$22 ",
+    "priceClassDiffAmt": "(0.1%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Wheels: 16'' Wide Vent Steel ~ Premium Fabric Seat Trim ~ Radio: Audio ~ 4-Wheel Disc Brakes ~ 6 Speakers ~ Air Conditioning ~ Electronic Stability Control ~ Front Bucket Seats ~ Front Center Armrest ~ Tachometer ~ ABS brakes ~ Automatic temperature control ~ Brake assist ~ Bumpers: body-color ~ Delay-off headlights ~ Driver door bin ~ Driver vanity mirror ~ Dual front impact airbags",
+    "listPrice": "$22,998"
+  }
+]

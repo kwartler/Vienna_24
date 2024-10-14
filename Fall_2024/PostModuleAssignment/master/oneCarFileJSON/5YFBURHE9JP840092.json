@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE9JP840092",
+    "trueCarID": "JP840092",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE9JP840092/2018-toyota-corolla/",
+    "listingDateDiff": "49 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "39,729",
+    "interiorColor": "Steel Gray",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Montclair, CA",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$295/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$302 ",
+    "priceClassDiffAmt": "(1.7%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "(Backup Camera & Bluetooth Audio) ~ 50 State Emissions ~ Classic Silver Metallic ~ Door Edge Guards ~ Keyless Entry System",
+    "listPrice": "$17,799"
+  }
+]

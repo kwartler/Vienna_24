@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE6KP896394",
+    "trueCarID": null,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE6KP896394/2019-toyota-corolla/",
+    "listingDateDiff": "22 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "111,284",
+    "interiorColor": "Gray",
+    "exteriorColor": "Silver",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "Garland, TX",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$248/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "Fair Price",
+    "allFeatures": "Door Handle Color - Body-Color ~  Front Bumper Color - Body-Color ~  Grille Color - Black ~  Mirror Color - Body-Color ~  Rear Bumper Color - Body-Color ~  Steering Ratio - 17.8 ~  Turns Lock-To-Lock - 3.2 ~  Air Filtration ~  Floor Material - Carpet ~  Front Air Conditioning Zones - Single ~  Shift Knob Trim - Alloy ~  Steering Wheel Trim - Urethane ~  Adaptive Cruise Control ~  Assist Handle - Front ~  Assist Handle - Rear ~  Center Console - Front Console With Armrest And Storage ~  Cupholders - Front ~  Cupholders - Rear",
+    "listPrice": "$14,995"
+  }
+]

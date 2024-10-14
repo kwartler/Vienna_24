@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE1HP587473",
+    "trueCarID": "HP587473",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE1HP587473/2017-toyota-corolla/",
+    "listingDateDiff": "6 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "88,872",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Cerritos, CA",
+    "mileageRating": "28 cty / 35 hwy",
+    "monthlyPayment": "$281/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Sun/Moonroof ~ Carpet Mat Package (Tms) -Inc: Carpet Floor Mats &amp; Trunk Mat (Ppo) ~ Lane Keeping Assist ~ Rear Bumper Protector (Tms) (Ppo) ~ Keyless Start ~ Bluetooth Connection ~ Rear Spoiler ~ Black ~  Fabric Seat Trim W/Softex ~ Super White ~ Se Premium Package -Inc: Smart Key System W/Push Button Start ~  Panic And Trunk Releases ~  Tilt &amp; Slide Moonroof ~  Sliding Sunshade ~  Radio: Entune Audio Plus W/Connected Navigation ~  Entune Multimedia Bundle (7\" High Resolution Touch-Screen Display ~  AM/FM CD Player ~  6 Speakers",
+    "listPrice": "$16,982"
+  }
+]

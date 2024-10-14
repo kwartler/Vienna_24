@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE0MP232466",
+    "trueCarID": "MP232466",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE0MP232466/2021-toyota-corolla/",
+    "listingDateDiff": "42 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "46,107",
+    "interiorColor": "Black",
+    "exteriorColor": "Barcelona Red Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "Certified Pre-Owned",
+    "location": "Englewood, CO",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$333/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$43 ",
+    "priceClassDiffAmt": "(0.2%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Lane Keeping Assist ~ Bluetooth Connection ~ Black ~  Premium Fabric Seat Trim ~ Barcelona Red Metallic",
+    "listPrice": "$20,098"
+  }
+]

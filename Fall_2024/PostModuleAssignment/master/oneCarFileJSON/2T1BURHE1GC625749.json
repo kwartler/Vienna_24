@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE1GC625749",
+    "trueCarID": null,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE1GC625749/2016-toyota-corolla/",
+    "listingDateDiff": "118 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "104,272",
+    "interiorColor": "Brown",
+    "exteriorColor": "White",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 2 owners",
+    "location": "West Chester, OH",
+    "mileageRating": "27 cty / 36 hwy",
+    "monthlyPayment": "$204/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$210 ",
+    "priceClassDiffAmt": "(1.7%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Door Handle Color - Body-Color ~  Front Bumper Color - Body-Color ~  Grille Color - Black ~  Mirror Color - Body-Color ~  Rear Bumper Color - Body-Color ~  Window Trim - Black ~  Air Filtration ~  Floor Material - Carpet ~  Front Air Conditioning ~  Front Air Conditioning Zones - Single ~  Steering Wheel Trim - Urethane ~  Assist Handle - Front ~  Center Console - Front Console With Armrest And Storage ~  Cupholders - Front ~  Cupholders - Rear ~  Power Steering ~  Steering Wheel - Tilt And Telescopic ~  Steering Wheel Mounted Controls - Audio",
+    "listPrice": "$12,295"
+  }
+]

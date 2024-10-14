@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE6HP593589",
+    "trueCarID": 213649,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE6HP593589/2017-toyota-corolla/",
+    "listingDateDiff": "1547 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "44,485",
+    "interiorColor": "Black",
+    "exteriorColor": "Slate Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Honolulu, HI",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$381/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$409 ",
+    "priceClassDiffAmt": "(1.8%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Air filtration ~ Front air conditioning zones: single ~ Front air conditioning: automatic climate control ~ Airbag deactivation: occupant sensing passenger ~ Front airbags: dual ~ Knee airbags: driver ~ Side airbags: front ~ Side curtain airbags: front ~ Side-curtain airbag rollover sensor ~ Antenna type: element ~ Auxiliary audio input: Bluetooth ~ In-Dash CD: MP3 Playback ~ Radio data system ~ Radio: AM/FM ~ Speed sensitive volume control ~ Total speakers: 6 ~ ABS: 4-wheel ~ Braking assist",
+    "listPrice": "$22,995"
+  }
+]

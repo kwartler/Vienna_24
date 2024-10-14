@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAE4LJ084080",
+    "trueCarID": 45634,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAE4LJ084080/2020-toyota-corolla/",
+    "listingDateDiff": "3 days ago",
+    "vehicleHistUseType": "Mixed Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "43,910",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "Fresno, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$398/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$891 ",
+    "priceClassDiffAmt": "(3.7%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "50 State Emissions ~ Fleet Credit ~ Super White",
+    "listPrice": "$23,995"
+  }
+]

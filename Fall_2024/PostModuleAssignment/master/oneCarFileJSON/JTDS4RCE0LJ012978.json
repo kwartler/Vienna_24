@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDS4RCE0LJ012978",
+    "trueCarID": "60415A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDS4RCE0LJ012978/2020-toyota-corolla/",
+    "listingDateDiff": "4 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "60,355",
+    "interiorColor": "Gray",
+    "exteriorColor": "Blueprint",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Bellflower, CA",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$341/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$359 ",
+    "priceClassDiffAmt": "(1.7%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ 4-Wheel Disc Brakes ~ Brake Assist ~ Aluminum Wheels ~ Tires - Front Performance ~ Tires - Rear Performance ~ Temporary Spare Tire ~ Heated Mirrors ~ Power Mirror(s) ~ Integrated Turn Signal Mirrors ~ Rear Defrost ~ Intermittent Wipers ~ Variable Speed Intermittent Wipers ~ Rear Spoiler ~ Daytime Running Lights ~ Automatic Headlights",
+    "listPrice": "$20,590"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFM4RCE0LP014301",
+    "trueCarID": "A32759A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFM4RCE0LP014301/2020-toyota-corolla/",
+    "listingDateDiff": "Premium Wheels",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Manual",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "20,160",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Staunton, VA",
+    "mileageRating": "29 cty / 36 hwy",
+    "monthlyPayment": "$405/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$771 ",
+    "priceClassDiffAmt": "(3.2%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Lane Keeping Assist ~ Pre-Collision Warning System Audible Warning ~ Pre-Collision Warning System Visual Warning ~ Lane Deviation Sensors ~ Traffic Sign Recognition ~ Electronic Messaging Assistance With Read Function ~ Electronic Messaging Assistance With Voice Recognition ~ Multi-Function Display ~ Stability Control ~ Steering Wheel Mounted Controls Voice Recognition Controls ~ Impact Sensor Alert System ~ Impact Sensor Fuel Cut-Off ~ Crumple Zones Front ~ Crumple Zones Rear ~ Cruise Control Adaptive ~ Moonroof Power Glass ~ Headlights LED ~ Air Conditioning - Front - Automatic Climate Control",
+    "listPrice": "$24,421"
+  }
+]

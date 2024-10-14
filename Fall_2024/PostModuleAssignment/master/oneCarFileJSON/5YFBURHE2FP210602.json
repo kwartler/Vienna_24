@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE2FP210602",
+    "trueCarID": 210602,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE2FP210602/2015-toyota-corolla/",
+    "listingDateDiff": "30 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "90,741",
+    "interiorColor": "Steel Gray",
+    "exteriorColor": "Blue Crush Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Stratford, CT",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$215/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$374 ",
+    "priceClassDiffAmt": "(2.9%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "4 Cylinder Engine ~ ABS ~ A/C ~ Adjustable Steering Wheel ~ AM/FM Stereo ~ Automatic Headlights ~ Auxiliary Audio Input ~ Brake Assist ~ Bucket Seats ~ CD Player ~ Child Safety Locks ~ Temporary Spare Tire ~ Daytime Running Lights ~ Driver Air Bag ~ Driver Vanity Mirror ~ Stability Control ~ Front Wheel Drive ~ Gasoline Fuel",
+    "listPrice": "$12,995"
+  }
+]

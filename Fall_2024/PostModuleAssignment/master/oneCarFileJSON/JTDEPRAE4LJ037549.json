@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAE4LJ037549",
+    "trueCarID": "A3177",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAE4LJ037549/2020-toyota-corolla/",
+    "listingDateDiff": "10 days ago",
+    "vehicleHistUseType": "Mixed Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "82,376",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Unknown",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Herculaneum, MO",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$341/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$154 ",
+    "priceClassDiffAmt": "(0.7%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "4-Wheel Disc Brakes ~ 6 Speakers ~ ABS brakes ~ Air Conditioning ~ AM/FM radio: SiriusXM ~ Auto High-beam Headlights ~ Automatic temperature control ~ Brake assist ~ Bumpers: body-color ~ Delay-off headlights ~ Driver door bin ~ Driver vanity mirror ~ Dual front impact airbags ~ Dual front side impact airbags ~ Electronic Stability Control ~ Emergency communication system: Safety Connect with 3-year trial ~ Exterior Parking Camera Rear ~ Four wheel independent suspension",
+    "listPrice": "$20,575"
+  }
+]

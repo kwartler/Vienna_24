@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE7EC135278",
+    "trueCarID": 7135278,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE7EC135278/2014-toyota-corolla/",
+    "listingDateDiff": "125 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "96,090",
+    "interiorColor": "Gray",
+    "exteriorColor": "Brown Sugar Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 3 owners",
+    "location": "Alpharetta, GA",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$199/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$104 ",
+    "priceClassDiffAmt": "(0.9%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "AM/FM ~ CD Player ~ Anti-Theft ~ AC ~ Cruise ~ Power Locks ~ Power Windows ~ Climate Control ~ Tilt ~ Power Steering ~ Anti-Lock Brakes ~ Dual Front Airbags ~ Side Airbags ~ Traction Control ~ Keyless Entry ~ Variable Wipers ~ Rear Defroster ~ Steering Radio Ctrls",
+    "listPrice": "$11,990"
+  }
+]

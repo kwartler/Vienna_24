@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAEXLJ039760",
+    "trueCarID": "F31452",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAEXLJ039760/2020-toyota-corolla/",
+    "listingDateDiff": "421 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "33,033",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "2 accidents, 2 owners",
+    "location": "Fullerton, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$330/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "1 12V DC Power Outlet ~ 13.2 Gal. Fuel Tank ~ 2 LCD Monitors In The Front ~ 4-Wheel Disc Brakes with 4-Wheel ABS : Front Vented Discs / Brake Assist / Hill Hold Control and Electric Parking Brake ~ 4.76 Axle Ratio ~ 60-40 Folding Bench Front Facing Fold Forward Seatback Rear Seat ~ ABS And Driveline Traction Control ~ Air Filtration ~ Airbag Occupancy Sensor ~ Analog Appearance ~ Auto On/Off Projector Beam Led Lowith High Beam Daytime Running Auto High-Beam Headlamps with Delay-Off ~ Automatic Air Conditioning ~ Back-Up Camera ~ Battery with Run Down Protection ~ Black Grille ~ Black Side Windows Trim ~ Body-Colored Door Handles ~ Body-Colored Front Bumper with Black Bumper Insert",
+    "listPrice": "$19,901"
+  }
+]

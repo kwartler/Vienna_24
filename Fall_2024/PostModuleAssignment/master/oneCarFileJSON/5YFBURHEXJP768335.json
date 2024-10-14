@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHEXJP768335",
+    "trueCarID": "1104817A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHEXJP768335/2018-toyota-corolla/",
+    "listingDateDiff": "6 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "59,676",
+    "interiorColor": "Gray",
+    "exteriorColor": "White",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Honolulu, HI",
+    "mileageRating": "28 cty / 35 hwy",
+    "monthlyPayment": "$348/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$182 ",
+    "priceClassDiffAmt": "(0.9%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "ENG- 1.8L DOHC 16V DUAL VVTI ~ ORIGINAL LIST ~ csa&adj ~ rep hd/r.f.dr/r.r.dr/l.f.dr/l. ~ refin bump ~ win glas/win reg/mirr assy ~ full detail ~ full detail ~ seat extraction ~ rep qtr pan/dr/clr match ~ DMV ~ wash ~ complete detail ~ extraction ~ rep fend/clr match",
+    "listPrice": "$20,995"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEBRBE2LJ008161",
+    "trueCarID": "S8161",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEBRBE2LJ008161/2020-toyota-corolla/",
+    "listingDateDiff": "103 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Hybrid",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Hybrid",
+    "mileage": "40,997",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Fredericksburg, VA",
+    "mileageRating": "53 cty / 52 hwy",
+    "monthlyPayment": "$360/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$563 ",
+    "priceClassDiffAmt": "(2.6%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "4th Door ~ Air Conditioning ~ Bucket Seats ~ CD player ~ Child-Safety Locks ~ Climate Control ~ Cruise Control ~ Cup Holder ~ Daytime Running Lights ~ Driver Side Airbag ~ Dual Airbag ~ Dual Climate Control ~ Fog Lights ~ Intermittent Wipers ~ Keyless Entry ~ Power Brakes ~ Power Door Locks ~ Power Lift Gates",
+    "listPrice": "$21,750"
+  }
+]

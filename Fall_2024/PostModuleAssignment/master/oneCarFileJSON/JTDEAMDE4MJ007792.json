@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEAMDE4MJ007792",
+    "trueCarID": "AH220843A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEAMDE4MJ007792/2021-toyota-corolla/",
+    "listingDateDiff": "245 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Hybrid",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Hybrid",
+    "mileage": "36,606",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Auburn, WA",
+    "mileageRating": "53 cty / 52 hwy",
+    "monthlyPayment": "$457/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$168 ",
+    "priceClassDiffAmt": "(0.6%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ ABS ~ 4-Wheel Disc Brakes ~ Brake Assist ~ Aluminum Wheels ~ Tires - Front All-Season ~ Tires - Rear All-Season ~ Wheel Covers ~ Heated Mirrors ~ Power Mirror(s) ~ Rear Defrost ~ Intermittent Wipers ~ Variable Speed Intermittent Wipers ~ Automatic Highbeams ~ Daytime Running Lights ~ Automatic Headlights ~ LED Headlights",
+    "listPrice": "$27,589"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE9NP275303",
+    "trueCarID": "NP275303",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE9NP275303/2022-toyota-corolla/",
+    "listingDateDiff": "15 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "35,252",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Englewood, CO",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$376/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$61 ",
+    "priceClassDiffAmt": "(0.3%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Lane Keeping Assist ~ Bluetooth Connection ~ Black ~  Premium Fabric Seat Trim ~ Classic Silver Metallic ~ 50 State Emissions",
+    "listPrice": "$22,698"
+  }
+]

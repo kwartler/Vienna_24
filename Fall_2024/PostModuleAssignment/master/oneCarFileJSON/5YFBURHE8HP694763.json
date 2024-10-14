@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE8HP694763",
+    "trueCarID": 22223,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE8HP694763/2017-toyota-corolla/",
+    "listingDateDiff": "94 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "66,725",
+    "interiorColor": "Black",
+    "exteriorColor": "Barcelona Red Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Strasburg, PA",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$297/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "30 MPG City ~ 40 MPG Highway ~ 5 Passenger ~ Adaptive Cruise Control ~ AM/FM Stereo ~ Auto Headlights ~ Aux MP3 Port ~ Back-Up Camera ~ Bluetooth ~ CD Player ~ Climate Control ~ Econ Mode ~ Lane Departure Assist ~ Outside Temp Display ~ Power Door Locks ~ Power Mirrors ~ Power Windows ~ Remote Keyless Entry",
+    "listPrice": "$17,900"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE2HP697433",
+    "trueCarID": "P67894",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE2HP697433/2017-toyota-corolla/",
+    "listingDateDiff": "57 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "80,244",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Seffner, FL",
+    "mileageRating": "28 cty / 35 hwy",
+    "monthlyPayment": "$232/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$282 ",
+    "priceClassDiffAmt": "(2%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Gas Engine Type ~ Regular Unleaded Fuel Type ~ 132 Horsepower ~ 6000 Horsepower RPM ~ 128 Torque ~ 4400 Torque RPM ~ 1.8 Engine Displacement ~ Inline Engine Configuration ~ 4 Cylinders ~ Variable Valvetrain ~ Double Overhead Valvetrain ~ 16 Number of Valves ~ 10.0 Compression Ratio ~ Sport Mode ~ 28 EPA City Fuel Economy ~ 35 EPA Highway Fuel Economy ~ 31 EPA Combined Fuel Economy ~ Automatic Transmission Type",
+    "listPrice": "$13,994"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE4FC329669",
+    "trueCarID": "QG23497A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE4FC329669/2015-toyota-corolla/",
+    "listingDateDiff": "2 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "62,665",
+    "interiorColor": "Ash",
+    "exteriorColor": "Slate Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "Duluth, GA",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$282/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$391 ",
+    "priceClassDiffAmt": "(2.3%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "BACK UP CAMERA ~ iPod/MP3 Input ~ Bluetooth® ~ CD Player ~ MP3 Player ~ Keyless Entry ~ Remote Trunk Release ~ Steering Wheel Controls ~ Child Safety Locks ~ Heated Mirrors ~ Electronic Stability Control ~ Bucket Seats ~ Brake Assist ~ 4-Wheel ABS ~ Climate Control ~ Tire Pressure Monitoring System ~ Front Disc/Rear Drum Brakes ~ Vehicle Anti-Theft System",
+    "listPrice": "$16,995"
+  }
+]

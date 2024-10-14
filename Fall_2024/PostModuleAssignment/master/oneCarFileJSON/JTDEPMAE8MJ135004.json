@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPMAE8MJ135004",
+    "trueCarID": "135004R",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPMAE8MJ135004/2021-toyota-corolla/",
+    "listingDateDiff": "122 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Salvage",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "13,921",
+    "interiorColor": "Black",
+    "exteriorColor": "Barcelona Red Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Salt Lake City, UT",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$273/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$198 ",
+    "priceClassDiffAmt": "(1.2%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Air filtration ~ Front air conditioning: automatic climate control ~ Front air conditioning zones: single ~ Airbag deactivation: occupant sensing passenger ~ Front airbags: dual ~ Knee airbags: driver ~ Seat cushion airbags: passenger front ~ Side airbags: front ~  rear ~ Side curtain airbags: front ~  rear ~ Antenna type: diversity ~  mast ~ Auxiliary audio input: Bluetooth ~  USB ~  iPod/iPhone ~  jack ~ Radio: AM/FM",
+    "listPrice": "$16,499"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE4GC720127",
+    "trueCarID": "P6776",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE4GC720127/2016-toyota-corolla/",
+    "listingDateDiff": "45 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "84,798",
+    "interiorColor": "Ash",
+    "exteriorColor": "Gray",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "Schaumburg, IL",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$259/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Headlights LED ~ Airbags - Driver - Knee ~ Daytime Running Lights LED ~ Airbags - Front - Side ~ Airbags - Front - Side Curtain ~ Airbags - Rear - Side Curtain ~ ABS Brakes (4-Wheel) ~ Audio Auxiliary Input: IPod/IPhone Integration ~ Audio Auxiliary Input: USB ~ Seats Front Seat Type: Bucket ~ Auto-Lock ~ Power Windows ~ Exterior Mirrors Power ~ Airbags - Front - Passenger Seat Cushion ~ Rear Seats 60-40 Split Bench ~ Mirror Color Body-Color ~ Air Conditioning - Air Filtration ~ Windows Rear Defogger",
+    "listPrice": "$15,611"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE9MP152390",
+    "trueCarID": 152390,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE9MP152390/2021-toyota-corolla/",
+    "listingDateDiff": "41 days ago",
+    "vehicleHistUseType": "Mixed Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "41,943",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "Colonia, NJ",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$297/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Door Handle Color - Body-Color ~  Front Bumper Color - Body-Color ~  Grille Color - Black ~  Mirror Color - Body-Color ~  Rear Bumper Color - Body-Color ~  Window Trim - Black ~  Air Filtration ~  Armrests - Rear Center With Cupholders ~  Armrests - Rear Folding ~  Floor Material - Carpet ~  Front Air Conditioning - Automatic Climate Control ~  Front Air Conditioning Zones - Single ~  Interior Accents - Chrome ~  Interior Accents - Metallic-Tone ~  Shift Knob Trim - Urethane ~  Steering Wheel Trim - Urethane ~  Adaptive Cruise Control ~  Adaptive Stop And Go Cruise Control - Semi-Automatic",
+    "listPrice": "$17,895"
+  }
+]

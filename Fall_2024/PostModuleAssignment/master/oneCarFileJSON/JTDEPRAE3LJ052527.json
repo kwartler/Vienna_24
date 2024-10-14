@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAE3LJ052527",
+    "trueCarID": "LJ052527",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAE3LJ052527/2020-toyota-corolla/",
+    "listingDateDiff": "261 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "58,601",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Fullerton, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$307/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "(Back Up Camera ~  Lane Departure Alert) ~ 50 State Emissions ~ Black ~  Premium Fabric Seat Trim ~ Carpet Mat Package (Tms) ~ Classic Silver Metallic ~ Fleet Credit ~ Air Bag - Frontal: Driver Air Bag ~ Air Bag - Frontal: Passenger Air Bag ~ Air Conditioning: A/C ~ Air Filtration ~ Audio: Mp3 Player ~ Brakes: 4-Wheel Disc Brakes ~ Brakes: Abs ~ Clearcoat Paint ~ Convenience: Back-Up Camera ~ Convenience: Cruise Control",
+    "listPrice": "$18,499"
+  }
+]

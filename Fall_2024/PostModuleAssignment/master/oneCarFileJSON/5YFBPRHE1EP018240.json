@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBPRHE1EP018240",
+    "trueCarID": "P018240_WSP",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBPRHE1EP018240/2014-toyota-corolla/",
+    "listingDateDiff": "132 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Theft Recovery",
+    "vehicleHistNumOwners": 4,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "79,225",
+    "interiorColor": "Brown",
+    "exteriorColor": "Green",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 4 owners",
+    "location": "Woodinville, WA",
+    "mileageRating": "30 cty / 42 hwy",
+    "monthlyPayment": "$199/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$538 ",
+    "priceClassDiffAmt": "(4.5%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "15'' x 6.0'' Steel Wheels ~ Front Bucket Seats ~ Fabric Seat Trim ~ Radio: AM/FM/CD Player w/6.1'' Touch Screen ~ 6 Speakers ~ Air Conditioning ~ Electronic Stability Control ~ Spoiler ~ Tachometer ~ ABS brakes ~ AM/FM radio ~ Automatic temperature control ~ Brake assist ~ Bumpers: body-color ~ CD player ~ Delay-off headlights ~ Driver door bin ~ Driver vanity mirror",
+    "listPrice": "$11,995"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE8EC116965",
+    "trueCarID": "A10538",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE8EC116965/2014-toyota-corolla/",
+    "listingDateDiff": "219 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Manual",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "63,175",
+    "interiorColor": "Steel Gray",
+    "exteriorColor": "Black Sand Mica",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 2 owners",
+    "location": "Fishers, IN",
+    "mileageRating": "28 cty / 37 hwy",
+    "monthlyPayment": "$282/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$88 ",
+    "priceClassDiffAmt": "(0.5%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Air Conditioning : Climate Control ~ Audio : Cd Player ~ Convenience : Back-Up Camera ~ Convenience : Leather Steering Wheel ~ Convenience : Remote Trunk Release ~ Convenience : Steering Wheel Audio Controls ~ Fuel Economy : 29 Mpg City / 37 Mpg Highway ~ Locks : Keyless Entry ~ Roof: Power Sunroof ~ Safety Features : Brake Assist ~ Safety Features : Daytime Running Lights ~ Safety Features : Integrated Turn Signal Mirrors ~ Transmission: Manual",
+    "listPrice": "$16,989"
+  }
+]

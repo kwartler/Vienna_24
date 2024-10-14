@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE7FP232370",
+    "trueCarID": 300867,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE7FP232370/2015-toyota-corolla/",
+    "listingDateDiff": "100 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 3,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "128,965",
+    "interiorColor": "Gray",
+    "exteriorColor": "Gray",
+    "style": "Sedan",
+    "accidentOwnership": 3,
+    "location": "Houston, TX",
+    "mileageRating": "29 cty / 37 hwy",
+    "monthlyPayment": "$214/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "Fair Price",
+    "allFeatures": "ABS Brakes ~ Air Conditioning ~ Alloy Wheels ~ AM/FM Radio ~ Child Safety Door Locks ~ Cruise Control ~ Daytime Running Lights ~ Driver Airbag ~ Driver Multi-Adjustable Power Seat ~ Electronic Brake Assistance ~ First Aid Kit ~ Fog Lights ~ Front Side Airbag ~ Interval Wipers ~ Leather Steering Wheel ~ Navigation Aid ~ Passenger Airbag ~ Power Sunroof",
+    "listPrice": "$12,900"
+  }
+]

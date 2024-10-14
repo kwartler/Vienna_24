@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDS4RCEXLJ039069",
+    "trueCarID": "F7832",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDS4RCEXLJ039069/2020-toyota-corolla/",
+    "listingDateDiff": "81 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "24,342",
+    "interiorColor": "Black, Premium Cloth",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Falls Church, VA",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$430/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$420 ",
+    "priceClassDiffAmt": "(1.6%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Engine: 2.0L I-4 DOHC 16-Valve -inc: Dynamic force ~ Transmission: Dynamic Shift CVT -inc: physical first launch gear and normal and sport driving modes ~ Transmission w/Sequential Shift Control w/Steering Wheel Controls ~ Front-Wheel Drive ~ 3.79 Axle Ratio ~ Battery w/Run Down Protection ~ Gas-Pressurized Shock Absorbers ~ Front And Rear Anti-Roll Bars ~ Electric Power-Assist Steering ~ 13.2 Gal. Fuel Tank ~ Single Stainless Steel Exhaust w/Chrome Tailpipe Finisher ~ Strut Front Suspension w/Coil Springs ~ Multi-Link Rear Suspension w/Coil Springs ~ 4-Wheel Disc Brakes w/4-Wheel ABS- Front Vented Discs- Brake Assist- Hill Hold Control and Electric Parking Brake ~ Tires: P225/40R18 All-Season ~ Steel Spare Wheel ~ Compact Spare Tire Mounted Inside Under Cargo ~ Clearcoat Paint",
+    "listPrice": "$25,945"
+  }
+]

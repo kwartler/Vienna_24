@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEAMDE9MJ022756",
+    "trueCarID": "MJ022756",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEAMDE9MJ022756/2021-toyota-corolla/",
+    "listingDateDiff": "Premium Wheels",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Hybrid",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Hybrid",
+    "mileage": "51,286",
+    "interiorColor": "Black",
+    "exteriorColor": "Blueprint",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Cerritos, CA",
+    "mileageRating": "53 cty / 52 hwy",
+    "monthlyPayment": "$429/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$49 ",
+    "priceClassDiffAmt": "(0.2%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Carpet Mat Package (Tms) -Inc: Carpet Floor Mats And Trunk Mat (Ppo) ~ Door Edge Guards (Tms) (Ppo) ~ Rear Bumper Protector (Tms) (Ppo) ~ Lane Keeping Assist ~ Keyless Start ~ Bluetooth Connection ~ Black ~  Premium Fabric Seat Trim ~ Blueprint ~ 50 State Emissions",
+    "listPrice": "$25,889"
+  }
+]

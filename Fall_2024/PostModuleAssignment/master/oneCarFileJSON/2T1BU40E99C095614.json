@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BU40E99C095614",
+    "trueCarID": "KBC50406",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BU40E99C095614/2009-toyota-corolla/",
+    "listingDateDiff": "2 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Manual",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "101,579",
+    "interiorColor": "Dark Charcoal",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Annapolis, MD",
+    "mileageRating": "26 cty / 35 hwy",
+    "monthlyPayment": "$166/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$370 ",
+    "priceClassDiffAmt": "(3.7%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Front Wheel Drive ~ Power Steering ~ Front Disc/Rear Drum Brakes ~ Wheel Covers ~ Steel Wheels ~ Tires - Front Performance ~ Tires - Rear Performance ~ Temporary Spare Tire ~ Daytime Running Lights ~ Fog Lamps ~ Power Mirror(s) ~ Intermittent Wipers ~ AM/FM Stereo ~ CD Player ~ MP3 Player ~ Auxiliary Audio Input ~ Cloth Seats ~ Bucket Seats",
+    "listPrice": "$10,000"
+  }
+]

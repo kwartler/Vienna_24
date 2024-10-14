@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BPRHEXFC265564",
+    "trueCarID": "T25975A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BPRHEXFC265564/2015-toyota-corolla/",
+    "listingDateDiff": "10 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "56,552",
+    "interiorColor": "Ash",
+    "exteriorColor": "Slate Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Waukegan, IL",
+    "mileageRating": "30 cty / 40 hwy",
+    "monthlyPayment": "$272/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$295 ",
+    "priceClassDiffAmt": "(1.8%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "POWER TILT/SLIDE MOONROOF  -inc: sliding sunshade ~ DRIVER CONVENIENCE PACKAGE  -inc: Smart Key System w/Push Button Start  panic and trunk releases  Radio: Entune Premium Audio w/Nav & App Suite  AM/FM cache radio  CD player  Entune multimedia bundle  6.1\" high-resolution touch screen w/split-screen display  MP3/WMA playback capability  6 speakers  SiriusXM Satellite Radio (includes 90-day All-Access trial subscription)  HD Radio w/iTunes Tagging  HD predictive traffic and weather (metro areas only)  Doppler weather overlay  auxiliary audio jack  USB 2.0 port w/iPod connectivity and control  Gracenote album cover art  hands-free phone capability  phonebook access  advanced voice recognition  and music streaming via Bluetooth wireless technology  See Toyota.com/Entune for details ~ Front Wheel Drive ~ Power Steering ~ ABS ~ Front Disc/Rear Drum Brakes ~ Brake Assist ~ Aluminum Wheels ~ Tires - Front Performance ~ Tires - Rear Performance ~ Temporary Spare Tire ~ Heated Mirrors ~ Power Mirror(s) ~ Rear Defrost ~ Intermittent Wipers ~ Variable Speed Intermittent Wipers ~ Rear Spoiler ~ Daytime Running Lights",
+    "listPrice": "$16,399"
+  }
+]

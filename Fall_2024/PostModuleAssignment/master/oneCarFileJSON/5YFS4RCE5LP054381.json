@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFS4RCE5LP054381",
+    "trueCarID": "LP054381",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFS4RCE5LP054381/2020-toyota-corolla/",
+    "listingDateDiff": "87 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "1,110",
+    "interiorColor": "Black",
+    "exteriorColor": "Blue Crush Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Montclair, CA",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$415/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$121 ",
+    "priceClassDiffAmt": "(0.5%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "50 State Emissions ~ Blue Crush Metallic ~ Door Edge Guards ~ Air Bag - Frontal: Driver Air Bag ~ Air Bag - Frontal: Passenger Air Bag ~ Air Conditioning: Climate Control ~ Air Filtration ~ Audio: Mp3 Player ~ Brakes: 4-Wheel Disc Brakes ~ Brakes: Abs ~ Clearcoat Paint ~ Engine: 2.0L I-4 Dohc 16-Valve -Inc: Dynamic Force ~ Front-Wheel Drive ~ Led Brakelights ~ Locks: Keyless Entry ~ Locks: Power Door Locks ~ Telephone: Bluetooth Connection ~ Transmission: Cvt Transmission",
+    "listPrice": "$25,049"
+  }
+]

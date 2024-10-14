@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE0GC510902",
+    "trueCarID": "GC510902",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE0GC510902/2016-toyota-corolla/",
+    "listingDateDiff": "219 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 4,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "70,264",
+    "interiorColor": "Lt Gray",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "Manassas, VA",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$265/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$393 ",
+    "priceClassDiffAmt": "(2.5%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Anti-Lock Brakes ~ Compact Disc /AM/FM ~ Driver Air Bag ~ Power Mirrors ~ Power Steering ~ Power Windows ~ Tinted Glass ~ Backup Camera ~ Keyless Entry  ~ Bluetooth Capable ~ Passenger Air Bag ~ Cruise Control ~ Heat/AC  ~ Auxiliary Audio Input ~ Steering Wheel Audio Controls ~ USB Port",
+    "listPrice": "$15,995"
+  }
+]

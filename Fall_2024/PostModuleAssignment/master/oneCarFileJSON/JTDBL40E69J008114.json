@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDBL40E69J008114",
+    "trueCarID": "RA14692",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDBL40E69J008114/2009-toyota-corolla/",
+    "listingDateDiff": "35 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "60,418",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Aluminum",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 2 owners",
+    "location": "Kissimmee, FL",
+    "mileageRating": "27 cty / 35 hwy",
+    "monthlyPayment": "$174/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$407 ",
+    "priceClassDiffAmt": "(3.9%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Gas Engine Type ~ 132 Horsepower ~ 6000 Horsepower RPM ~ 128 Torque ~ 4400 Torque RPM ~ 1.8 Engine Displacement ~ Inline Engine Configuration ~ 4 Cylinders ~ 27 EPA City Fuel Economy ~ 35 EPA Highway Fuel Economy ~ 30 EPA Combined Fuel Economy ~ Automatic Transmission Type ~ 4 Gear Number ~ 2.85 First Gear Ratio ~ 1.55 Second Gear Ratio ~ 1.0 Third Gear Ratio ~ 0.7 Fourth Gear Ratio ~ 2.34 Reverse Gear Ratio",
+    "listPrice": "$10,500"
+  }
+]

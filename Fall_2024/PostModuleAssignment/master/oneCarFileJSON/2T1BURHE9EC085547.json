@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE9EC085547",
+    "trueCarID": "VT44977",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE9EC085547/2014-toyota-corolla/",
+    "listingDateDiff": "30 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "38,963",
+    "interiorColor": "Gray",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Victor, NY",
+    "mileageRating": "29 cty / 37 hwy",
+    "monthlyPayment": "$290/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Auto Off Projector Beam Led Low Beam Daytime Running Headlamps w/Delay-Off ~ Black Grille w/Chrome Surround ~ Black Side Windows Trim ~ Body-Colored Door Handles ~ Body-Colored Front Bumper ~ Body-Colored Power Heated Side Mirrors w/Manual Folding and Turn Signal Indicator",
+    "listPrice": "$17,499"
+  }
+]

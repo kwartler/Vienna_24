@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE7KC140492",
+    "trueCarID": "KC140492",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE7KC140492/2019-toyota-corolla/",
+    "listingDateDiff": "14 days ago",
+    "vehicleHistUseType": "Mixed Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "60,979",
+    "interiorColor": "Black",
+    "exteriorColor": "Silver",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 2 owners",
+    "location": "Hillside, NJ",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$263/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$1,030 ",
+    "priceClassDiffAmt": "(6.5%) ",
+    "priceClassification": "Excellent Price",
+    "allFeatures": "1 12V DC Power Outlet ~ 13.2 Gal. Fuel Tank ~ 390CCA Maintenance-Free Battery w/Run Down Protection ~ 60-40 Folding Bench Front Facing Fold Forward Seatback Rear Seat ~ 80 Amp Alternator ~ Air Filtration ~ Airbag Occupancy Sensor ~ Analog Appearance ~ Automatic Equalizer ~ Back-Up Camera ~ Black Grille ~ Black Side Windows Trim ~ Body-Colored Door Handles ~ Body-Colored Front Bumper ~ Body-Colored Rear Bumper ~ Cargo Space Lights ~ Carpet Floor Trim and Carpet Trunk Lid/Rear Cargo Door Trim ~ Clearcoat Paint",
+    "listPrice": "$15,900"
+  }
+]

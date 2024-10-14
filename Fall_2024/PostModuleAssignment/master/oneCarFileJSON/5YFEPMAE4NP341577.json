@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE4NP341577",
+    "trueCarID": null,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE4NP341577/2022-toyota-corolla/",
+    "listingDateDiff": "63 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "6,650",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Black Sand Pearl",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "Temple Hills, MD",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$378/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$80 ",
+    "priceClassDiffAmt": "(0.3%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "4-Cyl 1.8 Liter ~ Automatic CVTi-S ~ ABS (4-Wheel) ~ AM/FM Stereo ~ Air Bags (Side): Front ~ Air Bags: Dual Front ~ Air Bags: F&R Head Curtain ~ Air Bags: Knee ~ Air Conditioning ~ Auto Climate Control ~ Auxiliary Audio Input ~ Bluetooth Connection ~ CD/MP3: Single Disc ~ Camera: Backup/Rear View ~ Cruise Control: Dynamic ~ Daytime Running Lights ~ Entune ~ FWD",
+    "listPrice": "$22,801"
+  }
+]

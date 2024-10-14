@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE9KP947080",
+    "trueCarID": "7080C1212",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE9KP947080/2019-toyota-corolla/",
+    "listingDateDiff": "75 days ago",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "102,320",
+    "interiorColor": "Gray",
+    "exteriorColor": "Black**Serviced And Backed By Warranty**",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Fairfax, VA",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$231/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "1 12V DC Power Outlet ~ 13.2 Gal. Fuel Tank ~ 390CCA Maintenance-Free Battery w/Run Down Protection ~ 60-40 Folding Bench Front Facing Fold Forward Seatback Rear Seat ~ 80 Amp Alternator ~ Air Filtration ~ Airbag Occupancy Sensor ~ Analog Appearance ~ Automatic Equalizer ~ Back-Up Camera ~ Black Grille ~ Black Side Windows Trim ~ Body-colored door handles ~ Body-Colored Front Bumper ~ Body-Colored Rear Bumper ~ Cargo Space Lights ~ Carpet Floor Trim and Carpet Trunk Lid/Rear Cargo Door Trim ~ Clearcoat Paint",
+    "listPrice": "$13,965"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBU4EE7DP201091",
+    "trueCarID": 201091,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBU4EE7DP201091/2013-toyota-corolla/",
+    "listingDateDiff": "48 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Salvage",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "64,539",
+    "interiorColor": "Beige",
+    "exteriorColor": "Red",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Phoenix, AZ",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$166/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$279 ",
+    "priceClassDiffAmt": "(2.8%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "ABS Brakes ~ Air Conditioning ~ Alloy Wheels ~ AM/FM Radio ~ CD Player ~ Child Safety Door Locks ~ Cruise Control ~ Daytime Running Lights ~ Driver Airbag ~ Electronic Brake Assistance ~ Fog Lights ~ Front Air Dam ~ Front Side Airbag ~ Heated Exterior Mirror ~ Interval Wipers ~ Keyless Entry ~ Passenger Airbag ~ Power Adjustable Exterior Mirror",
+    "listPrice": "$9,990"
+  }
+]

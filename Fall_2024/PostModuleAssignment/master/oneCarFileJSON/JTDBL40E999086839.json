@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDBL40E999086839",
+    "trueCarID": "2567F",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDBL40E999086839/2009-toyota-corolla/",
+    "listingDateDiff": "20 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "84,404",
+    "interiorColor": "Gray",
+    "exteriorColor": "Red",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "New Bedford, MA",
+    "mileageRating": "27 cty / 35 hwy",
+    "monthlyPayment": "$190/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$418 ",
+    "priceClassDiffAmt": "(3.6%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "(2) 12V auxiliary pwr outlets ~ (4) cup holders ~ 1.8L DOHC SFI 16-valve VVT-i 4-cyl engine ~ 4-wheel anti-lock brakes w/brake assist & electronic brake force distribution ~ 60/40-split folding rear seats ~ Air conditioning w/air filtration ~ ALR/ELR 3-point front & rear seatbelts w/front adjustable shoulder belt anchors- pretensioners- force limiters ~ Anti-theft system with engine immobilizer ~ Blackout sport grille ~ Child protector rear door locks ~ Child restraint system w/LATCH anchors ~ Color-keyed door handles ~ Digital clock ~ Direct tire pressure monitor ~ Driver seat height adjustment ~ Dual front airbags -inc: occupant sensor ~ Dual glove compartments ~ Dual vanity mirrors",
+    "listPrice": "$11,490"
+  }
+]

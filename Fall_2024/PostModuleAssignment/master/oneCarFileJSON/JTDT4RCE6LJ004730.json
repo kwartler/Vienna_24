@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDT4RCE6LJ004730",
+    "trueCarID": "K9709A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDT4RCE6LJ004730/2020-toyota-corolla/",
+    "listingDateDiff": "31 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "40,580",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Sarasota, FL",
+    "mileageRating": "31 cty / 38 hwy",
+    "monthlyPayment": "$394/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$368 ",
+    "priceClassDiffAmt": "(1.5%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "ABS ~ Brake Assist ~ Aluminum Wheels ~ Sun/Moonroof ~ Generic Sun/Moonroof ~ Heated Mirrors ~ Power Mirror(s) ~ Integrated Turn Signal Mirrors ~ Rear Defrost ~ Intermittent Wipers ~ Rear Spoiler ~ Daytime Running Lights ~ Automatic Headlights ~ LED Headlights ~ Automatic Highbeams ~ Satellite Radio ~ MP3 Player ~ Bluetooth Connection",
+    "listPrice": "$23,795"
+  }
+]

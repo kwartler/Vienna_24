@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFEPMAE4MP171820",
+    "trueCarID": null,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFEPMAE4MP171820/2021-toyota-corolla/",
+    "listingDateDiff": "118 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Salvage",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "17,000",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "2 accidents, 1 owner",
+    "location": "Omaha, NE",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$314/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$892 ",
+    "priceClassDiffAmt": "(4.7%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Door Handle Color - Body-Color ~  Front Bumper Color - Body-Color ~  Grille Color - Black ~  Mirror Color - Body-Color ~  Rear Bumper Color - Body-Color ~  Window Trim - Black ~  Air Filtration ~  Armrests - Rear Center With Cupholders ~  Armrests - Rear Folding ~  Floor Material - Carpet ~  Front Air Conditioning - Automatic Climate Control ~  Front Air Conditioning Zones - Single ~  Interior Accents - Chrome ~  Interior Accents - Metallic-Tone ~  Shift Knob Trim - Urethane ~  Steering Wheel Trim - Urethane ~  Adaptive Cruise Control ~  Adaptive Stop And Go Cruise Control - Semi-Automatic",
+    "listPrice": "$18,950"
+  }
+]

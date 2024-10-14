@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE8EC223059",
+    "trueCarID": "LB041829A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE8EC223059/2014-toyota-corolla/",
+    "listingDateDiff": "120 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 4,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "83,022",
+    "interiorColor": "Unknown",
+    "exteriorColor": "Unknown",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 4 owners",
+    "location": "Roswell, GA",
+    "mileageRating": "29 cty / 38 hwy",
+    "monthlyPayment": "$232/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$197 ",
+    "priceClassDiffAmt": "(1.4%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "16'' x 6.5'' Steel Wheels ~ Front Bucket Seats ~ Fabric Seat Trim ~ Radio: AM/FM/CD Player w/6.1'' Touch Screen ~ 6 Speakers ~ Air Conditioning ~ Electronic Stability Control ~ Tachometer ~ ABS brakes ~ AM/FM radio ~ Automatic temperature control ~ Brake assist ~ Bumpers: body-color ~ CD player ~ Delay-off headlights ~ Driver door bin ~ Driver vanity mirror ~ Dual front impact airbags",
+    "listPrice": "$13,999"
+  }
+]

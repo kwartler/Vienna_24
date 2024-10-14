@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE3KP888897",
+    "trueCarID": 104456,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE3KP888897/2019-toyota-corolla/",
+    "listingDateDiff": "7 days ago",
+    "vehicleHistUseType": "Mixed Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "61,348",
+    "interiorColor": "Black",
+    "exteriorColor": "Slate Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Phoenix, AZ",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$331/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$402 ",
+    "priceClassDiffAmt": "(2%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Toyota Safety Sense P forward collision mitigation ~ Pre-Collision System with Pedestrian Detection ~ Rear mounted camera ~ Lane Departure Alert (LDA) w/Steering Assist ~ Dynamic Radar Cruise Control (DRCC) ~ Brake assist system ~ Cruise control with steering wheel mounted controls ~ Primary monitor touchscreen ~ 1.8L I-4 DOHC ~  VVT-i variable valve control ~  engine with 132HP ~ Vehicle Sway Warning driver attention alert ~ Bluetooth wireless audio streaming ~ Automatic High Beams (AHB) auto high-beam headlights ~ Immobilizer ~ Bluetooth handsfree wireless device connectivity ~ Entune external memory control ~ Electronic stability control system",
+    "listPrice": "$19,998"
+  }
+]

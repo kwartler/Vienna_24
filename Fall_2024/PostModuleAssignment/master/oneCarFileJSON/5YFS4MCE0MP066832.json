@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFS4MCE0MP066832",
+    "trueCarID": 66832,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFS4MCE0MP066832/2021-toyota-corolla/",
+    "listingDateDiff": "Premium Wheels",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "55,282",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 2 owners",
+    "location": "Sicklerville, NJ",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$348/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$613 ",
+    "priceClassDiffAmt": "(2.9%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "4-Wheel Disc Brakes ~ 6 Speakers ~ ABS (4-wheel) ~ ABS brakes ~ AM/FM radio: SiriusXM ~ Adaptive cruise control ~ Adaptive stop and go cruise control (semi-automatic) ~ Air Conditioning ~ Air filtration ~ Airbag deactivation (occupant sensing passenger) ~ Alloy wheels ~ Antenna type (diversity) ~ Antenna type (mast) ~ Anti-theft system (vehicle immobilizer) ~ Apple CarPlay/Android Auto ~ Armrests (rear center with cupholders) ~ Armrests (rear folding) ~ Assist handle (front)",
+    "listPrice": "$20,999"
+  }
+]

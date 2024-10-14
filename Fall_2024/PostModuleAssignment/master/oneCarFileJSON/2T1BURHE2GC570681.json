@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE2GC570681",
+    "trueCarID": "N00882A",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE2GC570681/2016-toyota-corolla/",
+    "listingDateDiff": "10 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "100,894",
+    "interiorColor": "Black",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 3 owners",
+    "location": "Easley, SC",
+    "mileageRating": "29 cty / 37 hwy",
+    "monthlyPayment": "$243/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$365 ",
+    "priceClassDiffAmt": "(2.5%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Back-Up Camera ~ iPod/MP3 Input ~ Bluetooth® ~ CD Player ~ MP3 Player ~ Rear Spoiler ~ Remote Trunk Release ~ Steering Wheel Controls ~ Child Safety Locks ~ Electronic Stability Control ~ Heated Mirrors ~ Bucket Seats ~ Brake Assist ~ 4-Wheel ABS ~ Climate Control ~ 4-Wheel Disc Brakes ~ Tire Pressure Monitoring System ~ Vehicle Anti-Theft System",
+    "listPrice": "$14,685"
+  }
+]

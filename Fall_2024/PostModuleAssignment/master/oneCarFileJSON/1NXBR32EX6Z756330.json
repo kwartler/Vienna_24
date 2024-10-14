@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "1NXBR32EX6Z756330",
+    "trueCarID": null,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/1NXBR32EX6Z756330/2006-toyota-corolla/",
+    "listingDateDiff": "105 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Salvage",
+    "vehicleHistNumOwners": 3,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "82,024",
+    "interiorColor": "Gray",
+    "exteriorColor": "Gray",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Citrus Heights, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$116/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$95 ",
+    "priceClassDiffAmt": "(1.4%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "Air Filtration ~  Front Air Conditioning ~  Front Air Conditioning Zones - Single ~  Cargo Area Light ~  Center Console - Front Console With Storage ~  Cupholders ~  Multi-Function Remote - Trunk Release ~  Power Outlet(S) - Front ~  Steering Wheel - Tilt ~  Storage - Door Pockets ~  Front Brake Type - Ventilated Disc ~  Front Struts - Macpherson ~  Rear Brake Type - Drum ~  Rear Suspension Type - Torsion Beam ~  Front Suspension Classification - Independent ~  Rear Stabilizer Bar ~  Gauge - Tachometer ~  Antenna Type - Element",
+    "listPrice": "$6,995"
+  }
+]

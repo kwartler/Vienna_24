@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE0HC758617",
+    "trueCarID": "HC758617",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE0HC758617/2017-toyota-corolla/",
+    "listingDateDiff": "10 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "41,377",
+    "interiorColor": "Black",
+    "exteriorColor": "Brown",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Norco, CA",
+    "mileageRating": "28 cty / 35 hwy",
+    "monthlyPayment": "$307/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$431 ",
+    "priceClassDiffAmt": "(2.3%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "(W/ Sports Seats & Back Up Camera) ~ 1 12V Dc Power Outlet ~ 13.2 Gal. Fuel Tank ~ 60-40 Folding Bench Front Facing Fold Forward Seatback Rear Seat ~ Convenience: Back-Up Camera ~ Convenience: Cruise Control ~ Day-Night Rearview Mirror ~ Electric Power-Assist Speed-Sensing Steering ~ Pre-Collision System (Pcs) ~ Safety Features: Brake Assist ~ Safety Features: Front Collision Mitigation ~ Safety Features: Lane Departure Warning ~ Safety Features: Lane Keeping Assist ~ Streaming Audio ~ Telephone: Bluetooth Connection ~ Trunk Rear Cargo Access",
+    "listPrice": "$18,499"
+  }
+]

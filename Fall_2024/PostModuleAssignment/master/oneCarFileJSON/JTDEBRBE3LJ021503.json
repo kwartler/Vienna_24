@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEBRBE3LJ021503",
+    "trueCarID": "LJ021503",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEBRBE3LJ021503/2020-toyota-corolla/",
+    "listingDateDiff": "21 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Hybrid",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Hybrid",
+    "mileage": "41,512",
+    "interiorColor": "Black",
+    "exteriorColor": "Blizzard Pearl",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "Fullerton, CA",
+    "mileageRating": "53 cty / 52 hwy",
+    "monthlyPayment": "$396/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "(Toyota Safety Sense ~  8-Airbag Safety System ~  Bluetooth Connectivity) ~ 50 State Emissions ~ All-Weather Floor Liner Package ~ Special Color",
+    "listPrice": "$23,899"
+  }
+]

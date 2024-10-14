@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE5KP864746",
+    "trueCarID": 864746,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE5KP864746/2019-toyota-corolla/",
+    "listingDateDiff": "170 days ago",
+    "vehicleHistUseType": "Rental Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "62,766",
+    "interiorColor": "Black",
+    "exteriorColor": "Blizzard Pearl",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 1 owner",
+    "location": "Waterbury, CT",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$298/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": "At or near ",
+    "priceClassDiffAmt": "avg. list price",
+    "priceClassification": "Fair Price",
+    "allFeatures": "4 Cylinder Engine ~ ABS ~ A/C ~ Adaptive Cruise Control ~ Adjustable Steering Wheel ~ AM/FM Stereo ~ Automatic Headlights ~ Auxiliary Audio Input ~ Back-Up Camera ~ Brake Assist ~ Bucket Seats ~ CD Player ~ Child Safety Locks ~ Temporary Spare Tire ~ Cruise Control ~ Daytime Running Lights ~ Driver Air Bag ~ Driver Illuminated Vanity Mirror",
+    "listPrice": "$17,995"
+  }
+]

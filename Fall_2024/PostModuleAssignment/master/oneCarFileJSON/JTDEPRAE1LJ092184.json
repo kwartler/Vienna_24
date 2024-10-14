@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDEPRAE1LJ092184",
+    "trueCarID": "LJ092184",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDEPRAE1LJ092184/2020-toyota-corolla/",
+    "listingDateDiff": "Adaptive Cruise Control",
+    "vehicleHistUseType": "Frame Damage",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "43,361",
+    "interiorColor": "Black",
+    "exteriorColor": "Blueprint",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 2 owners",
+    "location": "Downey, CA",
+    "mileageRating": "30 cty / 38 hwy",
+    "monthlyPayment": "$321/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$79 ",
+    "priceClassDiffAmt": "(0.4%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "(Remote Keyless Entry & Back-Up Camera) ~ Standard Paint",
+    "listPrice": "$19,399"
+  }
+]

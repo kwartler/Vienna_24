@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFBURHE8HP698697",
+    "trueCarID": 11457,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFBURHE8HP698697/2017-toyota-corolla/",
+    "listingDateDiff": "55 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "39,292",
+    "interiorColor": "Black",
+    "exteriorColor": "Blizzard Pearl",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 2 owners",
+    "location": "Rogers, MN",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$305/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$536 ",
+    "priceClassDiffAmt": "(2.9%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Front Wheel Drive ~ Rear Back Up Camera ~ AM/FM Stereo ~ CD Player ~ Audio Input Jack ~ MP3 Sound System ~ Telephone-Hands-Free Wireless Connection ~ Trip Computer ~ Tilt Wheel ~ Traction Control ~ Brakes-ABS-4 Wheel ~ Tire-Pressure Monitoring System ~ Engine Immobilizer/Vehicle Anti-Theft System ~ Cruise Control ~ Steering Wheel Stereo Controls ~ Intermittent Wipers ~ Headlights-Auto-Off ~ Headlights-Auto-On",
+    "listPrice": "$18,399"
+  }
+]

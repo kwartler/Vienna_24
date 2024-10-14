@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFS4RCE9LP051466",
+    "trueCarID": 23336784,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFS4RCE9LP051466/2020-toyota-corolla/?zipcode=95136",
+    "listingDateDiff": "13 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "36,830",
+    "interiorColor": "Gray",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": "No accidents reported, 1 owner",
+    "location": "San Jose, CA",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$431/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$949 ",
+    "priceClassDiffAmt": "(3.6%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Rear View Camera ~ Navigation System ~ Cruise Control ~ Auxiliary Audio Input ~ Rear Spoiler ~ Alloy Wheels ~ Overhead Airbags ~ Traction Control ~ Side Airbags ~ Air Conditioning ~ ABS Brakes ~ Power Locks ~ Power Mirrors ~ AM/FM Stereo ~ Rear Defroster ~ Power Windows ~ Cloth Seats ~ Automatic Transmission",
+    "listPrice": "$25,998"
+  }
+]

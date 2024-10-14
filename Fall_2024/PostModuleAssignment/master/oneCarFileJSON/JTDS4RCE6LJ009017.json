@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "JTDS4RCE6LJ009017",
+    "trueCarID": "LJ009017",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/JTDS4RCE6LJ009017/2020-toyota-corolla/",
+    "listingDateDiff": "15 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 0,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "10,395",
+    "interiorColor": "Black",
+    "exteriorColor": "Silver/Gray",
+    "style": "Sedan",
+    "accidentOwnership": 0,
+    "location": "Lewisville, TX",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$397/mo",
+    "priceClassDiffDirection": null,
+    "priceClassDiffPct": null,
+    "priceClassDiffAmt": null,
+    "priceClassification": "Fair Price",
+    "allFeatures": "Lane Keeping Assist ~ Bluetooth Connection ~ Rear Spoiler ~ Black ~  Premium Fabric Seat Trim -Inc: Sport Fabric Inserts ~ 50 State Emissions",
+    "listPrice": "$23,985"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "5YFS4RCE3LP052290",
+    "trueCarID": "S052290",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/5YFS4RCE3LP052290/2020-toyota-corolla/",
+    "listingDateDiff": "2 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Salvage",
+    "vehicleHistNumOwners": 1,
+    "vehicleHistAccidents": 2,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "2.0L Inline-4 Gas",
+    "mileage": "34,497",
+    "interiorColor": "Black",
+    "exteriorColor": "Super White",
+    "style": "Sedan",
+    "accidentOwnership": 2,
+    "location": "Virginia Beach, VA",
+    "mileageRating": "31 cty / 40 hwy",
+    "monthlyPayment": "$396/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$2,419 ",
+    "priceClassDiffAmt": "(10.1%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "4-Cyl 2.0 Liter ~ Automatic CVT w/Dynamic Shift ~ FWD ~ Hill Start Assist Control ~ Traction Control ~ Stability Control ~ Vehicle Dynamic Control ~ ABS (4-Wheel) ~ Keyless Entry ~ Air Conditioning ~ Power Windows ~ Power Door Locks ~ Dynamic Cruise Control ~ Power Steering ~ Tilt & Telescoping Wheel ~ AM/FM Stereo ~ Bluetooth Wireless ~ Entune",
+    "listPrice": "$23,900"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BU4EE6AC328281",
+    "trueCarID": "HP10518",
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BU4EE6AC328281/2010-toyota-corolla/",
+    "listingDateDiff": "1 day ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 5,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "78,527",
+    "interiorColor": "Ash",
+    "exteriorColor": "Classic Silver Metallic",
+    "style": "Sedan",
+    "accidentOwnership": 5,
+    "location": "Alexandria, VA",
+    "mileageRating": "26 cty / 34 hwy",
+    "monthlyPayment": "$179/mo",
+    "priceClassDiffDirection": "below",
+    "priceClassDiffPct": "$140 ",
+    "priceClassDiffAmt": "(1.3%) ",
+    "priceClassification": "Great Price",
+    "allFeatures": "4 Speakers ~ AM/FM radio ~ AM/FM Stereo w/CD/MP3 & 4 Speakers ~ CD player ~ MP3 decoder ~ Air Conditioning ~ Rear window defroster ~ Power steering ~ Power windows ~ Speed-sensing steering ~ Traction control ~ ABS brakes ~ Anti-whiplash front head restraints ~ Dual front impact airbags ~ Dual front side impact airbags ~ Front anti-roll bar ~ Front wheel independent suspension ~ Low tire pressure warning",
+    "listPrice": "$10,794"
+  }
+]

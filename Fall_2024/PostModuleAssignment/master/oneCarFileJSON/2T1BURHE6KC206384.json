@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE6KC206384",
+    "trueCarID": 3662,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE6KC206384/2019-toyota-corolla/",
+    "listingDateDiff": "19 days ago",
+    "vehicleHistUseType": "Personal Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "56,950",
+    "interiorColor": "Gray",
+    "exteriorColor": "Blue",
+    "style": "Sedan",
+    "accidentOwnership": 1,
+    "location": "Pinellas Park, FL",
+    "mileageRating": "28 cty / 36 hwy",
+    "monthlyPayment": "$298/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$79 ",
+    "priceClassDiffAmt": "(0.4%) ",
+    "priceClassification": "Fair Price",
+    "allFeatures": "Pollen Sensor AIR Conditioning ~ Controls ~  Voice-Activated Audio ~ Digital Media Auxiliary Jack Audio ~ Ipod Adapter Audio ~ Entune Audio - Brand ~ CD Audio - CD/MP3 ~ MP3 Audio - CD/MP3 ~ WMA Playback Audio - CD/MP3 ~ AM/FM Audio - Radio ~ 6 Audio - Speakers ~ USB Port Capabilities/Wiring ~ Digital Clock ~ Bluetooth ~  Hands-Free Phone Communication ~ Wireless Communication ~ Center Consoles ~ Storage Consoles",
+    "listPrice": "$17,990"
+  }
+]

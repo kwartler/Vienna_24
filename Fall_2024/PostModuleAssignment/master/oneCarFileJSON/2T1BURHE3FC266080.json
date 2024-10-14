@@ -1,0 +1,31 @@
+[
+  {
+    "carVIN": "2T1BURHE3FC266080",
+    "trueCarID": 2010,
+    "scrapeDate": "2023-02-24",
+    "scrapeURL": "https://www.truecar.com//used-cars-for-sale/listing/2T1BURHE3FC266080/2015-toyota-corolla/",
+    "listingDateDiff": "110 days ago",
+    "vehicleHistUseType": "Fleet Use",
+    "vehicleHistTitleStatus": "Clean",
+    "vehicleHistNumOwners": 2,
+    "vehicleHistAccidents": 1,
+    "transmissionType": "Automatic",
+    "fuelType": "Gas",
+    "driveType": "FWD",
+    "engineInfo": "1.8L Inline-4 Gas",
+    "mileage": "131,000",
+    "interiorColor": "Gray",
+    "exteriorColor": "Black",
+    "style": "Sedan",
+    "accidentOwnership": "1 accident, 2 owners",
+    "location": "Manassas, VA",
+    "mileageRating": "29 cty / 37 hwy",
+    "monthlyPayment": "$207/mo",
+    "priceClassDiffDirection": "above",
+    "priceClassDiffPct": "$301 ",
+    "priceClassDiffAmt": "(2.4%) ",
+    "priceClassification": "High Price",
+    "allFeatures": "Door Handle Color - Body-Color ~  Exhaust Tip Color - Chrome ~  Front Bumper Color - Body-Color ~  Grille Color - Black ~  Grille Color - Chrome Surround ~  Mirror Color - Body-Color ~  Rear Bumper Color - Body-Color ~  Rear Spoiler ~  Rear Spoiler Color - Body-Color ~  Window Trim - Black ~  Air Filtration ~  Armrests - Rear Center With Cupholders ~  Front Air Conditioning - Automatic Climate Control ~  Front Air Conditioning Zones - Single ~  Interior Accents - Color Keyed ~  Interior Accents - Metallic-Tone ~  Steering Wheel Trim - Leather ~  Assist Handle - Front",
+    "listPrice": "$12,490"
+  }
+]
