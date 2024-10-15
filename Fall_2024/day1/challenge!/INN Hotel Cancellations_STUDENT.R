@@ -97,33 +97,4 @@ Accuracy(y_pred = ________, y_true = trainingPredDF$_______)
 
 ### Now redo using the validation set and compare.  Look for consistency between training and validation AND select the most accurate.
 
-
-################# Not really part of the lesson!! ###################
-### For those that are interested here is a quick way to get a web form of the logistic model
-# Get custom function
-devtools::source_url('https://raw.githubusercontent.com/kwartler/Harvard_DataMining_Business_Student/master/Lessons/F_Tree_RF/A_logisticRegression_catchUP/ZZ_betaForms/beta_renderLogisticForm_with_aesthetics.R')
-
-# Get the coefficients and betas
-# Organize the df object
-varType <- ifelse(grepl('lev_x', names(coefficients(logFit))), 'dummy',
-                  ifelse(grepl('\\(Intercept\\)', names(coefficients(logFit))), 'intercept', 'numeric'))
-df <- data.frame(x    = names(logFit$coefficients),
-                 beta = logFit$coefficients,
-                 type = varType,
-                 stringsAsFactors = F, 
-                 row.names = NULL)
-df
-
-# Create the form & save it; be sure to change the path to your personal file folder
-renderLogisticForm(df, 
-                   backgroundColor       = 'grey', 
-                   fontColor             = 'white', 
-                   submitButtonColor     = 'blue', 
-                   submitButtonFontColor = 'orange', 
-                   font                  = 'arial', 
-                   fileName = '~/Desktop/Harvard_DataMining_Business_Student/personalFiles/challengeLogistic.html')
-
-# You can test this form by having 4 adults, in the year 2020 with 2 special requests.  It should give you a non 0/1 probability.
-
-
 # End
