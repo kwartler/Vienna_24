@@ -9,6 +9,9 @@ library(ggplot2)
 library(ggthemes)
 options(scipen = 999)
 
+# WD
+setwd("~/Desktop/Vienna_24/personalFiles")
+
 # Read in the data
 donors<- read.csv('https://raw.githubusercontent.com/kwartler/Harvard_DataMining_Business_Student/master/Lessons/D_DM_Workflow/data/fakeDonorBureau_v2.csv')
 

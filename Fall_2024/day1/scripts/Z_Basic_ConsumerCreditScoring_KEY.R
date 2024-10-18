@@ -4,7 +4,7 @@
 #' 
 
 # WD
-setwd("~/Desktop/Harvard_DataMining_Business_Student/personalFiles")
+setwd("~/Desktop/Vienna_24/personalFiles")
 
 # Options
 options(scipen = 999)
