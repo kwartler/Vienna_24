@@ -13,7 +13,7 @@ options(scipen = 999)
 setwd("~/Desktop/Vienna_24/personalFiles")
 
 # Read in the data
-donors<- read.csv('https://raw.githubusercontent.com/kwartler/Harvard_DataMining_Business_Student/master/Lessons/D_DM_Workflow/data/fakeDonorBureau_v2.csv')
+donors<- read.csv('https://raw.githubusercontent.com/kwartler/Vienna_24/refs/heads/main/Fall_2024/day1/data/fakeDonorBureau_v2.csv')
 
 # Examine; Here you would perform EDA
 summary(donors)
@@ -80,7 +80,7 @@ rm(list=ls())
 donors <- read.csv('https://raw.githubusercontent.com/kwartler/Harvard_DataMining_Business_Student/master/Lessons/D_DM_Workflow/data/fakeDonorBureau_v2.csv')
 
 # Fictitious Data Enrichment
-thirdPartyData <- read.csv('https://raw.githubusercontent.com/kwartler/Harvard_DataMining_Business_Student/master/Lessons/D_DM_Workflow/data/fakeDataEnrichment.csv')
+thirdPartyData <- read.csv('https://raw.githubusercontent.com/kwartler/Vienna_24/refs/heads/main/Fall_2024/day1/data/fakeDataEnrichment.csv')
 
 # Examine
 head(thirdPartyData)

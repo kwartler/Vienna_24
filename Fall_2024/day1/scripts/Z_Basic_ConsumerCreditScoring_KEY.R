@@ -21,12 +21,13 @@ library(vtreat)
 library(MLmetrics)
 library(ggplot2)
 library(ggthemes)
+library(echarts4r)
 
 # Read in the data 20K_sampleLoans.csv
-df <- read.csv('https://raw.githubusercontent.com/kwartler/Harvard_DataMining_Business_Student/master/Lessons/I_CreditModeling/data/20K_sampleLoans.csv') 
+df <- read.csv('https://github.com/kwartler/Vienna_24/raw/refs/heads/main/Fall_2024/day1/data/20K_sampleLoans.csv') 
 
 # Read in the new notes for possible investment OpenNotesJune18_v2.csv
-newNotes <- read.csv('https://raw.githubusercontent.com/kwartler/Harvard_DataMining_Business_Student/master/Lessons/I_CreditModeling/data/OpenNotesJune18_v2.csv')
+newNotes <- read.csv('https://raw.githubusercontent.com/kwartler/Vienna_24/refs/heads/main/Fall_2024/day1/data/OpenNotesJune18_v2.csv')
 
 # Keep the pertinent information; you *could* explore other variables but for now these are good enough
 keeps <- c("loan_amnt", "term", "int_rate", "installment", "grade", "sub_grade", "emp_length" , "home_ownership", "annual_inc", "purpose", "title", "zip_code", "addr_state", "dti", "delinq_2yrs", "pub_rec_bankruptcies", "inq_last_6mths", "mths_since_last_delinq", "mths_since_last_record", "open_acc", "pub_rec", "revol_bal", "revol_util", "total_acc", "collections_12_mths_ex_med","y")

@@ -13,13 +13,12 @@ options(scipen=999)
 ## Load the libraries
 library(MLmetrics)
 library(caret)
-library(rpart.plot) 
 library(randomForest)
 library(vtreat)
 library(ranger)
 
 ## Bring in some data
-dat <- read.csv('https://raw.githubusercontent.com/kwartler/Harvard_DataMining_Business_Student/master/Lessons/F_Tree_RF/data/bank-downSampled.csv')
+dat <- read.csv('https://raw.githubusercontent.com/kwartler/Vienna_24/refs/heads/main/Fall_2024/day1/data/bank-downSampled.csv')
 
 # EDA
 names(dat)
