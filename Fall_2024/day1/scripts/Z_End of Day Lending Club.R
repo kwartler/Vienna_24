@@ -23,7 +23,7 @@ investmentOpportunities <- read.csv('https://raw.githubusercontent.com/kwartler/
 
 #### Assess
 
-#### 
+#### Apply
 
 
 
