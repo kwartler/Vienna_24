@@ -1,6 +1,6 @@
 Advanced Note:
 
-This file has been perturbed to include NA and outliers for numeric and factor columns.  However as this was done through a function [not manually] some issues may have been created unintentionally.  As a backup for the assignment, you are also free to use the original data set and apply the advanced assignment requirements.
+This file has been perturbed to include NA and outliers for numeric and factor columns.  However as this was done through a function [not manually] some issues may have been created unintentionally.  As a backup for the assignment, you are also free to use the original data set in the basic track and apply the advanced assignment requirements.
 
 Perturbed:
 https://raw.githubusercontent.com/kwartler/Vienna_24/refs/heads/main/Fall_2024/PostModuleAssignment/advanced/newCar_w_outliers_more_NA.csv
