@@ -45,7 +45,7 @@ dem_parity(data = ___,
            group = '___',
            probs = '___', base = '___')
 
-# Hint- if you're using classification outcomes you have to switch Admitted to 1 & 'Not Admitted' =0
+# Hint- if you're using classification outcomes you have to switch Admitted to 1 & 'Not Admitted' =0 for the original data and the classification outcome levels
 dem_parity(data = ___, 
            outcome = '___', 
            group = '___',
