@@ -1,30 +1,12 @@
 To Do:
-1. Use LLM to parse unstructured data
-2. API scrape of adidas data 
-3. Write R functions
-4. flexdashboard to git pages
-5. Add required reading to syllabus
-
-
-Day 1:
-8-9 review and git clone/pull
-9-10 decision tree
-10-11 rf
-11-12 challenge code step through; hotel challenge
-12-1 lunch
-1-3 investing activity: MTG
-3-4 group case work: Lending Club Case
+1. Use LLM to parse unstructured data -done
+2. API scrape of adidas data - curl convertor - done
+3. Write R functions lesson => not covered?
+4. flexdashboard to git pages lesson - not covered?
 
 Day 2:
-8-9 - Resume Scanning ethics lecture
-9-10 - Groups make a resume scanning tool
-10-11 - APIs for data collection & scrubbing
-11-12 - groups to scrape adidas endpoints for a search term (backup have json files)
+10-11 - APIs for data collection & scrubbing = done
+11-12 - groups to scrape adidas endpoints for a search term (backup have json files) - done
 12-1 lunch
 1-2 echarts 4 r and RMD/flexdashboard to html to gitpages
 2-4 groups use collected data for EDA to pages, make a model on the collected data...what to predict?! 
-
-
-Post Seminar Assignment: NEW CAR DATA set
-desktop/DataMiningCases/carupdate
-Cars prediction prices - change files to json and then also remove some leakage but leave some messy data fields that aren't needed

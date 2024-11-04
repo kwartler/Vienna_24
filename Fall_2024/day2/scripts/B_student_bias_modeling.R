@@ -36,7 +36,7 @@ appendSyntheticGender <- function(df) {
 # Now you can start your modeling workflow
 syntheticBias <- appendSyntheticGender(admissions)
 
-#### SEMMA SECTION
+#### SEMMA SECTION - students to add
 
 #### DEMOGRAPHIC PARITY REVIEW
 # Hint- if you're comparing probability column predictions you need to used probs= within dem_parity
@@ -45,7 +45,7 @@ dem_parity(data = ___,
            group = '___',
            probs = '___', base = '___')
 
-# Hint- if you're using classification outcomes you have to switch Admitted to 1 & 'Not Admitted' =0 for the original data and the classification outcome levels
+# Hint- if you're using classification outcomes you have to switch `Admitted` to 1 & 'Not Admitted' =0 for the original data and the classification outcome levels
 dem_parity(data = ___, 
            outcome = '___', 
            group = '___',
