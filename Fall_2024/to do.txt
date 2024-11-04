@@ -1,12 +1,4 @@
 To Do:
-1. Use LLM to parse unstructured data -done
-2. API scrape of adidas data - curl convertor - done
-3. Write R functions lesson => not covered?
-4. flexdashboard to git pages lesson - not covered?
-
-Day 2:
-10-11 - APIs for data collection & scrubbing = done
-11-12 - groups to scrape adidas endpoints for a search term (backup have json files) - done
-12-1 lunch
-1-2 echarts 4 r and RMD/flexdashboard to html to gitpages
-2-4 groups use collected data for EDA to pages, make a model on the collected data...what to predict?! 
+1. Write R functions lesson => not covered?
+2. flexdashboard to git pages lesson - not covered?
+3. hands on coding challenge to start the day

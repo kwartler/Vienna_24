@@ -1,0 +1,56 @@
+---
+title: "Untitled"
+author: "Ted Kwartler"
+date: "2024-11-04"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# libraries
+library(ggplot2)
+library(ggthemes)
+library(echarts4r)
+library(DT)
+
+diabetesData <- read.csv('https://raw.githubusercontent.com/kwartler/Vienna_24/refs/heads/main/Fall_2024/day2/data/100_diabetes_no_null_text.csv')
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r ggplot}
+ggplot(diabetesData, aes(x = num_lab_procedures, y = time_in_hospital)) + 
+  geom_point(color = 'darkred') +
+  theme_gdocs() + ggtitle('Lab Procedures to Time in Hospital')
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r echart, echo=FALSE}
+diabetesData |> 
+  e_charts(num_lab_procedures) |>
+  e_scatter(time_in_hospital, symbol_size = 5, legend = F) |>
+  e_toolbox_feature()|>
+  e_zoom() |>
+  e_theme('bee-inspired') |> #more than 12 & you can make custom 
+  e_tooltip()
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+```{r dataTable, echo=F}
+# not to be confused with data.table this is javascript's data table library is called DT
+datatable(diabetesData,
+          options = list(
+    lengthMenu = c(5, 10, 25, 50),  # Display 5, 10, 25 or 50 rows
+    pageLength = 10,  # Default rows per page
+    paginate = TRUE  # Enable pagination
+  ))
+
+```

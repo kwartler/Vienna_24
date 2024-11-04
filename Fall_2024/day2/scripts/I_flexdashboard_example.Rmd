@@ -1,0 +1,80 @@
+---
+output:
+  flexdashboard::flex_dashboard:
+    vertical_layout: scroll
+    theme: 
+      version: 4
+      bootswatch: minty
+---
+    
+Page 1
+=====================================
+
+### Chart 1
+    
+```{r setup}
+# libraries
+library(ggplot2)
+library(ggthemes)
+library(echarts4r)
+library(DT)
+
+# Load some example data
+diabetesData <- read.csv('https://raw.githubusercontent.com/kwartler/Vienna_24/refs/heads/main/Fall_2024/day2/data/100_diabetes_no_null_text.csv')
+
+diabetesData |> 
+  e_charts(num_lab_procedures) |>
+  e_scatter(time_in_hospital, symbol_size = 5, legend = F) |>
+  e_toolbox_feature()|>
+  e_zoom() |>
+  e_theme('bee-inspired') |> #more than 12 & you can make custom 
+  e_tooltip()
+```
+    
+### small table
+
+```{r table small}
+knitr::kable(table(diabetesData$race))
+```
+
+### Table
+
+```{r big table}
+datatable(diabetesData[,1:5],
+          options = list(
+    lengthMenu = c(5, 10, 25, 50),  # Display 5, 10, 25 or 50 rows
+    pageLength = 10,  # Default rows per page
+    paginate = TRUE  # Enable pagination
+  ))
+```
+
+Page 2
+=====================================
+
+### Chart 1
+    
+```{r setup pg2}
+data(mtcars)
+plot(mtcars$wt, mtcars$drat)
+```
+    
+### Chart 2
+
+```{r diamond ggplot}
+data("diamonds")
+ggplot(diamonds, aes(x=carat, y=price)) + 
+  geom_point(alpha = 0.25) + 
+  geom_smooth() +
+  theme_gdocs()
+```
+
+### Chart 3
+
+```{r diamond}
+data("diamonds")
+ggplot(diamonds, aes(x=table, y=price)) + 
+  geom_point(alpha = 0.1) + 
+  geom_smooth() +
+  theme_gdocs() + 
+  facet_wrap(color~.)
+```
