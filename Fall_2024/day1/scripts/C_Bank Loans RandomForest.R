@@ -42,7 +42,7 @@ plan <- designTreatmentsC(prepData,
                           targetVar,'yes')
 
 # Partition to avoid overfitting
-set.seed(1234)
+set.seed(2024)
 idx        <- sample(1:nrow(nonPrepData),.8*nrow(nonPrepData))
 train      <- nonPrepData[idx,]
 validation <- nonPrepData[-idx,]
