@@ -77,7 +77,7 @@ plot(varImp(downSampleFit), top = 20)
 moreVoters <- randomForest(as.factor(Class) ~ .,
                            data  = treatedTrain, 
                            ntree = 500,
-                           mtry  = 1)
+                           mtry  = 1) #number of predictor variables
 
 # Confusion Matrix, compare to 3 trees ~63% accuracy
 trainClass <- predict(moreVoters, treatedTrain)

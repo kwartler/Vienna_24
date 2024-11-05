@@ -19,11 +19,11 @@ investmentOpportunities <- read.csv('https://raw.githubusercontent.com/kwartler/
 
 #### Modify - end of day 1
 
-#### Model(s)
+#### Model(s) - end of day 2
 
-#### Assess
+#### Assess - end of day 2
 
-#### Apply
+#### Apply - end of day 2
 
 
 
