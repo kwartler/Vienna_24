@@ -20,6 +20,7 @@ source_url(cardValues)
 
 # Bring in the bloomborrow
 # https://www.mtggoldfish.com/sets/Bloomburrow#online ; table top pricing!
+# https://mtg.dawnglare.com/?p=sets
 # https://mtg.dawnglare.com/?p=beta
 cards <- read.csv('https://raw.githubusercontent.com/kwartler/Vienna_24/refs/heads/main/Fall_2024/day1/data/bloomburrow_11_5_2024.csv')
 
