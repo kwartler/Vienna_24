@@ -11,6 +11,7 @@ library(ggplot2)
 library(ggthemes)
 library(rpart)
 library(randomForest)
+library(MLmetrics)
 
 # Data
 admissions <- read.csv('https://raw.githubusercontent.com/Opensourcefordatascience/Data-sets/refs/heads/master/admission.csv')
@@ -98,26 +99,71 @@ resultsTrain$rfClass <- ifelse(resultsTrain$rfAdmitted>=cutThres,
                                          'Not Admitted')
 
 # Organize this data into a results data frame - test set
-resultsTrain <- data.frame(decisionTreeAdmitted = decisionTreeTrainPredictions[,1],
-                           rfAdmitted = rfTrainPredictions[,1],
-                           actuals = train$admissionStatus)
+resultsTest <- data.frame(decisionTreeAdmitted = decisionTreeTestPredictions[,1],
+                           rfAdmitted = rfTestPredictions[,1],
+                           actuals = test$admissionStatus)
+resultsTest$decisionTreeClass <- ifelse(resultsTest$decisionTreeAdmitted>=cutThres,
+                                         'Admitted',
+                                         'Not Admitted')
+resultsTest$rfClass <- ifelse(resultsTest$rfAdmitted>=cutThres,
+                               'Admitted',
+                               'Not Admitted')
 
 
-# Decision Tree - confusion matrix
-# Decision Tree - accuracy
+# Decision Tree - confusion matrix - train
+table(resultsTrain$decisionTreeClass, resultsTrain$actuals)
+# Decision Tree - confusion matrix - test
+table(resultsTest$decisionTreeClass, resultsTest$actuals)
+
+# Decision Tree - accuracy - train
+Accuracy(y_pred = resultsTrain$decisionTreeClass, 
+         y_true = resultsTrain$actuals)
+
+# Decision Tree - accuracy - test
+Accuracy(y_pred = resultsTest$decisionTreeClass, 
+         y_true = resultsTest$actuals)
+
+# Random Forest - accuracy - train
+Accuracy(y_pred = resultsTrain$rfClass, 
+         y_true = resultsTrain$actuals)
+
+# Random Forest - accuracy - test
+Accuracy(y_pred = resultsTest$rfClass, 
+         y_true = resultsTest$actuals)
+
+# Let's examine the relationship of RF to gender
+# Append the gender column from the training set
+resultsTrain$gender <- train$syntheticGender
+
+# Append the gender column from the training set
+resultsTest$gender <- test$syntheticGender
 
 #### DEMOGRAPHIC PARITY REVIEW
-# Hint- if you're comparing probability column predictions you need to used probs= within dem_parity
-dem_parity(data = ___, 
-           outcome = '___', 
-           group = '___',
-           probs = '___', base = '___')
+# Hint- if you're comparing probability column predictions you need to used probs= within dem_parit
+# Training Dem Partity
+dem_parity(data = resultsTrain, 
+           outcome = 'actuals', 
+           group = 'gender',
+           probs = 'rfAdmitted', base = 'Male')
 
 # Hint- if you're using classification outcomes you have to switch `Admitted` to 1 & 'Not Admitted' =0 for the original data and the classification outcome levels
-dem_parity(data = ___, 
-           outcome = '___', 
-           group = '___',
-           preds = '___', base = '___')
+dem_parity(data = resultsTrain, 
+           outcome = 'actuals', 
+           group = 'gender',
+           preds = 'rfClass', base = 'Male')
+
+dem_parity(data = resultsTest, 
+           outcome = 'actuals', 
+           group = 'gender',
+           probs = 'rfAdmitted', base = 'Male')
+
+### Test Set Dem Parity
+# Hint- if you're using classification outcomes you have to switch `Admitted` to 1 & 'Not Admitted' =0 for the original data and the classification outcome levels
+dem_parity(data = resultsTest, 
+           outcome = 'actuals', 
+           group = 'gender',
+           preds = 'rfClass', base = 'Male')
+
 
 # Please write a comment to interpret the charts
 
