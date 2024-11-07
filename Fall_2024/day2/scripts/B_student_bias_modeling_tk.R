@@ -83,8 +83,25 @@ rfTrainPredictions <- predict(selectionModelRF, train, type = 'prob')
 # rf - out of sample prediction
 rfTestPredictions <- predict(selectionModelRF, test, type = 'prob')
 
-# Organize this data into a results data frame
-resultsTrain <- data.frame()
+# Organize this data into a results data frame - train set
+resultsTrain <- data.frame(decisionTreeAdmitted = decisionTreeTrainPredictions[,1],
+                           rfAdmitted = rfTrainPredictions[,1],
+                           actuals = train$admissionStatus)
+
+# Add my classes based on a cutoff threshold
+cutThres <- 0.5
+resultsTrain$decisionTreeClass <- ifelse(resultsTrain$decisionTreeAdmitted>=cutThres,
+                                         'Admitted',
+                                         'Not Admitted')
+resultsTrain$rfClass <- ifelse(resultsTrain$rfAdmitted>=cutThres,
+                                         'Admitted',
+                                         'Not Admitted')
+
+# Organize this data into a results data frame - test set
+resultsTrain <- data.frame(decisionTreeAdmitted = decisionTreeTrainPredictions[,1],
+                           rfAdmitted = rfTrainPredictions[,1],
+                           actuals = train$admissionStatus)
+
 
 # Decision Tree - confusion matrix
 # Decision Tree - accuracy
